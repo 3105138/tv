@@ -725,67 +725,30 @@ Hot亚洲影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/5841816227
 
 
 🔥4K超高清,#genre#
-
-CCTV4K,http://49.235.110.121:9090/898/peda/bestv.php?id=cctv4k
-CCTV16_4K,http://49.235.110.121:9090/898/peda/bestv.php?id=cctv164k
-CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-欢笑剧场4K,http://49.235.110.121:9090/898/peda/bestv.php?id=hxjc4k
-超高清电影4K,http://angtv.cc/test/sxg1.php?id=emdy4k_8000&Cf.m3u8
-4K影院 20M,http://111.40.196.27:443/0000000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
-华数4K 15M,http://111.40.196.27:443/0000000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
-纯享4K 20M,http://111.40.196.27:443/0000000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-足球联赛16,http://111.40.196.27:443/0000000000001000/3000000010000005180/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000005180
-CCTV8K频道,http://49.235.110.121:9090/898/peda/8k.php
 北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京4K超清,http://webmail.axxe.top:4022/rtp/239.3.1.249:8001
 4K修复,rtmp://liveshowbak2.kan0512.com/norecord/csztv4k_4k
 4K剧场,http://bp-caster.bestv.com.cn/513/1/video.m3u8
 咪咕体育4K,http://api2.52tb.xyz/info?id=164&token=20230218qkyjia
-江苏广电-4K,http://122.97.211.220:8114/FvSeid=59c0f7255fb3c888&Fsv_filetype=1&Fsv_ctype=LIVE&Fsv_cid=11688&Fsv_otype=0&Provider_id=&Pcontent_id=
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken
 4k记录欧洲,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 静态4K测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-欢笑剧场4K,http://wd.shadowzen.xyz/tvphp/cqyx2.php?id=hxjc_4K
-欢笑剧场4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/bestv.php?id=hxjc4k/15000000
-欢笑剧场4K,http://xiaozeng.hk3.345888.xyz.cdn.cloudflare.net/ww/cqyx.php?id=hxjc_4K
-南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Clarity 4K,https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
-4kurd hd,https://epg.pw/stream/0e6ac497dc894c3d3a4c17beaa797e4e21540e7ea91b7bec9546cc1479b814ed.m3u8
 LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Now Sports 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
 ELEVEN SPORTS 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=905665&extension=ts
 咪咕体育4K,http://r.jdshipin.com/ln4xk
 咪咕4K(2),http://api.52tb.xyz/info?id=165&token=20230126icqgot
-Кино UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/5004/index.m3u8
 爱自然Love Nature 4K_1,http://89.248.160.57/iptv/RFPEEUQNURN7MN/5001/index.m3u8
 BOX RELAX 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/19283/index.m3u8
-NASA TV 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/15239/index.m3u8
-TRT 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/4001/index.m3u8
-MyZen TV 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/5002/index.m3u8
-BOX RELAX 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/19283/index.m3u8
 TRT 4K_2,http://89.248.160.57/iptv/Q5MK5AD8A8ZBUA/4001/index.m3u8
 时装Fashion TV 4K,http://89.248.160.57/iptv/RFPEEUQNURN7MN/4005/index.m3u8
-时装Fashion TV 4K,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/4005/index.m3u8
-nsight 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/5000/index.m3u8
 Russian Extreme 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/5003/index.m3u8
-Сериал UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/5005/index.m3u8
 体育SKY SPORT 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6820/index.m3u8
 BCU Ultra 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/11045/index.m3u8
-KNHO 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/11114/index.m3u8
-CEPNAA 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/11115/index.m3u8
 MM Flip UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/13057/index.m3u8
 SKY HIGH NATURE 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/14247/index.m3u8
-BCU Premiere Ultra 4K_5,http://89.248.160.57/iptv/ADYDWLKVER8U7V/15023/index.m3u8
 KNHO 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/11114/index.m3u8
-ULTRA REX 4K_5,http://89.248.160.57/iptv/ADYDWLKVER8U7V/14029/index.m3u8
 SKY HIGH DANCE UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/14250/index.m3u8
-MUSEUMTV 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/14016/index.m3u8
-
-
 
 🔥国际频道,#genre#
 
