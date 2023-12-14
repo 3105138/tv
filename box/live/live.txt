@@ -157,43 +157,43 @@ CGTN英语新闻,http://live.cgtn.com/500/prog_index.m3u8
 
 
 🔥 IPV6专区,#genre#
-CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-CCTV-8K ,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=4
-CCTV-8K ,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV-1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV-2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
-CCTV-3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
-CCTV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
-CCTV-5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
-CCTV-5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-6 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
-CCTV-6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
-CCTV-7 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-CCTV-7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
-CCTV-8 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
-CCTV-8,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
-CCTV-9 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
-CCTV-9,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
-CCTV-10 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-CCTV-10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
-CCTV-11 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-CCTV-11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
-CCTV-12 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-12, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
-CCTV-13 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
-CCTV-13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
-CCTV-14 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-CCTV-14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
-CCTV-15 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-CCTV-15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-CCTV-16 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
-CCTV-16 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-CCTV-16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
-CCTV-16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-CCTV-17 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
-CCTV-17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+CCTV8K ,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=4
+CCTV8K ,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+CCTV2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+CCTV3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
+CCTV4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+CCTV5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV6 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+CCTV6,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+CCTV7 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV7,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+CCTV8 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV8,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+CCTV9 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV9,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+CCTV10 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV10,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+CCTV11 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+CCTV12 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV12, http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV12,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+CCTV13 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+CCTV14 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV14,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+CCTV15 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV15,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+CCTV16 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV16 4K,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+CCTV16,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+CCTV17 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
+CCTV17,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
@@ -202,8 +202,8 @@ CCTV16 ,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m
 CCTV16-4K,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 CCTV8K超高清.2160P,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-CCTV8K ,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
-CCTV8K ,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=4
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=4
 CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -738,7 +738,7 @@ CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
 安徽体育,http://skycw.vicp.net:4022/udp/238.1.79.41:4440
 安徽体育,http://321257.cn:8888/udp/238.1.79.41:4440
-CCTV-5+,http://222.243.28.152:9901/tsfile/live/0016_1.m3u8
+CCTV5+,http://222.243.28.152:9901/tsfile/live/0016_1.m3u8
 山东体育,rtmp://livealone.iqilu.com/iqilu/typdhjOF03kn
 24小时体育,http://111.20.35.103:6610/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=?世界杯WorldCup
 杭州体育,https://hw-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
@@ -1599,37 +1599,6 @@ GRTN文化频道,http://8.217.90.28:9999/触电.php?id=gdwh
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 宿州公共,http://live.ahsz.tv/video/s10001-ggpd/index.m3u8?zanhd
 
-🇨🇳历年春晚,#genre#
-春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
-春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
-春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
-春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
-春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
-春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
-春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 
 HBO系列,#genre#
 HBO,http://208.115.225.174:14136
@@ -2206,537 +2175,538 @@ Han国高分动作片[137],https://epg.112114.xyz/huya/11352884
 周星驰[1],https://epg.112114.xyz/huya/11342412
 
 🎞️轮播·YY,#genre#
-加勒比海盗系列,http://mmitv.top/pltv/yy.php?id=1382749914
-叶问全集,http://mmitv.top/pltv/yy.php?id=1382828771
-憨豆先生,http://mmitv.top/pltv/yy.php?id=1354930189
-【战狼4】吴京老师,http://mmitv.top/pltv/yy.php?id=1354784284
-第一滴血全集,http://mmitv.top/pltv/yy.php?id=1354932355
-小鬼当家,http://mmitv.top/pltv/yy.php?id=1382745104
-碟中谍系列-国外动作大片,http://mmitv.top/pltv/yy.php?id=1354930181
-风筝,http://mmitv.top/pltv/yy.php?id=1382828770
-天龙八部（国语版）,http://mmitv.top/pltv/yy.php?id=1382736855
-上海滩,http://mmitv.top/pltv/yy.php?id=1382745184
-【雪豹】超经典,http://mmitv.top/pltv/yy.php?id=1450496699
-李连杰功夫 经典武侠,http://mmitv.top/pltv/yy.php?id=74613175
-洪金宝福星系列,http://mmitv.top/pltv/yy.php?id=1354924839
-纪晓岚,http://mmitv.top/pltv/yy.php?id=1354143978
-野山鹰-影视剧,http://mmitv.top/pltv/yy.php?id=1354932395
-钟馗传说,http://mmitv.top/pltv/yy.php?id=1382736839
-蔡明春晚小品,http://mmitv.top/pltv/yy.php?id=1354936177
-超喜剧地下交通站男神贾贵,http://mmitv.top/pltv/yy.php?id=1353428972
-弹幕天团 下饭神剧,http://mmitv.top/pltv/yy.php?id=23512910
-封神榜,http://mmitv.top/pltv/yy.php?id=1353426319
-【盜暮笔记】24h,http://mmitv.top/pltv/yy.php?id=1382702247
-【鹿鼎记】金庸经典,http://mmitv.top/pltv/yy.php?id=28265277
-宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
-神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119
-【新三国】蓝光版,http://mmitv.top/pltv/yy.php?id=1382705738
-倚天屠龙记,http://mmitv.top/pltv/yy.php?id=1449856066
-经典港片800部,http://mmitv.top/pltv/yy.php?id=1382800018
-盗慕笔记鬼灯,http://mmitv.top/pltv/yy.php?id=1382765507
-粉红女郎,http://mmitv.top/pltv/yy.php?id=1354888671
-动漫,http://mmitv.top/pltv/yy.php?id=26664495
-速度与激情全集,http://mmitv.top/pltv/yy.php?id=1382749892
-超级吓人鬼片 恐怖片,http://mmitv.top/pltv/yy.php?id=1355641195
-正阳门下,http://mmitv.top/pltv/yy.php?id=1354931580
-电影 古惑仔全集,http://mmitv.top/pltv/yy.php?id=1354507447
-神探狄仁杰2,http://mmitv.top/pltv/yy.php?id=1382828767
-【战狼3吴京】独播,http://mmitv.top/pltv/yy.php?id=37999586
-经典动漫,http://mmitv.top/pltv/yy.php?id=22777075
-二号交通站,http://mmitv.top/pltv/yy.php?id=1382735582
-九品芝麻官包龙星,http://mmitv.top/pltv/yy.php?id=1354930968
-地下交通站,http://mmitv.top/pltv/yy.php?id=1382736795
-燕双鹰专场,http://mmitv.top/pltv/yy.php?id=23026835
-玲宝陪你看,http://mmitv.top/pltv/yy.php?id=1353215589
-鹿鼎记-高清全集,http://mmitv.top/pltv/yy.php?id=1382704650
-港片 喜剧 动作,http://mmitv.top/pltv/yy.php?id=1355480591
-港片电影,http://mmitv.top/pltv/yy.php?id=33897188
-小甜甜 大秧歌,http://mmitv.top/pltv/yy.php?id=1382658790
-燕双鹰,http://mmitv.top/pltv/yy.php?id=1352227153
-新白娘子传奇,http://mmitv.top/pltv/yy.php?id=1354490667
-正阳门下 正在直播,http://mmitv.top/pltv/yy.php?id=1453059740
-武侠电视剧,http://mmitv.top/pltv/yy.php?id=1459331991
-英叔僵尸 3000部,http://mmitv.top/pltv/yy.php?id=1353685311
-狄仁杰,http://mmitv.top/pltv/yy.php?id=1351755386
-66车讯,http://mmitv.top/pltv/yy.php?id=1382571192
-【荒野求生】德爷贝爷各种,http://mmitv.top/pltv/yy.php?id=21831828
-欢乐集结号-每天笑不停,http://mmitv.top/pltv/yy.php?id=1382741642
-港片电影集,http://mmitv.top/pltv/yy.php?id=1455225203
-鹿鼎记-周星驰版,http://mmitv.top/pltv/yy.php?id=1354658049
-举起手来-惊险抗日,http://mmitv.top/pltv/yy.php?id=1382736877
-花儿开心吧,http://mmitv.top/pltv/yy.php?id=1354930984
-星爷经典-百看不厌,http://mmitv.top/pltv/yy.php?id=1382736808
-火蓝刀锋,http://mmitv.top/pltv/yy.php?id=1382737892
-神探狄仁杰1,http://mmitv.top/pltv/yy.php?id=1354930934
-院线动作大片,http://mmitv.top/pltv/yy.php?id=1382736900
-知否,http://mmitv.top/pltv/yy.php?id=1351537467
-交友林正英女鬼电影,http://mmitv.top/pltv/yy.php?id=1453996620
-笑傲江湖,http://mmitv.top/pltv/yy.php?id=1354930909
-康熙王朝,http://mmitv.top/pltv/yy.php?id=1382736818
-读心神探,http://mmitv.top/pltv/yy.php?id=1382736875
-古惑仔全集,http://mmitv.top/pltv/yy.php?id=1460889796
-你最爱的宋小宝,http://mmitv.top/pltv/yy.php?id=1354936198
-三国演义,http://mmitv.top/pltv/yy.php?id=32788000
-西游记后传,http://mmitv.top/pltv/yy.php?id=1382736846
-寻秦记-穿越剧经典,http://mmitv.top/pltv/yy.php?id=1382749900
-送欢乐,http://mmitv.top/pltv/yy.php?id=34093016
-天道-9.2高分好剧,http://mmitv.top/pltv/yy.php?id=1382735574
-父母爱情,http://mmitv.top/pltv/yy.php?id=1354926650
-高分经典电影,http://mmitv.top/pltv/yy.php?id=1382754187
-小兵张嘎,http://mmitv.top/pltv/yy.php?id=1354930225
-燕双鹰系列,http://mmitv.top/pltv/yy.php?id=1457622044
-三国演义94年经典版,http://mmitv.top/pltv/yy.php?id=1354936241
-武工队传奇,http://mmitv.top/pltv/yy.php?id=1354790484
-朱元璋电视剧,http://mmitv.top/pltv/yy.php?id=1382765235
-【成龙经典】动作,http://mmitv.top/pltv/yy.php?id=34460526
-经典大片合集,http://mmitv.top/pltv/yy.php?id=1382749895
-布丁-玄幻电影正在直播,http://mmitv.top/pltv/yy.php?id=1455460998
-双月之城-国漫,http://mmitv.top/pltv/yy.php?id=1382736907
-少年包青天第三部,http://mmitv.top/pltv/yy.php?id=1382736814
-单挑荒野第一季,http://mmitv.top/pltv/yy.php?id=1354933535
-【林正英】僵尸 鬼片,http://mmitv.top/pltv/yy.php?id=30668277
-24H国漫热播,http://mmitv.top/pltv/yy.php?id=1353937086
-斗罗斗破精彩动漫,http://mmitv.top/pltv/yy.php?id=1507304388
 (周星驰)超经典搞笑电影,http://mmitv.top/pltv/yy.php?id=29945997
-新三国,http://mmitv.top/pltv/yy.php?id=26744898
-丫头动漫 斗罗斗破,http://mmitv.top/pltv/yy.php?id=1458722520
-�逋鞠盗�-国产喜剧,http://mmitv.top/pltv/yy.php?id=1382736856
-欢乐集结号,http://mmitv.top/pltv/yy.php?id=1354931582
-我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
-【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=29170933
-惊恐鬼怪盗暮,http://mmitv.top/pltv/yy.php?id=1382749525
-神雕侠侣,http://mmitv.top/pltv/yy.php?id=1351762426
-精彩玄幻电影,http://mmitv.top/pltv/yy.php?id=1382688400
-天龙神雕经典回忆,http://mmitv.top/pltv/yy.php?id=68260522
-特种兵系列,http://mmitv.top/pltv/yy.php?id=1508456184
-血色浪漫,http://mmitv.top/pltv/yy.php?id=1354926676
-父母的爱情,http://mmitv.top/pltv/yy.php?id=1382768483
-无敌燕双鹰,http://mmitv.top/pltv/yy.php?id=1354825244
-动漫,http://mmitv.top/pltv/yy.php?id=1382788679
-妖魔鬼怪 超好看,http://mmitv.top/pltv/yy.php?id=1459714870
-斗罗斗破,http://mmitv.top/pltv/yy.php?id=1354768828
-易中天品三国,http://mmitv.top/pltv/yy.php?id=1354931498
-炊事班的故事III,http://mmitv.top/pltv/yy.php?id=1382736716
-电影,http://mmitv.top/pltv/yy.php?id=1458819360
-24H地下交通站全,http://mmitv.top/pltv/yy.php?id=37880083
-奇缘39262港台影院,http://mmitv.top/pltv/yy.php?id=1354889234
-笑声传奇,http://mmitv.top/pltv/yy.php?id=1382736880
-炊事班的故事II,http://mmitv.top/pltv/yy.php?id=1382736885
-赵本山爆笑小品2,http://mmitv.top/pltv/yy.php?id=1354936217
-奇领 铁山靠【Y 正在直播,http://mmitv.top/pltv/yy.php?id=41584371
-电影电影电影,http://mmitv.top/pltv/yy.php?id=28099939
-妹子高分搞笑电影,http://mmitv.top/pltv/yy.php?id=33478222
-好先生,http://mmitv.top/pltv/yy.php?id=79382500
-荒野求生德爷,http://mmitv.top/pltv/yy.php?id=36949900
-破案港剧,http://mmitv.top/pltv/yy.php?id=1350670730
 【案发现场】1-4部全集,http://mmitv.top/pltv/yy.php?id=33567888
-案发现场全集,http://mmitv.top/pltv/yy.php?id=1354775242
-士兵突击,http://mmitv.top/pltv/yy.php?id=1382828766
-为什么你一直是单身,http://mmitv.top/pltv/yy.php?id=89431014
-金婚,http://mmitv.top/pltv/yy.php?id=1382828768
-动漫,http://mmitv.top/pltv/yy.php?id=23993334
-变形金刚,http://mmitv.top/pltv/yy.php?id=1382736803
-澳门风云,http://mmitv.top/pltv/yy.php?id=1459243913
-父母爱情,http://mmitv.top/pltv/yy.php?id=1382746276
-新白娘子传奇-女神赵雅芝,http://mmitv.top/pltv/yy.php?id=1354930969
-今夜欢乐颂,http://mmitv.top/pltv/yy.php?id=1382735572
-易中天品三国完整版,http://mmitv.top/pltv/yy.php?id=1461244449
-敢死队-精彩动作电影,http://mmitv.top/pltv/yy.php?id=1382735573
-24小时小雅陪你看,http://mmitv.top/pltv/yy.php?id=1331686180
-国内喜剧,http://mmitv.top/pltv/yy.php?id=1382736862
-电影百团大战,http://mmitv.top/pltv/yy.php?id=1382736871
-爆笑小品,http://mmitv.top/pltv/yy.php?id=1354931503
-军旅全系列24h陪你看,http://mmitv.top/pltv/yy.php?id=1355171357
-夏洛特烦恼-国内电影-喜剧,http://mmitv.top/pltv/yy.php?id=1354936201
-亲爱的热爱的,http://mmitv.top/pltv/yy.php?id=1354932433
-【新三国】萌儿陪看,http://mmitv.top/pltv/yy.php?id=29216766
-西游记张卫健版,http://mmitv.top/pltv/yy.php?id=1354936155
-法证先锋Ⅱ,http://mmitv.top/pltv/yy.php?id=1354888736
-情满四合院,http://mmitv.top/pltv/yy.php?id=1382736848
-魔幻手机,http://mmitv.top/pltv/yy.php?id=1382735544
-绝版鬼片 超恐怖,http://mmitv.top/pltv/yy.php?id=1382788850
-情满四合院,http://mmitv.top/pltv/yy.php?id=1382736888
-伪装者,http://mmitv.top/pltv/yy.php?id=1354936244
-法证先锋,http://mmitv.top/pltv/yy.php?id=1354930939
-小欢喜,http://mmitv.top/pltv/yy.php?id=1382737888
-纪晓岚,http://mmitv.top/pltv/yy.php?id=1382781415
-小沈阳春晚小品,http://mmitv.top/pltv/yy.php?id=1382749941
-赌神-发哥,http://mmitv.top/pltv/yy.php?id=1354889044
-宋小宝小品合集,http://mmitv.top/pltv/yy.php?id=1354931577
-热门喜剧,http://mmitv.top/pltv/yy.php?id=1354931495
-我的体育老师,http://mmitv.top/pltv/yy.php?id=1382745169
-张国荣与周润发的兄弟情,http://mmitv.top/pltv/yy.php?id=1354930961
-斗破苍穹玄幻剧,http://mmitv.top/pltv/yy.php?id=1356051105
-贾玲春晚小品,http://mmitv.top/pltv/yy.php?id=1382736720
-欢乐集结号,http://mmitv.top/pltv/yy.php?id=1382735550
-笑傲江湖 4K超清,http://mmitv.top/pltv/yy.php?id=1354282410
-大明王朝,http://mmitv.top/pltv/yy.php?id=1382736879
-大话西游至尊宝,http://mmitv.top/pltv/yy.php?id=1382736910
-小宝让你乐翻天：6到9集,http://mmitv.top/pltv/yy.php?id=1354930971
-宋小宝春晚小品合集,http://mmitv.top/pltv/yy.php?id=1382736866
-我的前半生,http://mmitv.top/pltv/yy.php?id=1382735564
-法证先锋2,http://mmitv.top/pltv/yy.php?id=1382736870
-拆弹专家-刘德华,http://mmitv.top/pltv/yy.php?id=1382745111
-最美的青春,http://mmitv.top/pltv/yy.php?id=1382745116
-经典动作电影,http://mmitv.top/pltv/yy.php?id=1370293254
-大汉天子S1,http://mmitv.top/pltv/yy.php?id=1382749902
-超精彩！系列动作电影,http://mmitv.top/pltv/yy.php?id=1382745096
-开饭了大熊猫,http://mmitv.top/pltv/yy.php?id=1382741641
-炊事班的故事,http://mmitv.top/pltv/yy.php?id=1382749901
-新世界,http://mmitv.top/pltv/yy.php?id=1382736850
-公主嫁到,http://mmitv.top/pltv/yy.php?id=1382736915
+【成龙经典】动作,http://mmitv.top/pltv/yy.php?id=34460526
+【盜暮笔记】24h,http://mmitv.top/pltv/yy.php?id=1382702247
 【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=26623173
-真实案件系列,http://mmitv.top/pltv/yy.php?id=1382671124
-今晚80后脱口秀,http://mmitv.top/pltv/yy.php?id=1382745098
-华子系列,http://mmitv.top/pltv/yy.php?id=1354888726
-【科幻】超炫特效,http://mmitv.top/pltv/yy.php?id=37988782
-泡芙陪你看电影,http://mmitv.top/pltv/yy.php?id=24407222
-好先生,http://mmitv.top/pltv/yy.php?id=29067617
-热血战争巨作,http://mmitv.top/pltv/yy.php?id=1382745087
-金婚,http://mmitv.top/pltv/yy.php?id=1382736832
-少年包青天1-3蓝光版,http://mmitv.top/pltv/yy.php?id=38498680
-燃爆动作片,http://mmitv.top/pltv/yy.php?id=1382736801
-国内喜剧,http://mmitv.top/pltv/yy.php?id=1382735563
-国外科幻,http://mmitv.top/pltv/yy.php?id=1382736800
-大进军全集：红色系列电影,http://mmitv.top/pltv/yy.php?id=1382745083
-密子君,http://mmitv.top/pltv/yy.php?id=1382736717
-发哥系列,http://mmitv.top/pltv/yy.php?id=1354888733
+【电影】超然巨作,http://mmitv.top/pltv/yy.php?id=29170933
+【荒野求生】德爷贝爷各种,http://mmitv.top/pltv/yy.php?id=21831828
 【经典港片】佟瑶,http://mmitv.top/pltv/yy.php?id=23531261
-渴望,http://mmitv.top/pltv/yy.php?id=1354930963
-超炫科幻大片,http://mmitv.top/pltv/yy.php?id=1382736840
-宫心计,http://mmitv.top/pltv/yy.php?id=1382828769
-福贵,http://mmitv.top/pltv/yy.php?id=1354926537
-灌篮高手,http://mmitv.top/pltv/yy.php?id=1382735626
-成龙系列,http://mmitv.top/pltv/yy.php?id=1354888751
-欢乐集结号3,http://mmitv.top/pltv/yy.php?id=1382736822
-木乃伊全集,http://mmitv.top/pltv/yy.php?id=1354889024
-无敌县令,http://mmitv.top/pltv/yy.php?id=1354932390
-小敏,http://mmitv.top/pltv/yy.php?id=1382736890
-笑傲帮,http://mmitv.top/pltv/yy.php?id=1382735555
-欢乐颂,http://mmitv.top/pltv/yy.php?id=1382735624
-金星脱口秀：我敢说你敢听吗,http://mmitv.top/pltv/yy.php?id=1382735552
-战争大片,http://mmitv.top/pltv/yy.php?id=1382735556
-国内科幻片,http://mmitv.top/pltv/yy.php?id=1382745110
-欢天喜地七仙女,http://mmitv.top/pltv/yy.php?id=1382735553
-超精彩武打场景,http://mmitv.top/pltv/yy.php?id=1354936131
-平凡岁月,http://mmitv.top/pltv/yy.php?id=1382745117
-三国演义【1994】,http://mmitv.top/pltv/yy.php?id=1354930932
-热血抗日电影,http://mmitv.top/pltv/yy.php?id=1382749907
-陈情令,http://mmitv.top/pltv/yy.php?id=1382745121
-黑冰,http://mmitv.top/pltv/yy.php?id=1354932427
-香港院线大片-最新,http://mmitv.top/pltv/yy.php?id=1354936242
-国内战争大片合集,http://mmitv.top/pltv/yy.php?id=1382749950
-非诚勿扰,http://mmitv.top/pltv/yy.php?id=1382735583
-欢乐一起看,http://mmitv.top/pltv/yy.php?id=1354930926
-国威影院 仙侠系列,http://mmitv.top/pltv/yy.php?id=1354866665
-经典搞笑影片,http://mmitv.top/pltv/yy.php?id=1382749878
-中国第一神探-狄仁杰,http://mmitv.top/pltv/yy.php?id=1354932438
-粟裕大将-影视,http://mmitv.top/pltv/yy.php?id=1354926542
-天下第一,http://mmitv.top/pltv/yy.php?id=1382736838
-宫心计,http://mmitv.top/pltv/yy.php?id=1354932429
-洪大哥系列,http://mmitv.top/pltv/yy.php?id=1354888743
-科幻片：来看神奇的地球,http://mmitv.top/pltv/yy.php?id=1354930897
-漫威超级英雄系列,http://mmitv.top/pltv/yy.php?id=1354932402
-传奇英雄,http://mmitv.top/pltv/yy.php?id=1382735578
-喜剧闹翻天,http://mmitv.top/pltv/yy.php?id=1382735548
-怀旧好电影,http://mmitv.top/pltv/yy.php?id=1382627144
-妖神记,http://mmitv.top/pltv/yy.php?id=1382745171
-中国味道 第4季-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382736845
-飓风营救,http://mmitv.top/pltv/yy.php?id=1382735547
-超燃科幻大片：明日边缘,http://mmitv.top/pltv/yy.php?id=1382736835
-人生必看的科幻片,http://mmitv.top/pltv/yy.php?id=1382745114
-百家讲坛――之明太祖朱元璋,http://mmitv.top/pltv/yy.php?id=1354936149
-热血动作片合集,http://mmitv.top/pltv/yy.php?id=1382735627
-香港动作大片,http://mmitv.top/pltv/yy.php?id=1382736816
-高分科幻动作片,http://mmitv.top/pltv/yy.php?id=1382749948
-斗罗玄幻24H正在直播,http://mmitv.top/pltv/yy.php?id=1355171231
-新主播，求照顾,http://mmitv.top/pltv/yy.php?id=1382690406
-神探狄仁杰1—5部全集,http://mmitv.top/pltv/yy.php?id=1382705592
-芝正在直播,http://mmitv.top/pltv/yy.php?id=1352488363
-尽享国内精彩战争片,http://mmitv.top/pltv/yy.php?id=1382745094
-�潘磕惺康谝患�-国产喜剧,http://mmitv.top/pltv/yy.php?id=1382741637
+【科幻】超炫特效,http://mmitv.top/pltv/yy.php?id=37988782
+【林正英】僵尸 鬼片,http://mmitv.top/pltv/yy.php?id=30668277
+【鹿鼎记】金庸经典,http://mmitv.top/pltv/yy.php?id=28265277
+【新三国】蓝光版,http://mmitv.top/pltv/yy.php?id=1382705738
+【新三国】萌儿陪看,http://mmitv.top/pltv/yy.php?id=29216766
+【雪豹】超经典,http://mmitv.top/pltv/yy.php?id=1450496699
+【战狼3吴京】独播,http://mmitv.top/pltv/yy.php?id=37999586
+【战狼4】吴京老师,http://mmitv.top/pltv/yy.php?id=1354784284
+24H地下交通站全,http://mmitv.top/pltv/yy.php?id=37880083
+24H国漫热播,http://mmitv.top/pltv/yy.php?id=1353937086
+24小时播放电视剧,http://mmitv.top/pltv/yy.php?id=1354127609
+24小时小雅陪你看,http://mmitv.top/pltv/yy.php?id=1331686180
+66车讯,http://mmitv.top/pltv/yy.php?id=1382571192
+9.8分！这部纪录片封神了,http://mmitv.top/pltv/yy.php?id=1382736825
+oh我的鬼神大人-韩剧,http://mmitv.top/pltv/yy.php?id=1354936160
 X战警系列电影,http://mmitv.top/pltv/yy.php?id=1382736893
-你所喜欢的颖宝,http://mmitv.top/pltv/yy.php?id=1456829119
-战争大片-国外电影,http://mmitv.top/pltv/yy.php?id=1382736857
-岳云鹏-屌丝也能追到美女,http://mmitv.top/pltv/yy.php?id=1382736882
-舌尖上的中国第2季,http://mmitv.top/pltv/yy.php?id=1354930943
-河山,http://mmitv.top/pltv/yy.php?id=1382749952
-动作大片-热血开打,http://mmitv.top/pltv/yy.php?id=1354936168
-毒液：致命守护者,http://mmitv.top/pltv/yy.php?id=1382745095
-铭记历史-甲午大海战,http://mmitv.top/pltv/yy.php?id=1354936195
-忠烈杨家将,http://mmitv.top/pltv/yy.php?id=1382749909
-临界婚姻,http://mmitv.top/pltv/yy.php?id=1354932365
-天龙八部,http://mmitv.top/pltv/yy.php?id=1382749944
-远去的飞鹰-影视剧,http://mmitv.top/pltv/yy.php?id=1354930912
-仙剑奇侠传-神仙姐姐驾到,http://mmitv.top/pltv/yy.php?id=1382749903
-超激烈的猎食场面,http://mmitv.top/pltv/yy.php?id=1382749898
-十大经典港剧之《大时代》,http://mmitv.top/pltv/yy.php?id=1354930891
-熊出没之探险日记S1-国漫,http://mmitv.top/pltv/yy.php?id=1354930977
-探秘中华美食,http://mmitv.top/pltv/yy.php?id=1354930954
-高分动作大片-热血出击,http://mmitv.top/pltv/yy.php?id=1382736909
+爱的迫降-韩剧,http://mmitv.top/pltv/yy.php?id=1354889042
+俺娘田小草,http://mmitv.top/pltv/yy.php?id=1382741638
+案发现场全集,http://mmitv.top/pltv/yy.php?id=1354775242
+澳门风云,http://mmitv.top/pltv/yy.php?id=1459243913
+霸道总裁爱上女秘书,http://mmitv.top/pltv/yy.php?id=1354936167
+白夜追凶第一季,http://mmitv.top/pltv/yy.php?id=1354932359
+百家讲坛-红楼梦篇,http://mmitv.top/pltv/yy.php?id=1382741639
+百家讲坛――之明太祖朱元璋,http://mmitv.top/pltv/yy.php?id=1354936149
+百家讲坛-之女皇武则天,http://mmitv.top/pltv/yy.php?id=1354889015
 宝莲灯前传,http://mmitv.top/pltv/yy.php?id=1354931631
-风味原产地潮汕,http://mmitv.top/pltv/yy.php?id=1382745178
-聊斋志异S1,http://mmitv.top/pltv/yy.php?id=1382736975
-机场超燃警匪片,http://mmitv.top/pltv/yy.php?id=1382735576
-法证先锋Ⅲ,http://mmitv.top/pltv/yy.php?id=1382736802
-超英集结,http://mmitv.top/pltv/yy.php?id=1382745091
-农家小菜,http://mmitv.top/pltv/yy.php?id=1382736894
-经典抗日电影,http://mmitv.top/pltv/yy.php?id=1354936141
-红楼梦1987经典版,http://mmitv.top/pltv/yy.php?id=1382745084
-热血动作电影,http://mmitv.top/pltv/yy.php?id=1382736804
-国内动作大片,http://mmitv.top/pltv/yy.php?id=1382749917
-剩女李夏天的求爱之路,http://mmitv.top/pltv/yy.php?id=1382749910
-飞虎之潜行极战,http://mmitv.top/pltv/yy.php?id=1354932420
+爆笑小品,http://mmitv.top/pltv/yy.php?id=1354931503
+本山快乐营,http://mmitv.top/pltv/yy.php?id=1354933529
+本山快乐营1,http://mmitv.top/pltv/yy.php?id=1354936209
+本山快乐营2,http://mmitv.top/pltv/yy.php?id=1382736718
+本山快乐营-爆笑小品,http://mmitv.top/pltv/yy.php?id=1354930948
+必看科幻片合集,http://mmitv.top/pltv/yy.php?id=1354936221
+编辑部的故事,http://mmitv.top/pltv/yy.php?id=1354936120
+变形金刚,http://mmitv.top/pltv/yy.php?id=1382736803
+冰冻星球-纪录片,http://mmitv.top/pltv/yy.php?id=1382736849
+逋鞠盗-国产喜剧,http://mmitv.top/pltv/yy.php?id=1382736856
+布丁-玄幻电影正在直播,http://mmitv.top/pltv/yy.php?id=1455460998
+蔡明春晚小品,http://mmitv.top/pltv/yy.php?id=1354936177
+拆弹专家-刘德华,http://mmitv.top/pltv/yy.php?id=1382745111
+馋哭了！川味来袭,http://mmitv.top/pltv/yy.php?id=1382736913
+嫦娥,http://mmitv.top/pltv/yy.php?id=1354658064
+超乎意料的国外侦探,http://mmitv.top/pltv/yy.php?id=1382735543
+超激烈的猎食场面,http://mmitv.top/pltv/yy.php?id=1382749898
+超级吓人鬼片 恐怖片,http://mmitv.top/pltv/yy.php?id=1355641195
 超级英雄系列电影,http://mmitv.top/pltv/yy.php?id=1382736863
-丛林敢死队-国内电影,http://mmitv.top/pltv/yy.php?id=1354936214
-买车前看一看 不然血亏,http://mmitv.top/pltv/yy.php?id=1349602814
-美国队长史蒂夫,http://mmitv.top/pltv/yy.php?id=1382736813
-末日系列-外国电影合集,http://mmitv.top/pltv/yy.php?id=1354889019
-经典电影,http://mmitv.top/pltv/yy.php?id=1355142167
-大汉贤后卫子夫,http://mmitv.top/pltv/yy.php?id=1382735569
-风靡全球的谍战片,http://mmitv.top/pltv/yy.php?id=1382736817
-国产喜剧,http://mmitv.top/pltv/yy.php?id=1382735584
-来自星星的你,http://mmitv.top/pltv/yy.php?id=1354930976
-田园生活,http://mmitv.top/pltv/yy.php?id=1382736898
-珍珠港-电影,http://mmitv.top/pltv/yy.php?id=1354936234
-科幻大片,http://mmitv.top/pltv/yy.php?id=1382745181
-生逢灿烂的日子,http://mmitv.top/pltv/yy.php?id=1382745085
-热血战争片,http://mmitv.top/pltv/yy.php?id=1354932409
-国外黑色喜剧：冷幽默小剧场,http://mmitv.top/pltv/yy.php?id=1382745175
-穿越时空的爱恋,http://mmitv.top/pltv/yy.php?id=1382735567
-妖神记之黑狱篇,http://mmitv.top/pltv/yy.php?id=1382745173
-空谷幽兰,http://mmitv.top/pltv/yy.php?id=1382745182
+超解压小视频,http://mmitv.top/pltv/yy.php?id=1382744423
+超精彩！系列动作电影,http://mmitv.top/pltv/yy.php?id=1382745096
+超精彩武打场景,http://mmitv.top/pltv/yy.php?id=1354936131
 超燃动作大片,http://mmitv.top/pltv/yy.php?id=1382749940
-战火中的故事,http://mmitv.top/pltv/yy.php?id=1382735625
+超燃科幻大片：明日边缘,http://mmitv.top/pltv/yy.php?id=1382736835
+超喜剧地下交通站男神贾贵,http://mmitv.top/pltv/yy.php?id=1353428972
+超炫科幻大片,http://mmitv.top/pltv/yy.php?id=1382736840
+超英集结,http://mmitv.top/pltv/yy.php?id=1382745091
+陈情令,http://mmitv.top/pltv/yy.php?id=1382745121
+成龙系列,http://mmitv.top/pltv/yy.php?id=1354888751
+冲上云霄2,http://mmitv.top/pltv/yy.php?id=1354933556
+冲上云霄-经典港剧,http://mmitv.top/pltv/yy.php?id=1382736833
+穿越时空的爱恋,http://mmitv.top/pltv/yy.php?id=1382735567
+传奇英雄,http://mmitv.top/pltv/yy.php?id=1382735578
+传奇之王-影视剧,http://mmitv.top/pltv/yy.php?id=1354926735
+炊事班的故事,http://mmitv.top/pltv/yy.php?id=1382749901
+炊事班的故事II,http://mmitv.top/pltv/yy.php?id=1382736885
+炊事班的故事III,http://mmitv.top/pltv/yy.php?id=1382736716
+刺激！国外战争,http://mmitv.top/pltv/yy.php?id=1354936142
+聪明的顺溜之雄鹰小子S1-国漫,http://mmitv.top/pltv/yy.php?id=1382736902
+聪明的顺溜之雄鹰小子S2-国漫,http://mmitv.top/pltv/yy.php?id=1382736903
+从“地瓜嫂”到“杀猪婆”的坚强人生,http://mmitv.top/pltv/yy.php?id=1354658062
+丛林敢死队-国内电影,http://mmitv.top/pltv/yy.php?id=1354936214
+催人泪下战争电影,http://mmitv.top/pltv/yy.php?id=1382745124
+大汉天子S1,http://mmitv.top/pltv/yy.php?id=1382749902
+大汉天子S2,http://mmitv.top/pltv/yy.php?id=1382736807
+大汉天子S3,http://mmitv.top/pltv/yy.php?id=1382736810
+大汉贤后卫子夫,http://mmitv.top/pltv/yy.php?id=1382735569
+大话西游至尊宝,http://mmitv.top/pltv/yy.php?id=1382736910
+大家都爱看的港剧,http://mmitv.top/pltv/yy.php?id=1382736861
+大家都在看的警匪片,http://mmitv.top/pltv/yy.php?id=1354930964
+大江大河2-高分影视推荐,http://mmitv.top/pltv/yy.php?id=1382736797
+大江大河-高分影视推荐,http://mmitv.top/pltv/yy.php?id=1382736806
+大进军全集：红色系列电影,http://mmitv.top/pltv/yy.php?id=1382745083
+大君-描绘爱情,http://mmitv.top/pltv/yy.php?id=1382736874
+大力女都奉顺-韩剧,http://mmitv.top/pltv/yy.php?id=1382735542
+大明宫词,http://mmitv.top/pltv/yy.php?id=1382745190
+大明王朝,http://mmitv.top/pltv/yy.php?id=1382736879
+大太监-tvb经典古装,http://mmitv.top/pltv/yy.php?id=1382736886
+大唐双龙传,http://mmitv.top/pltv/yy.php?id=1354930979
+单挑荒野第一季,http://mmitv.top/pltv/yy.php?id=1354933535
+弹幕天团 下饭神剧,http://mmitv.top/pltv/yy.php?id=23512910
+盗慕笔记鬼灯,http://mmitv.top/pltv/yy.php?id=1382765507
+德鲁纳酒店-韩剧,http://mmitv.top/pltv/yy.php?id=1354931488
+地球上的地狱,http://mmitv.top/pltv/yy.php?id=1382736918
+地下交通站,http://mmitv.top/pltv/yy.php?id=1382736795
+地心历险记2,http://mmitv.top/pltv/yy.php?id=1354936228
+地心历险记-科幻,http://mmitv.top/pltv/yy.php?id=1382736911
+狄仁杰,http://mmitv.top/pltv/yy.php?id=1351755386
+第8号当铺,http://mmitv.top/pltv/yy.php?id=1382736905
+第一滴血全集,http://mmitv.top/pltv/yy.php?id=1354932355
+电影 古惑仔全集,http://mmitv.top/pltv/yy.php?id=1354507447
+电影,http://mmitv.top/pltv/yy.php?id=1458819360
+电影百团大战,http://mmitv.top/pltv/yy.php?id=1382736871
+电影电影电影,http://mmitv.top/pltv/yy.php?id=28099939
+碟中谍系列-国外动作大片,http://mmitv.top/pltv/yy.php?id=1354930181
+丁大命,http://mmitv.top/pltv/yy.php?id=1382735579
+动漫,http://mmitv.top/pltv/yy.php?id=1382788679
+动漫,http://mmitv.top/pltv/yy.php?id=23993334
+动漫,http://mmitv.top/pltv/yy.php?id=26664495
 动物世界,http://mmitv.top/pltv/yy.php?id=1382749889
 动物世界-领略原始野性,http://mmitv.top/pltv/yy.php?id=1382743138
-野性欧洲,http://mmitv.top/pltv/yy.php?id=1354926622
-古装喜剧合集，还能玩起穿越？！,http://mmitv.top/pltv/yy.php?id=1382749905
-国内战争电影,http://mmitv.top/pltv/yy.php?id=1382736865
-体验另一种生活！,http://mmitv.top/pltv/yy.php?id=1354936229
-一分钟学道菜,http://mmitv.top/pltv/yy.php?id=1382736901
-小戏骨黄飞鸿,http://mmitv.top/pltv/yy.php?id=1354936181
-致敬星爷致敬经典,http://mmitv.top/pltv/yy.php?id=1354889048
-请回答1988,http://mmitv.top/pltv/yy.php?id=1354932362
-国产大片电影,http://mmitv.top/pltv/yy.php?id=1354926655
-9.8分！这部纪录片封神了,http://mmitv.top/pltv/yy.php?id=1382736825
-叛逆者,http://mmitv.top/pltv/yy.php?id=1382736868
-怀旧小品,http://mmitv.top/pltv/yy.php?id=1382736821
-哈利波特全集,http://mmitv.top/pltv/yy.php?id=1382745105
-国产喜剧大片,http://mmitv.top/pltv/yy.php?id=1382745113
-回家的诱惑,http://mmitv.top/pltv/yy.php?id=1354658043
-武林外传,http://mmitv.top/pltv/yy.php?id=1353852605
-萌鸡小队S1-国漫,http://mmitv.top/pltv/yy.php?id=1382736904
-外国科幻大片,http://mmitv.top/pltv/yy.php?id=1382747628
-欢乐集结号2,http://mmitv.top/pltv/yy.php?id=1354930919
-特种兵归来-国产电影,http://mmitv.top/pltv/yy.php?id=1382735581
-国外高分大片,http://mmitv.top/pltv/yy.php?id=1382736867
-第8号当铺,http://mmitv.top/pltv/yy.php?id=1382736905
-本山快乐营,http://mmitv.top/pltv/yy.php?id=1354933529
-冰冻星球-纪录片,http://mmitv.top/pltv/yy.php?id=1382736849
-金三角大营救,http://mmitv.top/pltv/yy.php?id=1354930924
-金星脱口秀-敢说会道,http://mmitv.top/pltv/yy.php?id=1354932407
-小米粒Mili,http://mmitv.top/pltv/yy.php?id=1382736842
-缉妖法海传-国内电影,http://mmitv.top/pltv/yy.php?id=1354936203
-漫威十年老粉福利来了,http://mmitv.top/pltv/yy.php?id=1354930233
-觅食者-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382736841
-精彩动作电影享不停,http://mmitv.top/pltv/yy.php?id=1382736809
-老广的味道 第3季-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382735565
-深海利剑,http://mmitv.top/pltv/yy.php?id=1382736906
-大江大河2-高分影视推荐,http://mmitv.top/pltv/yy.php?id=1382736797
-编辑部的故事,http://mmitv.top/pltv/yy.php?id=1354936120
-我的父亲我的兵,http://mmitv.top/pltv/yy.php?id=1353413714
-精彩动作电影,http://mmitv.top/pltv/yy.php?id=1382736823
-外国战争大片,http://mmitv.top/pltv/yy.php?id=1382736872
-王朝-自然-纪录片,http://mmitv.top/pltv/yy.php?id=1354930927
-怪医文三块-影视剧,http://mmitv.top/pltv/yy.php?id=1354936154
-小小飞虎队,http://mmitv.top/pltv/yy.php?id=1382749888
-谈判专家,http://mmitv.top/pltv/yy.php?id=1382735560
-降服魔女的手段-泰剧,http://mmitv.top/pltv/yy.php?id=1354932405
-国外科幻片,http://mmitv.top/pltv/yy.php?id=1382735585
-巩汉林春晚小品合集,http://mmitv.top/pltv/yy.php?id=1354889035
-神厨小福贵,http://mmitv.top/pltv/yy.php?id=1382736860
-百家讲坛-之女皇武则天,http://mmitv.top/pltv/yy.php?id=1354889015
-最后的狮子-探险纪录片,http://mmitv.top/pltv/yy.php?id=1382735577
-他的剧本我只是观众,http://mmitv.top/pltv/yy.php?id=1356158015
-大太监-tvb经典古装,http://mmitv.top/pltv/yy.php?id=1382736886
-脑洞大开的精彩科幻片,http://mmitv.top/pltv/yy.php?id=1382736723
-鹿鼎记-陈小春版,http://mmitv.top/pltv/yy.php?id=1382736920
-学生兵,http://mmitv.top/pltv/yy.php?id=1354658003
-吐槽大会 第2季,http://mmitv.top/pltv/yy.php?id=1354936145
-国内动作片,http://mmitv.top/pltv/yy.php?id=1382735561
-金玉满堂：精彩港剧,http://mmitv.top/pltv/yy.php?id=1382736881
-丁大命,http://mmitv.top/pltv/yy.php?id=1382735579
-本山快乐营1,http://mmitv.top/pltv/yy.php?id=1354936209
-大唐双龙传,http://mmitv.top/pltv/yy.php?id=1354930979
-黄大妮-电视剧,http://mmitv.top/pltv/yy.php?id=1354930904
-重生之超级赛亚人,http://mmitv.top/pltv/yy.php?id=1354936124
-一起来笑吧,http://mmitv.top/pltv/yy.php?id=1454859415
-漫画解说,http://mmitv.top/pltv/yy.php?id=1382735568
-迷,http://mmitv.top/pltv/yy.php?id=1382736719
-国外动作大片,http://mmitv.top/pltv/yy.php?id=1382735540
-飞虎之雷霆极战,http://mmitv.top/pltv/yy.php?id=1382736869
-金庸武侠系列,http://mmitv.top/pltv/yy.php?id=40959929
-欢乐集结号4,http://mmitv.top/pltv/yy.php?id=1382736889
-大江大河-高分影视推荐,http://mmitv.top/pltv/yy.php?id=1382736806
-俺娘田小草,http://mmitv.top/pltv/yy.php?id=1382741638
-欢乐集结号,http://mmitv.top/pltv/yy.php?id=1382749911
-宇宙护卫队--国漫,http://mmitv.top/pltv/yy.php?id=1382736837
-战争大片,http://mmitv.top/pltv/yy.php?id=1382736798
-名媛望族-精彩港剧,http://mmitv.top/pltv/yy.php?id=1354932431
-雷神系列,http://mmitv.top/pltv/yy.php?id=1354932441
-战争大片,http://mmitv.top/pltv/yy.php?id=1382736819
-缺宅男女,http://mmitv.top/pltv/yy.php?id=1354930937
-我比你更懂车 你偏不信,http://mmitv.top/pltv/yy.php?id=85042287
-大汉天子S2,http://mmitv.top/pltv/yy.php?id=1382736807
-通天狄仁杰,http://mmitv.top/pltv/yy.php?id=1382749906
-守望的天空,http://mmitv.top/pltv/yy.php?id=1382736843
-来看修牛蹄,http://mmitv.top/pltv/yy.php?id=1382749887
-国内科幻片来袭,http://mmitv.top/pltv/yy.php?id=1354930821
-国产动作电影,http://mmitv.top/pltv/yy.php?id=1382736858
-法外风云,http://mmitv.top/pltv/yy.php?id=1382736805
-动作大片,http://mmitv.top/pltv/yy.php?id=1354930887
-苦乐村官,http://mmitv.top/pltv/yy.php?id=1382736864
-法证先锋Ⅳ,http://mmitv.top/pltv/yy.php?id=1354932426
-馋哭了！川味来袭,http://mmitv.top/pltv/yy.php?id=1382736913
-国内科幻,http://mmitv.top/pltv/yy.php?id=1354936170
-小生物的故事,http://mmitv.top/pltv/yy.php?id=1382736834
-欢迎来到爆笑剧场,http://mmitv.top/pltv/yy.php?id=1382736916
-流金岁月-经典港剧,http://mmitv.top/pltv/yy.php?id=1382736891
-机械战警1-3,http://mmitv.top/pltv/yy.php?id=1382736854
-原始人大挑战,http://mmitv.top/pltv/yy.php?id=1382736884
-金装四大才子,http://mmitv.top/pltv/yy.php?id=1354926600
-心理追凶-港剧,http://mmitv.top/pltv/yy.php?id=1354936207
-非诚勿扰,http://mmitv.top/pltv/yy.php?id=1382745100
-银河护卫队-国外科幻巨作,http://mmitv.top/pltv/yy.php?id=1382736815
-史诗级战争大片,http://mmitv.top/pltv/yy.php?id=1382745092
-白夜追凶第一季,http://mmitv.top/pltv/yy.php?id=1354932359
-地球上的地狱,http://mmitv.top/pltv/yy.php?id=1382736918
-国外院线动作大片,http://mmitv.top/pltv/yy.php?id=1382735570
-欢乐集结号58-70,http://mmitv.top/pltv/yy.php?id=1382745119
-本山快乐营-爆笑小品,http://mmitv.top/pltv/yy.php?id=1354930948
-寻味顺德-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382736844
-岳云鹏宋小宝也来演电影了？,http://mmitv.top/pltv/yy.php?id=1354926612
-笑傲江湖 第1季,http://mmitv.top/pltv/yy.php?id=1382749896
-百家讲坛-红楼梦篇,http://mmitv.top/pltv/yy.php?id=1382741639
-你不知道的黄河故事,http://mmitv.top/pltv/yy.php?id=1382745189
-了不起的萝莉小玲,http://mmitv.top/pltv/yy.php?id=1382736799
 动作大片,http://mmitv.top/pltv/yy.php?id=1354888739
-你最爱的小龙女-神雕侠侣,http://mmitv.top/pltv/yy.php?id=1354926637
-赶海新发现-海洋里有什么,http://mmitv.top/pltv/yy.php?id=1382749912
-经典二战,http://mmitv.top/pltv/yy.php?id=1354936238
-解放：苏联战争巨片,http://mmitv.top/pltv/yy.php?id=1354936249
-缺宅男女-精彩港剧,http://mmitv.top/pltv/yy.php?id=1382745088
-大汉天子S3,http://mmitv.top/pltv/yy.php?id=1382736810
-从“地瓜嫂”到“杀猪婆”的坚强人生,http://mmitv.top/pltv/yy.php?id=1354658062
-国内科幻电影,http://mmitv.top/pltv/yy.php?id=1354932444
-熊仔之正义守护-国漫,http://mmitv.top/pltv/yy.php?id=1382736836
-大明宫词,http://mmitv.top/pltv/yy.php?id=1382745190
-攻壳机动队,http://mmitv.top/pltv/yy.php?id=1382745089
-必看科幻片合集,http://mmitv.top/pltv/yy.php?id=1354936221
-爱的迫降-韩剧,http://mmitv.top/pltv/yy.php?id=1354889042
-冲上云霄-经典港剧,http://mmitv.top/pltv/yy.php?id=1382736833
-无敌解压,http://mmitv.top/pltv/yy.php?id=1382736897
-火线追凶-侦探系列电影,http://mmitv.top/pltv/yy.php?id=1382745090
-凡人的品格-影视剧,http://mmitv.top/pltv/yy.php?id=1354936116
-熊出没-国漫,http://mmitv.top/pltv/yy.php?id=1354936157
-家有九凤-影视剧,http://mmitv.top/pltv/yy.php?id=1354930894
-法证先锋,http://mmitv.top/pltv/yy.php?id=1354930965
-舌尖上的中国第一季,http://mmitv.top/pltv/yy.php?id=1354930952
-嫦娥,http://mmitv.top/pltv/yy.php?id=1354658064
-世纪震撼蓝色星球,http://mmitv.top/pltv/yy.php?id=1354930936
-花儿开心吧-小品,http://mmitv.top/pltv/yy.php?id=1382736917
-娘亲舅大,http://mmitv.top/pltv/yy.php?id=1354932360
-国内侦探电影大全,http://mmitv.top/pltv/yy.php?id=1354936134
-顺娘-影视剧,http://mmitv.top/pltv/yy.php?id=1354930945
-男亲女爱-经典港剧,http://mmitv.top/pltv/yy.php?id=1382736715
-国外战争,http://mmitv.top/pltv/yy.php?id=1382735571
-一城一味（舌尖姐妹篇）,http://mmitv.top/pltv/yy.php?id=1382745179
-本山快乐营2,http://mmitv.top/pltv/yy.php?id=1382736718
-超乎意料的国外侦探,http://mmitv.top/pltv/yy.php?id=1382735543
-功夫婆媳-影视剧,http://mmitv.top/pltv/yy.php?id=1382736883
-真心想让你幸福,http://mmitv.top/pltv/yy.php?id=1382736876
-冲上云霄2,http://mmitv.top/pltv/yy.php?id=1354933556
-家族荣耀-精彩港剧,http://mmitv.top/pltv/yy.php?id=1382745103
-机动步队,http://mmitv.top/pltv/yy.php?id=1354932371
 动作大片,http://mmitv.top/pltv/yy.php?id=1354930816
-传奇之王-影视剧,http://mmitv.top/pltv/yy.php?id=1354926735
-老表，你好Hea！-精彩港剧,http://mmitv.top/pltv/yy.php?id=1382736873
-记忆中的TVB,http://mmitv.top/pltv/yy.php?id=1382749951
-笑傲江湖-电视剧,http://mmitv.top/pltv/yy.php?id=1354936128
-申请入驻你的心,http://mmitv.top/pltv/yy.php?id=1382843075
-热播国内侦探片,http://mmitv.top/pltv/yy.php?id=1382736820
-开心麻花街,http://mmitv.top/pltv/yy.php?id=1354926643
-霸道总裁爱上女秘书,http://mmitv.top/pltv/yy.php?id=1354936167
-李茶的姑妈-开心麻花,http://mmitv.top/pltv/yy.php?id=1354936191
-德鲁纳酒店-韩剧,http://mmitv.top/pltv/yy.php?id=1354931488
-换子成龙-影视剧,http://mmitv.top/pltv/yy.php?id=1354932397
-聪明的顺溜之雄鹰小子S1-国漫,http://mmitv.top/pltv/yy.php?id=1382736902
-丈夫在外有人？真相竟然是！,http://mmitv.top/pltv/yy.php?id=1354932375
-红色经典影视剧-风语,http://mmitv.top/pltv/yy.php?id=1354926671
-笑傲江湖 第2季,http://mmitv.top/pltv/yy.php?id=1382736914
-刺激！国外战争,http://mmitv.top/pltv/yy.php?id=1354936142
-地心历险记-科幻,http://mmitv.top/pltv/yy.php?id=1382736911
-中年计划,http://mmitv.top/pltv/yy.php?id=1354658051
-催人泪下战争电影,http://mmitv.top/pltv/yy.php?id=1382745124
-国外高分侦探电影,http://mmitv.top/pltv/yy.php?id=1382736896
-宫心计-港剧-古装,http://mmitv.top/pltv/yy.php?id=1354933540
-失忆24小时,http://mmitv.top/pltv/yy.php?id=1382741640
-闲暇观看综艺,http://mmitv.top/pltv/yy.php?id=1354932379
-经典电影,http://mmitv.top/pltv/yy.php?id=1461140888
-富滇风云,http://mmitv.top/pltv/yy.php?id=1382736853
-oh我的鬼神大人-韩剧,http://mmitv.top/pltv/yy.php?id=1354936160
-大力女都奉顺-韩剧,http://mmitv.top/pltv/yy.php?id=1382735542
-无罪推定-港剧,http://mmitv.top/pltv/yy.php?id=1354936208
-寻秦记,http://mmitv.top/pltv/yy.php?id=1354658048
-地心历险记2,http://mmitv.top/pltv/yy.php?id=1354936228
-溏心风暴之家好月圆,http://mmitv.top/pltv/yy.php?id=1354888747
-最新高分战争电影片,http://mmitv.top/pltv/yy.php?id=1354930204
-翡翠凤凰-影视剧,http://mmitv.top/pltv/yy.php?id=1354926666
-聪明的顺溜之雄鹰小子S2-国漫,http://mmitv.top/pltv/yy.php?id=1382736903
-仙灵儿,http://mmitv.top/pltv/yy.php?id=1382736887
-科幻电影,http://mmitv.top/pltv/yy.php?id=1354930209
-命中注定我爱你-泰剧,http://mmitv.top/pltv/yy.php?id=1354930903
-苦咖啡,http://mmitv.top/pltv/yy.php?id=1382736908
-外国战争经典,http://mmitv.top/pltv/yy.php?id=1382749890
+动作大片,http://mmitv.top/pltv/yy.php?id=1354930887
+动作大片-热血开打,http://mmitv.top/pltv/yy.php?id=1354936168
+斗罗斗破,http://mmitv.top/pltv/yy.php?id=1354768828
+斗罗斗破精彩动漫,http://mmitv.top/pltv/yy.php?id=1507304388
+斗罗玄幻24H正在直播,http://mmitv.top/pltv/yy.php?id=1355171231
+斗破苍穹玄幻剧,http://mmitv.top/pltv/yy.php?id=1356051105
+毒液：致命守护者,http://mmitv.top/pltv/yy.php?id=1382745095
+读心神探,http://mmitv.top/pltv/yy.php?id=1382736875
+赌神-发哥,http://mmitv.top/pltv/yy.php?id=1354889044
+二号交通站,http://mmitv.top/pltv/yy.php?id=1382735582
+发哥系列,http://mmitv.top/pltv/yy.php?id=1354888733
+法外风云,http://mmitv.top/pltv/yy.php?id=1382736805
+法证先锋,http://mmitv.top/pltv/yy.php?id=1354930939
+法证先锋,http://mmitv.top/pltv/yy.php?id=1354930965
+法证先锋2,http://mmitv.top/pltv/yy.php?id=1382736870
+法证先锋Ⅱ,http://mmitv.top/pltv/yy.php?id=1354888736
+法证先锋Ⅲ,http://mmitv.top/pltv/yy.php?id=1382736802
+法证先锋Ⅳ,http://mmitv.top/pltv/yy.php?id=1354932426
+凡人的品格-影视剧,http://mmitv.top/pltv/yy.php?id=1354936116
+飞虎之雷霆极战,http://mmitv.top/pltv/yy.php?id=1382736869
+飞虎之潜行极战,http://mmitv.top/pltv/yy.php?id=1354932420
+非诚勿扰,http://mmitv.top/pltv/yy.php?id=1382735583
+非诚勿扰,http://mmitv.top/pltv/yy.php?id=1382745100
 非诚勿扰,http://mmitv.top/pltv/yy.php?id=1382745106
-能耐大了！德云社演技爆棚,http://mmitv.top/pltv/yy.php?id=1354930915
-烧脑！国外侦探,http://mmitv.top/pltv/yy.php?id=1382735551
-大家都在看的警匪片,http://mmitv.top/pltv/yy.php?id=1354930964
-蜥蜴世界,http://mmitv.top/pltv/yy.php?id=1382735545
-绝美！航拍中国第1季,http://mmitv.top/pltv/yy.php?id=1354936136
-24小时播放电视剧,http://mmitv.top/pltv/yy.php?id=1354127609
-吐槽大会 第5季,http://mmitv.top/pltv/yy.php?id=1354889009
-国外侦探电影,http://mmitv.top/pltv/yy.php?id=1382745099
-男生女生向前冲,http://mmitv.top/pltv/yy.php?id=1382745122
-院线动作大片,http://mmitv.top/pltv/yy.php?id=1354936199
+翡翠凤凰-影视剧,http://mmitv.top/pltv/yy.php?id=1354926666
+粉红女郎,http://mmitv.top/pltv/yy.php?id=1354888671
+风靡全球的谍战片,http://mmitv.top/pltv/yy.php?id=1382736817
+风味原产地潮汕,http://mmitv.top/pltv/yy.php?id=1382745178
+风筝,http://mmitv.top/pltv/yy.php?id=1382828770
+封神榜,http://mmitv.top/pltv/yy.php?id=1353426319
+福贵,http://mmitv.top/pltv/yy.php?id=1354926537
+父母爱情,http://mmitv.top/pltv/yy.php?id=1354926650
+父母爱情,http://mmitv.top/pltv/yy.php?id=1382746276
+父母的爱情,http://mmitv.top/pltv/yy.php?id=1382768483
+富滇风云,http://mmitv.top/pltv/yy.php?id=1382736853
+赶海新发现-海洋里有什么,http://mmitv.top/pltv/yy.php?id=1382749912
+敢死队-精彩动作电影,http://mmitv.top/pltv/yy.php?id=1382735573
+港片 喜剧 动作,http://mmitv.top/pltv/yy.php?id=1355480591
+港片电影,http://mmitv.top/pltv/yy.php?id=33897188
+港片电影集,http://mmitv.top/pltv/yy.php?id=1455225203
+高分动作大片-热血出击,http://mmitv.top/pltv/yy.php?id=1382736909
+高分经典电影,http://mmitv.top/pltv/yy.php?id=1382754187
+高分科幻动作片,http://mmitv.top/pltv/yy.php?id=1382749948
+公主嫁到,http://mmitv.top/pltv/yy.php?id=1382736915
+功夫婆媳-影视剧,http://mmitv.top/pltv/yy.php?id=1382736883
+攻壳机动队,http://mmitv.top/pltv/yy.php?id=1382745089
+宫心计,http://mmitv.top/pltv/yy.php?id=1354932429
+宫心计,http://mmitv.top/pltv/yy.php?id=1382828769
+宫心计-港剧-古装,http://mmitv.top/pltv/yy.php?id=1354933540
+巩汉林春晚小品合集,http://mmitv.top/pltv/yy.php?id=1354889035
+古惑仔全集,http://mmitv.top/pltv/yy.php?id=1460889796
+古装喜剧合集，还能玩起穿越？！,http://mmitv.top/pltv/yy.php?id=1382749905
+怪医文三块-影视剧,http://mmitv.top/pltv/yy.php?id=1354936154
+灌篮高手,http://mmitv.top/pltv/yy.php?id=1382735626
+国产大片电影,http://mmitv.top/pltv/yy.php?id=1354926655
+国产动作电影,http://mmitv.top/pltv/yy.php?id=1382736858
+国产喜剧,http://mmitv.top/pltv/yy.php?id=1382735584
+国产喜剧大片,http://mmitv.top/pltv/yy.php?id=1382745113
+国内动作大片,http://mmitv.top/pltv/yy.php?id=1382749917
 国内动作电影,http://mmitv.top/pltv/yy.php?id=1382745176
-吾儿可教-经典电视剧,http://mmitv.top/pltv/yy.php?id=1354932391
-大君-描绘爱情,http://mmitv.top/pltv/yy.php?id=1382736874
-李三枪-抗战影视剧,http://mmitv.top/pltv/yy.php?id=1354936122
-超解压小视频,http://mmitv.top/pltv/yy.php?id=1382744423
-什么会让你快乐,http://mmitv.top/pltv/yy.php?id=54886912
-摔跤吧爸爸！院线大片,http://mmitv.top/pltv/yy.php?id=1382736851
-三个女人一个因,http://mmitv.top/pltv/yy.php?id=1382749953
-喜乐街,http://mmitv.top/pltv/yy.php?id=1354936231
-大家都爱看的港剧,http://mmitv.top/pltv/yy.php?id=1382736861
-越策越开心-搞笑综艺,http://mmitv.top/pltv/yy.php?id=1382736895
-贾玲变唐代女子收获爱情,http://mmitv.top/pltv/yy.php?id=1382736912
-如何实现梦想？,http://mmitv.top/pltv/yy.php?id=1382736892
-老司机带你开眼界,http://mmitv.top/pltv/yy.php?id=1349538007
-一条狗的使命-高分电影,http://mmitv.top/pltv/yy.php?id=1354936178
-跳远生命线-优质港剧,http://mmitv.top/pltv/yy.php?id=1382735566
-外国爆笑喜剧,http://mmitv.top/pltv/yy.php?id=1382745093
-能耐大了第1季,http://mmitv.top/pltv/yy.php?id=1354930195
-全剧最清醒的只有许大茂,http://mmitv.top/pltv/yy.php?id=1382735541
-国外战争,http://mmitv.top/pltv/yy.php?id=1382749918
-这样洗地毯你见过吗,http://mmitv.top/pltv/yy.php?id=1354931585
-洗地毯,http://mmitv.top/pltv/yy.php?id=1382736859
-吐槽大会 第1季,http://mmitv.top/pltv/yy.php?id=1354936210
+国内动作片,http://mmitv.top/pltv/yy.php?id=1382735561
+国内科幻,http://mmitv.top/pltv/yy.php?id=1354936170
+国内科幻电影,http://mmitv.top/pltv/yy.php?id=1354932444
+国内科幻片,http://mmitv.top/pltv/yy.php?id=1382745110
+国内科幻片来袭,http://mmitv.top/pltv/yy.php?id=1354930821
+国内喜剧,http://mmitv.top/pltv/yy.php?id=1382735563
+国内喜剧,http://mmitv.top/pltv/yy.php?id=1382736862
+国内战争大片合集,http://mmitv.top/pltv/yy.php?id=1382749950
+国内战争电影,http://mmitv.top/pltv/yy.php?id=1382736865
+国内侦探电影大全,http://mmitv.top/pltv/yy.php?id=1354936134
 国外超燃动作片,http://mmitv.top/pltv/yy.php?id=1382749913
-一城一味-央视美食,http://mmitv.top/pltv/yy.php?id=1382735559
-越策越开心23-33,http://mmitv.top/pltv/yy.php?id=1354930967
+国外动作大片,http://mmitv.top/pltv/yy.php?id=1382735540
+国外高分大片,http://mmitv.top/pltv/yy.php?id=1382736867
+国外高分侦探电影,http://mmitv.top/pltv/yy.php?id=1382736896
+国外黑色喜剧：冷幽默小剧场,http://mmitv.top/pltv/yy.php?id=1382745175
+国外科幻,http://mmitv.top/pltv/yy.php?id=1382736800
+国外科幻片,http://mmitv.top/pltv/yy.php?id=1382735585
+国外院线动作大片,http://mmitv.top/pltv/yy.php?id=1382735570
+国外战争,http://mmitv.top/pltv/yy.php?id=1382735571
+国外战争,http://mmitv.top/pltv/yy.php?id=1382749918
+国外侦探电影,http://mmitv.top/pltv/yy.php?id=1382745099
+国威影院 仙侠系列,http://mmitv.top/pltv/yy.php?id=1354866665
+哈利波特全集,http://mmitv.top/pltv/yy.php?id=1382745105
+憨豆先生,http://mmitv.top/pltv/yy.php?id=1354930189
+好先生,http://mmitv.top/pltv/yy.php?id=29067617
+好先生,http://mmitv.top/pltv/yy.php?id=79382500
+河山,http://mmitv.top/pltv/yy.php?id=1382749952
+黑冰,http://mmitv.top/pltv/yy.php?id=1354932427
+红楼梦1987经典版,http://mmitv.top/pltv/yy.php?id=1382745084
+红色经典影视剧-风语,http://mmitv.top/pltv/yy.php?id=1354926671
+洪大哥系列,http://mmitv.top/pltv/yy.php?id=1354888743
+洪金宝福星系列,http://mmitv.top/pltv/yy.php?id=1354924839
+花儿开心吧,http://mmitv.top/pltv/yy.php?id=1354930984
+花儿开心吧-小品,http://mmitv.top/pltv/yy.php?id=1382736917
+华子系列,http://mmitv.top/pltv/yy.php?id=1354888726
+怀旧好电影,http://mmitv.top/pltv/yy.php?id=1382627144
+怀旧小品,http://mmitv.top/pltv/yy.php?id=1382736821
+欢乐集结号,http://mmitv.top/pltv/yy.php?id=1354931582
+欢乐集结号,http://mmitv.top/pltv/yy.php?id=1382735550
+欢乐集结号,http://mmitv.top/pltv/yy.php?id=1382749911
+欢乐集结号2,http://mmitv.top/pltv/yy.php?id=1354930919
+欢乐集结号3,http://mmitv.top/pltv/yy.php?id=1382736822
+欢乐集结号4,http://mmitv.top/pltv/yy.php?id=1382736889
+欢乐集结号58-70,http://mmitv.top/pltv/yy.php?id=1382745119
+欢乐集结号-每天笑不停,http://mmitv.top/pltv/yy.php?id=1382741642
+欢乐颂,http://mmitv.top/pltv/yy.php?id=1382735624
+欢乐一起看,http://mmitv.top/pltv/yy.php?id=1354930926
+欢天喜地七仙女,http://mmitv.top/pltv/yy.php?id=1382735553
+欢迎来到爆笑剧场,http://mmitv.top/pltv/yy.php?id=1382736916
+换子成龙-影视剧,http://mmitv.top/pltv/yy.php?id=1354932397
+荒野求生德爷,http://mmitv.top/pltv/yy.php?id=36949900
+黄大妮-电视剧,http://mmitv.top/pltv/yy.php?id=1354930904
+回家的诱惑,http://mmitv.top/pltv/yy.php?id=1354658043
+火蓝刀锋,http://mmitv.top/pltv/yy.php?id=1382737892
+火线追凶-侦探系列电影,http://mmitv.top/pltv/yy.php?id=1382745090
+机场超燃警匪片,http://mmitv.top/pltv/yy.php?id=1382735576
+机动步队,http://mmitv.top/pltv/yy.php?id=1354932371
+机械战警1-3,http://mmitv.top/pltv/yy.php?id=1382736854
+缉妖法海传-国内电影,http://mmitv.top/pltv/yy.php?id=1354936203
+记忆中的TVB,http://mmitv.top/pltv/yy.php?id=1382749951
+纪晓岚,http://mmitv.top/pltv/yy.php?id=1354143978
+纪晓岚,http://mmitv.top/pltv/yy.php?id=1382781415
+加勒比海盗系列,http://mmitv.top/pltv/yy.php?id=1382749914
+家有九凤-影视剧,http://mmitv.top/pltv/yy.php?id=1354930894
+家族荣耀-精彩港剧,http://mmitv.top/pltv/yy.php?id=1382745103
+贾玲变唐代女子收获爱情,http://mmitv.top/pltv/yy.php?id=1382736912
+贾玲春晚小品,http://mmitv.top/pltv/yy.php?id=1382736720
+降服魔女的手段-泰剧,http://mmitv.top/pltv/yy.php?id=1354932405
+交友林正英女鬼电影,http://mmitv.top/pltv/yy.php?id=1453996620
+解放：苏联战争巨片,http://mmitv.top/pltv/yy.php?id=1354936249
+今晚80后脱口秀,http://mmitv.top/pltv/yy.php?id=1382745098
+今夜欢乐颂,http://mmitv.top/pltv/yy.php?id=1382735572
+金婚,http://mmitv.top/pltv/yy.php?id=1382736832
+金婚,http://mmitv.top/pltv/yy.php?id=1382828768
+金三角大营救,http://mmitv.top/pltv/yy.php?id=1354930924
+金星脱口秀：我敢说你敢听吗,http://mmitv.top/pltv/yy.php?id=1382735552
+金星脱口秀-敢说会道,http://mmitv.top/pltv/yy.php?id=1354932407
+金庸武侠系列,http://mmitv.top/pltv/yy.php?id=40959929
+金玉满堂：精彩港剧,http://mmitv.top/pltv/yy.php?id=1382736881
+金装四大才子,http://mmitv.top/pltv/yy.php?id=1354926600
+尽享国内精彩战争片,http://mmitv.top/pltv/yy.php?id=1382745094
+经典大片合集,http://mmitv.top/pltv/yy.php?id=1382749895
+经典电影,http://mmitv.top/pltv/yy.php?id=1355142167
+经典电影,http://mmitv.top/pltv/yy.php?id=1461140888
+经典动漫,http://mmitv.top/pltv/yy.php?id=22777075
+经典动作电影,http://mmitv.top/pltv/yy.php?id=1370293254
+经典二战,http://mmitv.top/pltv/yy.php?id=1354936238
+经典港片800部,http://mmitv.top/pltv/yy.php?id=1382800018
+经典搞笑影片,http://mmitv.top/pltv/yy.php?id=1382749878
+经典抗日电影,http://mmitv.top/pltv/yy.php?id=1354936141
+惊恐鬼怪盗暮,http://mmitv.top/pltv/yy.php?id=1382749525
+精彩动作电影,http://mmitv.top/pltv/yy.php?id=1382736823
+精彩动作电影享不停,http://mmitv.top/pltv/yy.php?id=1382736809
+精彩玄幻电影,http://mmitv.top/pltv/yy.php?id=1382688400
+九品芝麻官包龙星,http://mmitv.top/pltv/yy.php?id=1354930968
+举起手来-惊险抗日,http://mmitv.top/pltv/yy.php?id=1382736877
+飓风营救,http://mmitv.top/pltv/yy.php?id=1382735547
+绝版鬼片 超恐怖,http://mmitv.top/pltv/yy.php?id=1382788850
+绝美！航拍中国第1季,http://mmitv.top/pltv/yy.php?id=1354936136
+军旅全系列24h陪你看,http://mmitv.top/pltv/yy.php?id=1355171357
+开饭了大熊猫,http://mmitv.top/pltv/yy.php?id=1382741641
+开心麻花街,http://mmitv.top/pltv/yy.php?id=1354926643
+康熙王朝,http://mmitv.top/pltv/yy.php?id=1382736818
+科幻大片,http://mmitv.top/pltv/yy.php?id=1382745181
+科幻电影,http://mmitv.top/pltv/yy.php?id=1354930209
+科幻片：来看神奇的地球,http://mmitv.top/pltv/yy.php?id=1354930897
+渴望,http://mmitv.top/pltv/yy.php?id=1354930963
+空谷幽兰,http://mmitv.top/pltv/yy.php?id=1382745182
+苦咖啡,http://mmitv.top/pltv/yy.php?id=1382736908
+苦乐村官,http://mmitv.top/pltv/yy.php?id=1382736864
+来看修牛蹄,http://mmitv.top/pltv/yy.php?id=1382749887
+来自星星的你,http://mmitv.top/pltv/yy.php?id=1354930976
+老表，你好Hea！-精彩港剧,http://mmitv.top/pltv/yy.php?id=1382736873
+老广的味道 第3季-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382735565
+老司机带你开眼界,http://mmitv.top/pltv/yy.php?id=1349538007
+了不起的萝莉小玲,http://mmitv.top/pltv/yy.php?id=1382736799
+雷神系列,http://mmitv.top/pltv/yy.php?id=1354932441
+李茶的姑妈-开心麻花,http://mmitv.top/pltv/yy.php?id=1354936191
+李连杰功夫 经典武侠,http://mmitv.top/pltv/yy.php?id=74613175
+李三枪-抗战影视剧,http://mmitv.top/pltv/yy.php?id=1354936122
+聊斋志异S1,http://mmitv.top/pltv/yy.php?id=1382736975
+临界婚姻,http://mmitv.top/pltv/yy.php?id=1354932365
+玲宝陪你看,http://mmitv.top/pltv/yy.php?id=1353215589
+流金岁月-经典港剧,http://mmitv.top/pltv/yy.php?id=1382736891
+鹿鼎记-陈小春版,http://mmitv.top/pltv/yy.php?id=1382736920
+鹿鼎记-高清全集,http://mmitv.top/pltv/yy.php?id=1382704650
+鹿鼎记-周星驰版,http://mmitv.top/pltv/yy.php?id=1354658049
+买车前看一看 不然血亏,http://mmitv.top/pltv/yy.php?id=1349602814
+漫画解说,http://mmitv.top/pltv/yy.php?id=1382735568
+漫威超级英雄系列,http://mmitv.top/pltv/yy.php?id=1354932402
+漫威十年老粉福利来了,http://mmitv.top/pltv/yy.php?id=1354930233
+美国队长史蒂夫,http://mmitv.top/pltv/yy.php?id=1382736813
+妹子高分搞笑电影,http://mmitv.top/pltv/yy.php?id=33478222
+萌鸡小队S1-国漫,http://mmitv.top/pltv/yy.php?id=1382736904
+迷,http://mmitv.top/pltv/yy.php?id=1382736719
+觅食者-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382736841
+密子君,http://mmitv.top/pltv/yy.php?id=1382736717
+名媛望族-精彩港剧,http://mmitv.top/pltv/yy.php?id=1354932431
+铭记历史-甲午大海战,http://mmitv.top/pltv/yy.php?id=1354936195
+命中注定我爱你-泰剧,http://mmitv.top/pltv/yy.php?id=1354930903
+魔幻手机,http://mmitv.top/pltv/yy.php?id=1382735544
+末日系列-外国电影合集,http://mmitv.top/pltv/yy.php?id=1354889019
+木乃伊全集,http://mmitv.top/pltv/yy.php?id=1354889024
+男亲女爱-经典港剧,http://mmitv.top/pltv/yy.php?id=1382736715
+男生女生向前冲,http://mmitv.top/pltv/yy.php?id=1382745122
+脑洞大开的精彩科幻片,http://mmitv.top/pltv/yy.php?id=1382736723
+能耐大了！德云社演技爆棚,http://mmitv.top/pltv/yy.php?id=1354930915
+能耐大了第1季,http://mmitv.top/pltv/yy.php?id=1354930195
+你不知道的黄河故事,http://mmitv.top/pltv/yy.php?id=1382745189
+你所喜欢的颖宝,http://mmitv.top/pltv/yy.php?id=1456829119
+你最爱的宋小宝,http://mmitv.top/pltv/yy.php?id=1354936198
+你最爱的小龙女-神雕侠侣,http://mmitv.top/pltv/yy.php?id=1354926637
+娘亲舅大,http://mmitv.top/pltv/yy.php?id=1354932360
+农家小菜,http://mmitv.top/pltv/yy.php?id=1382736894
+潘磕惺康谝患-国产喜剧,http://mmitv.top/pltv/yy.php?id=1382741637
+叛逆者,http://mmitv.top/pltv/yy.php?id=1382736868
+泡芙陪你看电影,http://mmitv.top/pltv/yy.php?id=24407222
+平凡岁月,http://mmitv.top/pltv/yy.php?id=1382745117
+破案港剧,http://mmitv.top/pltv/yy.php?id=1350670730
+奇领 铁山靠,http://mmitv.top/pltv/yy.php?id=41584371
+奇缘39262港台影院,http://mmitv.top/pltv/yy.php?id=1354889234
+亲爱的热爱的,http://mmitv.top/pltv/yy.php?id=1354932433
+情满四合院,http://mmitv.top/pltv/yy.php?id=1382736848
+情满四合院,http://mmitv.top/pltv/yy.php?id=1382736888
+请回答1988,http://mmitv.top/pltv/yy.php?id=1354932362
+全剧最清醒的只有许大茂,http://mmitv.top/pltv/yy.php?id=1382735541
+缺宅男女,http://mmitv.top/pltv/yy.php?id=1354930937
+缺宅男女-精彩港剧,http://mmitv.top/pltv/yy.php?id=1382745088
+燃爆动作片,http://mmitv.top/pltv/yy.php?id=1382736801
+热播国内侦探片,http://mmitv.top/pltv/yy.php?id=1382736820
+热门喜剧,http://mmitv.top/pltv/yy.php?id=1354931495
+热血动作电影,http://mmitv.top/pltv/yy.php?id=1382736804
+热血动作片合集,http://mmitv.top/pltv/yy.php?id=1382735627
+热血抗日电影,http://mmitv.top/pltv/yy.php?id=1382749907
+热血战争巨作,http://mmitv.top/pltv/yy.php?id=1382745087
+热血战争片,http://mmitv.top/pltv/yy.php?id=1354932409
+人生必看的科幻片,http://mmitv.top/pltv/yy.php?id=1382745114
+如何实现梦想？,http://mmitv.top/pltv/yy.php?id=1382736892
+三个女人一个因,http://mmitv.top/pltv/yy.php?id=1382749953
+三国演义,http://mmitv.top/pltv/yy.php?id=32788000
+三国演义【1994】,http://mmitv.top/pltv/yy.php?id=1354930932
+三国演义94年经典版,http://mmitv.top/pltv/yy.php?id=1354936241
+上海滩,http://mmitv.top/pltv/yy.php?id=1382745184
+烧脑！国外侦探,http://mmitv.top/pltv/yy.php?id=1382735551
+少年包青天1-3蓝光版,http://mmitv.top/pltv/yy.php?id=38498680
+少年包青天第三部,http://mmitv.top/pltv/yy.php?id=1382736814
+舌尖上的中国第2季,http://mmitv.top/pltv/yy.php?id=1354930943
+舌尖上的中国第一季,http://mmitv.top/pltv/yy.php?id=1354930952
+申请入驻你的心,http://mmitv.top/pltv/yy.php?id=1382843075
+深海利剑,http://mmitv.top/pltv/yy.php?id=1382736906
+什么会让你快乐,http://mmitv.top/pltv/yy.php?id=54886912
+神厨小福贵,http://mmitv.top/pltv/yy.php?id=1382736860
+神雕侠侣,http://mmitv.top/pltv/yy.php?id=1351762426
+神探狄仁杰1,http://mmitv.top/pltv/yy.php?id=1354930934
+神探狄仁杰1—5部全集,http://mmitv.top/pltv/yy.php?id=1382705592
+神探狄仁杰2,http://mmitv.top/pltv/yy.php?id=1382828767
+神医喜来乐,http://mmitv.top/pltv/yy.php?id=1382714119
+生逢灿烂的日子,http://mmitv.top/pltv/yy.php?id=1382745085
+剩女李夏天的求爱之路,http://mmitv.top/pltv/yy.php?id=1382749910
+失忆24小时,http://mmitv.top/pltv/yy.php?id=1382741640
+十大经典港剧之《大时代》,http://mmitv.top/pltv/yy.php?id=1354930891
+史诗级战争大片,http://mmitv.top/pltv/yy.php?id=1382745092
+士兵突击,http://mmitv.top/pltv/yy.php?id=1382828766
+世纪震撼蓝色星球,http://mmitv.top/pltv/yy.php?id=1354930936
+守望的天空,http://mmitv.top/pltv/yy.php?id=1382736843
+摔跤吧爸爸！院线大片,http://mmitv.top/pltv/yy.php?id=1382736851
+双月之城-国漫,http://mmitv.top/pltv/yy.php?id=1382736907
+顺娘-影视剧,http://mmitv.top/pltv/yy.php?id=1354930945
+宋小宝春晚小品合集,http://mmitv.top/pltv/yy.php?id=1382736866
+宋小宝小品合集,http://mmitv.top/pltv/yy.php?id=1354931577
+送欢乐,http://mmitv.top/pltv/yy.php?id=34093016
+速度与激情全集,http://mmitv.top/pltv/yy.php?id=1382749892
+粟裕大将-影视,http://mmitv.top/pltv/yy.php?id=1354926542
+他的剧本我只是观众,http://mmitv.top/pltv/yy.php?id=1356158015
+谈判专家,http://mmitv.top/pltv/yy.php?id=1382735560
+探秘中华美食,http://mmitv.top/pltv/yy.php?id=1354930954
+溏心风暴之家好月圆,http://mmitv.top/pltv/yy.php?id=1354888747
+特种兵归来-国产电影,http://mmitv.top/pltv/yy.php?id=1382735581
+特种兵系列,http://mmitv.top/pltv/yy.php?id=1508456184
+体验另一种生活！,http://mmitv.top/pltv/yy.php?id=1354936229
+天道-9.2高分好剧,http://mmitv.top/pltv/yy.php?id=1382735574
+天龙八部（国语版）,http://mmitv.top/pltv/yy.php?id=1382736855
+天龙八部,http://mmitv.top/pltv/yy.php?id=1382749944
+天龙神雕经典回忆,http://mmitv.top/pltv/yy.php?id=68260522
+天下第一,http://mmitv.top/pltv/yy.php?id=1382736838
+田园生活,http://mmitv.top/pltv/yy.php?id=1382736898
+跳远生命线-优质港剧,http://mmitv.top/pltv/yy.php?id=1382735566
+通天狄仁杰,http://mmitv.top/pltv/yy.php?id=1382749906
+吐槽大会 第1季,http://mmitv.top/pltv/yy.php?id=1354936210
+吐槽大会 第2季,http://mmitv.top/pltv/yy.php?id=1354936145
+吐槽大会 第5季,http://mmitv.top/pltv/yy.php?id=1354889009
+外国爆笑喜剧,http://mmitv.top/pltv/yy.php?id=1382745093
+外国科幻大片,http://mmitv.top/pltv/yy.php?id=1382747628
+外国战争大片,http://mmitv.top/pltv/yy.php?id=1382736872
+外国战争经典,http://mmitv.top/pltv/yy.php?id=1382749890
+王朝-自然-纪录片,http://mmitv.top/pltv/yy.php?id=1354930927
+伪装者,http://mmitv.top/pltv/yy.php?id=1354936244
+为什么你一直是单身,http://mmitv.top/pltv/yy.php?id=89431014
+我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
+我比你更懂车 你偏不信,http://mmitv.top/pltv/yy.php?id=85042287
+我的父亲我的兵,http://mmitv.top/pltv/yy.php?id=1353413714
+我的前半生,http://mmitv.top/pltv/yy.php?id=1382735564
+我的体育老师,http://mmitv.top/pltv/yy.php?id=1382745169
+无敌解压,http://mmitv.top/pltv/yy.php?id=1382736897
+无敌县令,http://mmitv.top/pltv/yy.php?id=1354932390
+无敌燕双鹰,http://mmitv.top/pltv/yy.php?id=1354825244
+无罪推定-港剧,http://mmitv.top/pltv/yy.php?id=1354936208
+吾儿可教-经典电视剧,http://mmitv.top/pltv/yy.php?id=1354932391
+武工队传奇,http://mmitv.top/pltv/yy.php?id=1354790484
+武林外传,http://mmitv.top/pltv/yy.php?id=1353852605
+武侠电视剧,http://mmitv.top/pltv/yy.php?id=1459331991
+西游记后传,http://mmitv.top/pltv/yy.php?id=1382736846
+西游记张卫健版,http://mmitv.top/pltv/yy.php?id=1354936155
+蜥蜴世界,http://mmitv.top/pltv/yy.php?id=1382735545
+洗地毯,http://mmitv.top/pltv/yy.php?id=1382736859
+喜剧闹翻天,http://mmitv.top/pltv/yy.php?id=1382735548
+喜乐街,http://mmitv.top/pltv/yy.php?id=1354936231
+夏洛特烦恼-国内电影-喜剧,http://mmitv.top/pltv/yy.php?id=1354936201
+仙剑奇侠传-神仙姐姐驾到,http://mmitv.top/pltv/yy.php?id=1382749903
+仙灵儿,http://mmitv.top/pltv/yy.php?id=1382736887
+闲暇观看综艺,http://mmitv.top/pltv/yy.php?id=1354932379
+香港动作大片,http://mmitv.top/pltv/yy.php?id=1382736816
+香港院线大片-最新,http://mmitv.top/pltv/yy.php?id=1354936242
+小宝让你乐翻天：6到9集,http://mmitv.top/pltv/yy.php?id=1354930971
+小兵张嘎,http://mmitv.top/pltv/yy.php?id=1354930225
+小鬼当家,http://mmitv.top/pltv/yy.php?id=1382745104
+小欢喜,http://mmitv.top/pltv/yy.php?id=1382737888
+小米粒Mili,http://mmitv.top/pltv/yy.php?id=1382736842
+小敏,http://mmitv.top/pltv/yy.php?id=1382736890
+小沈阳春晚小品,http://mmitv.top/pltv/yy.php?id=1382749941
+小生物的故事,http://mmitv.top/pltv/yy.php?id=1382736834
+小甜甜 大秧歌,http://mmitv.top/pltv/yy.php?id=1382658790
+小戏骨黄飞鸿,http://mmitv.top/pltv/yy.php?id=1354936181
+小小飞虎队,http://mmitv.top/pltv/yy.php?id=1382749888
+笑傲帮,http://mmitv.top/pltv/yy.php?id=1382735555
+笑傲江湖 4K超清,http://mmitv.top/pltv/yy.php?id=1354282410
+笑傲江湖 第1季,http://mmitv.top/pltv/yy.php?id=1382749896
+笑傲江湖 第2季,http://mmitv.top/pltv/yy.php?id=1382736914
+笑傲江湖,http://mmitv.top/pltv/yy.php?id=1354930909
+笑傲江湖-电视剧,http://mmitv.top/pltv/yy.php?id=1354936128
+笑声传奇,http://mmitv.top/pltv/yy.php?id=1382736880
+心理追凶-港剧,http://mmitv.top/pltv/yy.php?id=1354936207
+新白娘子传奇,http://mmitv.top/pltv/yy.php?id=1354490667
+新白娘子传奇-女神赵雅芝,http://mmitv.top/pltv/yy.php?id=1354930969
+新三国,http://mmitv.top/pltv/yy.php?id=26744898
+新世界,http://mmitv.top/pltv/yy.php?id=1382736850
+新主播，求照顾,http://mmitv.top/pltv/yy.php?id=1382690406
+星爷经典-百看不厌,http://mmitv.top/pltv/yy.php?id=1382736808
+熊出没-国漫,http://mmitv.top/pltv/yy.php?id=1354936157
+熊出没之探险日记S1-国漫,http://mmitv.top/pltv/yy.php?id=1354930977
+熊仔之正义守护-国漫,http://mmitv.top/pltv/yy.php?id=1382736836
 修牛蹄,http://mmitv.top/pltv/yy.php?id=1353413683
+学生兵,http://mmitv.top/pltv/yy.php?id=1354658003
+血色浪漫,http://mmitv.top/pltv/yy.php?id=1354926676
+寻秦记,http://mmitv.top/pltv/yy.php?id=1354658048
+寻秦记-穿越剧经典,http://mmitv.top/pltv/yy.php?id=1382749900
+寻味顺德-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382736844
+丫头动漫 斗罗斗破,http://mmitv.top/pltv/yy.php?id=1458722520
+燕双鹰,http://mmitv.top/pltv/yy.php?id=1352227153
+燕双鹰系列,http://mmitv.top/pltv/yy.php?id=1457622044
+燕双鹰专场,http://mmitv.top/pltv/yy.php?id=23026835
+妖魔鬼怪 超好看,http://mmitv.top/pltv/yy.php?id=1459714870
+妖神记,http://mmitv.top/pltv/yy.php?id=1382745171
+妖神记之黑狱篇,http://mmitv.top/pltv/yy.php?id=1382745173
+野山鹰-影视剧,http://mmitv.top/pltv/yy.php?id=1354932395
+野性欧洲,http://mmitv.top/pltv/yy.php?id=1354926622
+叶问全集,http://mmitv.top/pltv/yy.php?id=1382828771
+一城一味（舌尖姐妹篇）,http://mmitv.top/pltv/yy.php?id=1382745179
+一城一味-央视美食,http://mmitv.top/pltv/yy.php?id=1382735559
+一分钟学道菜,http://mmitv.top/pltv/yy.php?id=1382736901
+一起来笑吧,http://mmitv.top/pltv/yy.php?id=1454859415
+一条狗的使命-高分电影,http://mmitv.top/pltv/yy.php?id=1354936178
+倚天屠龙记,http://mmitv.top/pltv/yy.php?id=1449856066
+易中天品三国,http://mmitv.top/pltv/yy.php?id=1354931498
+易中天品三国完整版,http://mmitv.top/pltv/yy.php?id=1461244449
+银河护卫队-国外科幻巨作,http://mmitv.top/pltv/yy.php?id=1382736815
+英叔僵尸 3000部,http://mmitv.top/pltv/yy.php?id=1353685311
+宇宙护卫队--国漫,http://mmitv.top/pltv/yy.php?id=1382736837
+原始人大挑战,http://mmitv.top/pltv/yy.php?id=1382736884
+远去的飞鹰-影视剧,http://mmitv.top/pltv/yy.php?id=1354930912
+院线动作大片,http://mmitv.top/pltv/yy.php?id=1354936199
+院线动作大片,http://mmitv.top/pltv/yy.php?id=1382736900
+岳云鹏-屌丝也能追到美女,http://mmitv.top/pltv/yy.php?id=1382736882
+岳云鹏宋小宝也来演电影了？,http://mmitv.top/pltv/yy.php?id=1354926612
+越策越开心23-33,http://mmitv.top/pltv/yy.php?id=1354930967
+越策越开心-搞笑综艺,http://mmitv.top/pltv/yy.php?id=1382736895
+宰相刘罗锅,http://mmitv.top/pltv/yy.php?id=1382745191
+战火中的故事,http://mmitv.top/pltv/yy.php?id=1382735625
+战争大片,http://mmitv.top/pltv/yy.php?id=1382735556
+战争大片,http://mmitv.top/pltv/yy.php?id=1382736798
+战争大片,http://mmitv.top/pltv/yy.php?id=1382736819
+战争大片-国外电影,http://mmitv.top/pltv/yy.php?id=1382736857
+张国荣与周润发的兄弟情,http://mmitv.top/pltv/yy.php?id=1354930961
+丈夫在外有人？真相竟然是！,http://mmitv.top/pltv/yy.php?id=1354932375
+赵本山爆笑小品2,http://mmitv.top/pltv/yy.php?id=1354936217
+这样洗地毯你见过吗,http://mmitv.top/pltv/yy.php?id=1354931585
+珍珠港-电影,http://mmitv.top/pltv/yy.php?id=1354936234
+真实案件系列,http://mmitv.top/pltv/yy.php?id=1382671124
+真心想让你幸福,http://mmitv.top/pltv/yy.php?id=1382736876
+正阳门下 正在直播,http://mmitv.top/pltv/yy.php?id=1453059740
+正阳门下,http://mmitv.top/pltv/yy.php?id=1354931580
+芝正在直播,http://mmitv.top/pltv/yy.php?id=1352488363
+知否,http://mmitv.top/pltv/yy.php?id=1351537467
+致敬星爷致敬经典,http://mmitv.top/pltv/yy.php?id=1354889048
+中国第一神探-狄仁杰,http://mmitv.top/pltv/yy.php?id=1354932438
+中国味道 第4季-美食纪录片,http://mmitv.top/pltv/yy.php?id=1382736845
+中年计划,http://mmitv.top/pltv/yy.php?id=1354658051
+忠烈杨家将,http://mmitv.top/pltv/yy.php?id=1382749909
+钟馗传说,http://mmitv.top/pltv/yy.php?id=1382736839
+重生之超级赛亚人,http://mmitv.top/pltv/yy.php?id=1354936124
+朱元璋电视剧,http://mmitv.top/pltv/yy.php?id=1382765235
+最后的狮子-探险纪录片,http://mmitv.top/pltv/yy.php?id=1382735577
+最美的青春,http://mmitv.top/pltv/yy.php?id=1382745116
+最新高分战争电影片,http://mmitv.top/pltv/yy.php?id=1354930204
+
 
 👶少儿·动漫,#genre#
 汪汪队长001,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/f96cb7c6f8354da1ab9c67a92bd03296/1200.m3u8
@@ -4553,3 +4523,6 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
 埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
 埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+
+㊙️内部测试_beta,#genre#
+测试, http://tv.nxog.top/m/404/xjj.php
