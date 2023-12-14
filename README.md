@@ -4,10 +4,12 @@
 
 
 # 🌐网址：
-- 接口：
+- 仓库/线路推送地址：
   - https://w6566.github.io/tvlive/wj.json
   - https://raw.fgit.cf/w6566/tvlive/main/wj.json
-
+- 直播源推送地址：
+  - https://w6566.github.io/tvlive/box/live/live.txt
+  - https://raw.fgit.cf/w6566/tvlive/main/box/live/live.txt
 - 网盘：
   - https://www.123pan.com/s/BmA9-fcth3.html 提取码：wang
 
