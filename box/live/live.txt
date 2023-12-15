@@ -419,10 +419,10 @@ Bestv赛事5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/in
 海南公共,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
 海南自贸,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
 峨眉电影,http://r.jdshipin.com/XIjta
-4K超高清电影.1080P,http://r.jdshipin.com/5DWJk
-江苏影视.576,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+4K超高清电影,http://r.jdshipin.com/5DWJk
+江苏影视,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
 翡翠台,http://r.jdshipin.com/qrfbg
-香港卫视.576,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 第一财经,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 乐游,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 金色学堂,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
@@ -1506,7 +1506,7 @@ GRTN文化频道,http://8.217.90.28:9999/触电.php?id=gdwh
 广东移动,http://8.217.90.28:9999/触电.php?id=gdyd
 广东影视,http://8.217.90.28:9999/触电.php?id=gdys
 广东珠江,http://8.217.90.28:9999/触电.php?id=gdzj
-广州影视.576,http://www.namewee.xyz/gudou.php?id=gzfilms_1500
+广州影视,http://www.namewee.xyz/gudou.php?id=gzfilms_1500
 河源公共,http://8.217.90.28:9999/触电.php?id=hygg
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源综合,http://8.217.90.28:9999/触电.php?id=hyzh
