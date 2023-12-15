@@ -550,13 +550,13 @@ Hot欧美影院,http://[2409:8087:7000:20:1000::22]:6060/000000001000/7185203501
 LOUPE 4K,http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Now Sports 4K,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=1032489&extension=ts
 咪咕体育4K,http://r.jdshipin.com/ln4xk
-咪咕4K(2),http://api.52tb.xyz/info?id=165&token=20230126icqgot
+咪咕4K,http://api.52tb.xyz/info?id=165&token=20230126icqgot
 爱自然Love Nature 4K_1,http://89.248.160.57/iptv/RFPEEUQNURN7MN/5001/index.m3u8
-BOX RELAX 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/19283/index.m3u8
-体育SKY SPORT 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6820/index.m3u8
-BCU Ultra 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/11045/index.m3u8
-MM Flip UHD 4K_4,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/13057/index.m3u8
-SKY HIGH NATURE 4K_3,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/14247/index.m3u8
+BOX RELAX 4K,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/19283/index.m3u8
+体育SKY SPORT 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/6820/index.m3u8
+BCU Ultra 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/11045/index.m3u8
+MM Flip UHD 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/13057/index.m3u8
+SKY HIGH NATURE 4K,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/14247/index.m3u8
 
 🔥国际频道,#genre#
 香港J2频道,http://r.jdshipin.com/Nr5jq
