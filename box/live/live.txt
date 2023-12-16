@@ -1,5 +1,5 @@
 💯版本信息,#genre#
-更新时间20231214,http://tv.nxog.top/m/404/xjj.php
+更新时间20231216,http://tv.nxog.top/m/404/xjj.php
 微博@·王健·,http://tv.nxog.top/m/404/xjj.php
 
 🇨🇳央视频道,#genre#
@@ -559,23 +559,33 @@ MM Flip UHD 4K,http://89.248.160.57/iptv/W9DG7KKUWQ3T2H/13057/index.m3u8
 SKY HIGH NATURE 4K,http://89.248.160.57/iptv/UPKY3Y8BF6KNX8/14247/index.m3u8
 
 🔥国际频道,#genre#
-香港J2频道,http://r.jdshipin.com/Nr5jq
-香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
-香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 TVB CLASSIC,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+TVB翡翠台,http://r.jdshipin.com/qrfbg
 TVB翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 TVB經典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
+TVB翡翠财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 TVBJ1,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153395
+TVBJ2频道,http://r.jdshipin.com/Nr5jq
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVB翡翠财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+EZTV-1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV-2,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+EZTV-6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 24台,http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
-BBS佛教,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
@@ -587,9 +597,6 @@ EBS2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index
 EBS2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
 EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-EZTV-1,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV-2,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV-6,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 GOODTV好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 GOODTV旅行,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
 KBC,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
@@ -619,15 +626,13 @@ VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 有線新聞,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist1.m3u8
 职业,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
+
 
 
 🔥卫视频道,#genre#
@@ -1699,6 +1704,7 @@ HBO signature,http://208.115.225.174:14160
 HBO Pop,http://208.115.225.174:14156
 HBO Family,http://208.115.225.174:14144
 动物星球,http://208.115.225.174:14192
+
 
 📽️电影频道,#genre#
 山东影视,rtmp://livealone.iqilu.com/iqilu/yspdhjOF03kn
@@ -4614,6 +4620,7 @@ DJ情歌6首,https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4
 埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
 埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
 埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
+
 
 ㊙️内部测试_beta,#genre#
 测试,http://tv.nxog.top/m/404/xjj.php
