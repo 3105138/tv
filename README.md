@@ -12,7 +12,7 @@
   - https://raw.fgit.cf/w6566/tvlive/main/box/live/live.txt
 - 网盘：
   - https://www.123pan.com/s/BmA9-fcth3.html 提取码：wang
- - IPV6测试：
+- IPV6测试：
   - https://test-ipv6.com/
 
   
