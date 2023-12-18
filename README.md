@@ -51,7 +51,7 @@
 <tr>
       <td>④</td>
       <td>直播源推送</td>
-      <td>hhttps://gitee.com/wj0321/tvlive/raw/master/box/live/live.txt</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/master/box/live/live.txt</td>
       <td>无</td>
       <td>国内</td>
       <td>低</td>
