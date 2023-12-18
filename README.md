@@ -42,7 +42,7 @@
 <tr>
       <td>③</td>
       <td>直播源推送</td>
-      <td>hhttps://gitee.com/wj0321/tvlive/raw/master/box/live/live.txt</td>
+      <td>hhttps://gitee.com/wj0321/tvlive/raw/master/box/live/20231218.m3u</td>
       <td>无</td>
       <td>国内</td>
       <td>同步</td>
