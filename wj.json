@@ -31,7 +31,7 @@
       "api": "csp_Local",
       "searchable": 0,
       "changeable": 0,
-      "jar": "./box/spider/fm1204.jar;"
+      "jar": "./box/spider/fm1204.jar"
     },
     {
       "key": "YGP",
