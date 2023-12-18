@@ -16,13 +16,22 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "👽玩偶哥哥┃已修复断流",
+      "name": "👽玩偶哥哥┃4K,
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+     {
+      "key": "本地",
+      "name": "本地┃文件",
+      "type": 3,
+      "api": "csp_Local",
+      "searchable": 0,
+      "changeable": 0,
+      "jar": "./box/spider/fm1204.jar;"
     },
     {
       "key": "YGP",
@@ -691,7 +700,7 @@
       "url": "Demo"
     },
     {
-      "name": "神秘的哥哥们",
+      "name": "sina微博",
       "type": 1,
       "url": "http://api.888484.xyz/神秘哥哥/super.php?v=",
       "ext": {
