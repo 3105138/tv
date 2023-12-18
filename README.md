@@ -113,12 +113,12 @@
   <tr>
       <td>TV版</td>
       <td>CatBox</td>
-      <td>②③</td>
+      <td>②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
       <td>CatVOD</td>
-      <td>②③</td>
+      <td>②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
