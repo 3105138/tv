@@ -26,35 +26,44 @@
       <td>仓库/线路推送</td>
       <td>https://gitee.com/wj0321/tvlive/raw/master/wj.json</td>
       <td>国内</td>
-      <td>国内</td>
-      <td>同步</td>
+      <td>国外</td>
+      <td>高</td>
       <td>快</td>
     </tr>
 <tr>
       <td>②</td>
       <td>仓库/线路推送</td>
-      <td>https://w6566.github.io/tvlive/wj.json</td>
-      <td>国外</td>
-      <td>国外</td>
-      <td>同步</td>
-      <td>慢</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/master/gitee.json</td>
+      <td>国内</td>
+      <td>国内</td>
+      <td>低</td>
+      <td>快</td>
     </tr>
 <tr>
       <td>③</td>
-      <td>直播源推送</td>
-      <td>https://gitee.com/wj0321/tvlive/raw/master/box/live/20231218.m3u</td>
-      <td>无</td>
-      <td>国内</td>
-      <td>同步</td>
-      <td>快</td>
+      <td>仓库/线路推送</td>
+      <td>https://w6566.github.io/tvlive/wj.json</td>
+      <td>国外</td>
+      <td>国外</td>
+      <td>高</td>
+      <td>慢</td>
     </tr>
 <tr>
       <td>④</td>
       <td>直播源推送</td>
+      <td>hhttps://gitee.com/wj0321/tvlive/raw/master/box/live/live.txt</td>
+      <td>无</td>
+      <td>国内</td>
+      <td>低</td>
+      <td>快</td>
+    </tr>
+<tr>
+      <td>⑤</td>
+      <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
       <td>无</td>
       <td>国外</td>
-      <td>同步</td>
+      <td>高</td>
       <td>慢</td>
     </tr>
   </tbody>
@@ -74,52 +83,52 @@
     <tr>
       <td>TV版</td>
       <td>影视仓</td>
-      <td>①②③④</td>
+      <td>①②③④⑤</td>
     </tr>
   <tr>
       <td>手机版</td>
       <td>影视仓OTP</td>
-      <td>①②③④</td>
+      <td>①②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
       <td>Fongmi 影视</td>
-      <td>①②③④</td>
+      <td>②③④⑤</td>
     </tr>
   <tr>
       <td>手机版</td>
       <td>Fongmi 影视</td>
-      <td>①②③④</td>
+      <td>②③④⑤</td>
     </tr>
     <tr>
       <td>TV版</td>
       <td>TVBox Q版</td>
-      <td>①②③④</td>
+      <td>①②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
       <td>TVBox 俊版</td>
-      <td>①②③④</td>
+      <td>②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
       <td>CatBox</td>
-      <td>①②③④</td>
+      <td>②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
       <td>CatVOD</td>
-      <td>①②③④</td>
+      <td>②③④⑤</td>
     </tr>
   <tr>
       <td>TV版</td>
       <td>派大星直播</td>
-      <td>③④</td>
+      <td>④⑤</td>
     </tr>
   <tr>
       <td>PC版</td>
       <td>ZYplayer</td>
-      <td>①②③④</td>
+      <td>②③④⑤</td>
     </tr>
   </tbody>
 </table>
@@ -129,8 +138,6 @@
   - https://www.123pan.com/s/BmA9-fcth3.html 提取码：wang
 - IPV6测试：
   - https://test-ipv6.com/
-- TXT转M3U格式：
-  - https://live.fanmingming.com/txt2m3u
 
 ### 📔更新：
 - 2023.12.18
