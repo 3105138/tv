@@ -89,7 +89,7 @@ CCTV-4,http://live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=0
 CCTV-4,http://v.ran-ran.top/zb/migu.php?id=cctv4a
 CCTV-4,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
 CCTV-4,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
-CCTV-4国际,http://222.175.159.226:808/hls/20234/index.m3u8
+CCTV-4,http://222.175.159.226:808/hls/20234/index.m3u8
 CCTV-4欧洲,http://live.aishang.ctlcdn.com/00000110240363_1/playlist.m3u8?CONTENTID=00000110240363_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-5,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 CCTV-5,http://[2409:8087:2001:20:2800:0:df6e:eb15]/wh7f454c46tw3847208563_882248521/ott.mobaibox.com/PLTV/3/224/3221228179/index.m3u8?icpid=3&RTS=1668594346&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
