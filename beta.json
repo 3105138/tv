@@ -21,7 +21,7 @@
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
     ],
-    "sites": [" 
+    "sites": [
         { "key": "drpy_js_豆瓣","name": "🌕微博@·王健·","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key": "csp_KungFu404","name": "📀设置阿里云盘Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt","jar": "./box/spider/alibaba.jar"},
