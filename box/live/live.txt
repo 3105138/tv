@@ -1,5 +1,5 @@
 💯版本信息,#genre#
-更新时间20231219,http://tv.nxog.top/m/404/xjj.php
+更新时间20231220,http://tv.nxog.top/m/404/xjj.php
 微博@·王健·,http://tv.nxog.top/m/404/xjj.php
 GitHub,http://tv.nxog.top/m/404/xjj.php
 
@@ -341,7 +341,7 @@ CHC家庭影院,http://live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CO
 中央新影老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
 中央新影老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?blog.ntnas.top
 中央新影中学生,https://live.v1.mk/api/cqyx.php?id=qicai
-中央新影中学生 4K,https://live.v1.mk/api/cqyx.php?id=qicai
+
 🔥🔥🔥🔥🔥🔥🔥🔥
 🔥国际频道,#genre#
 凤凰电影,http://218.202.220.2:5000/nn_live.ts?id=NEWSASIA
