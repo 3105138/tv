@@ -32,6 +32,8 @@
         {"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/youku.js"},
         {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
         {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/百忙无果.js"},
+        //wj.jar调取
+        {"key": "YGP","name": "🚀叨观荐影","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0},
         //网盘资源区
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/alitoken.txt"},
         //{"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
