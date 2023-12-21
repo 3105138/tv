@@ -18,6 +18,7 @@
       <th>直播服务</th>
       <th>更新频率</th>
       <th>加载速度</th>
+      <th>更新时间</th>
     </tr>
   </thead>
   <tbody>
@@ -29,6 +30,8 @@
       <td>国外</td>
       <td>高</td>
       <td>快</td>
+      <td>点播20231221
+直播20231220</td>
     </tr>
 <tr>
       <td>②</td>
@@ -38,6 +41,8 @@
       <td>国内</td>
       <td>低</td>
       <td>快</td>
+      <td>点播20231221
+直播20231216</td>
     </tr>
 <tr>
       <td>③</td>
@@ -47,15 +52,18 @@
       <td>国外</td>
       <td>高</td>
       <td>慢</td>
+      <td>点播20231221
+直播20231220</td>
     </tr>
 <tr>
       <td>④</td>
       <td>直播源推送</td>
-      <td>https://gitee.com/wj0321/tvlive/raw/master/box/live/live.txt</td>
+      <td>hhttps://gitee.com/wj0321/tvlive/raw/master/box/live/live.txt</td>
       <td>无</td>
       <td>国内</td>
       <td>低</td>
       <td>快</td>
+      <td>直播20231216</td>
     </tr>
 <tr>
       <td>⑤</td>
@@ -65,6 +73,7 @@
       <td>国外</td>
       <td>高</td>
       <td>慢</td>
+      <td>直播20231220</td>
     </tr>
   </tbody>
 </table>
@@ -139,9 +148,7 @@
 - IPV6测试：
   - https://test-ipv6.com/
 
-### 📔更新：
-- 2023.12.18
-  - 
+
 
      
 ### 📖声明：
