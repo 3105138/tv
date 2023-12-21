@@ -30,14 +30,14 @@
 	"name": "📀设置阿里云盘Token",
 	"type": 3,
 	"api": "csp_KungFu404",
-        "searchable": 0,
+  "searchable": 0,
 	"filterable": 0,
 	"changeable": 0,
 	"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
 	"jar": "./box/spider/alibaba.jar"
 	},
         {   "key": "drpy_js_iqiyi",
-            "name": "🍋爱奇异",
+            "name": "🥝爱奇异",
             "type": 3,
             "api": "./box/js/drpy2.min.js",
             "ext": "./box/js/iqiyi.js"
@@ -88,6 +88,9 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
+        {"key":"drpy_js_奇珍异兽","name":"🦍奇珍异兽","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/奇珍异兽.js"},
+        {"key":"drpy_js_腾云驾雾","name":"☁️腾云驾雾","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
+        {"key":"drpy_js_百忙无果","name":"🍋百忙无果","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/百忙无果.js"},
     {
       "key": "YGP",
       "name": "🚀叨观荐影",
