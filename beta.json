@@ -30,7 +30,7 @@
 	"name": "📀设置阿里云盘Token",
 	"type": 3,
 	"api": "csp_KungFu404",
-        "searchable": 0,
+  "searchable": 0,
 	"filterable": 0,
 	"changeable": 0,
 	"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt",
