@@ -22,7 +22,7 @@
         }
     ],
     "sites": [
-        {"key": "豆豆","name": "🌕微博@·王健·","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"spider": "./box/spider/wj.jar"},
+        {"key": "豆豆","name": "🌕微博@·王健·","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0,"spider": "./box/spider/wj.jar","jar": "./box/spider/wj.jar"},
         {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
         {"key": "csp_KungFu404","name": "📀设置阿里云盘Token","type": 3,"api": "csp_KungFu404","searchable": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvbox/tok.txt","jar": "./box/spider/alibaba.jar"},
         {"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/奇珍异兽.js"},
@@ -33,8 +33,8 @@
         {"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
         {"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/百忙无果.js"},
         //wj.jar调取
-        {"key": "YGP","name": "🚀叨观荐影","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0,"spider": "./box/spider/wj.jar"},
-        {"key": "橘子","name": "🍊橘子App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=","spider": "./box/spider/wj.jar"},
+        {"key": "YGP","name": "🚀叨观荐影","type": 3,"api": "csp_YGP","searchable": 0,"quickSearch": 0,"changeable": 0,"spider": "./box/spider/wj.jar","jar": "./box/spider/wj.jar"},
+        {"key": "橘子","name": "🍊橘子App","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=","spider": "./box/spider/wj.jar","jar": "./box/spider/wj.jar"},
         //网盘资源区
         {"key":"Gitcafe","name":"📀小纸条(搜索)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvbox/alitoken.txt"},
         //{"key":"csp_Zhaozy","name":"📀找资源(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext":"yingshi$$$abcd1234"},
