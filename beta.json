@@ -541,9 +541,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-        {"key": "csp_XYQBiu_网易CC直播","name": "🕸网易CC直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./box/json/网易CC直播.json","spider": "./box/spider/xyq.jar","jar": "./box/spider/xyq.jar"}
-        {"key": "csp_Yj1211","name": "📡JustLive","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1	, "spider": "./box/spider/xyq.jar","jar": "./box/spider/xyq.jar"},
-
     {
       "key": "csp_聚短视频",
       "name": "📽️聚短视频",
