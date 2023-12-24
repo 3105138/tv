@@ -22,16 +22,6 @@
       <td>https://w6566.github.io/tvlive/wj.json</td>
       <td>无加速</td>
     </tr>
-<tr>
-      <td>②</td>
-      <td>https://raw.fgit.cf/w6566/tvlive/main/wj.json</td>
-      <td>有加速</td>
-    </tr>
-<tr>
-      <td>③</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json</td>
-      <td>有加速</td>
-    </tr>
   </tbody>
 </table>
 
@@ -49,16 +39,6 @@
       <td>①</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
       <td>无加速</td>
-    </tr>
-<tr>
-      <td>②</td>
-      <td>https://raw.fgit.cf/w6566/tvlive/main/box/live/live.txt</td>
-      <td>有加速</td>
-    </tr>
-<tr>
-      <td>③</td>
-      <td>https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/box/live/live.txt</td>
-      <td>有加速</td>
     </tr>
   </tbody>
 </table>
