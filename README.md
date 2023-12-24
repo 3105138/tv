@@ -21,13 +21,11 @@
       <td>①</td>
       <td>仓库线路推送地址</td>
       <td>https://w6566.github.io/tvlive/wj.json</td>
-      
     </tr>
     <tr>
       <td>②</td>
       <td>直播源推送地址</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
-    
     </tr>
   </tbody>
 </table>
