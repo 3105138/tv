@@ -12,20 +12,22 @@
   <thead>
     <tr>
       <th>序号</th>
+      <th>推送类型</th>
       <th>推送地址</th>
-      <th>备注</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>①</td>
-      <td>https://w6566.github.io/tvlive/wj.json</td>
       <td>仓库线路推送地址</td>
+      <td>https://w6566.github.io/tvlive/wj.json</td>
+      
     </tr>
     <tr>
       <td>②</td>
-      <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
       <td>直播源推送地址</td>
+      <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
+    
     </tr>
   </tbody>
 </table>
