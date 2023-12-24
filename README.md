@@ -42,44 +42,18 @@
   <tbody>
     <tr>
       <td>TV版</td>
-      <td>影视仓</td>
+      <td>影视仓、Fongmi 影视、TVBox Q版、TVBox 俊版、CatBox、CatVOD、派大星直播</td>
     </tr>
   <tr>
-      <td>手机版</td>
-      <td>影视仓OTP</td>
-    </tr>
-  <tr>
-      <td>TV版</td>
-      <td>Fongmi 影视</td>
-    </tr>
-  <tr>
-      <td>手机版</td>
-      <td>Fongmi 影视</td>
-    </tr>
-    <tr>
-      <td>TV版</td>
-      <td>TVBox Q版</td>
-    </tr>
-  <tr>
-      <td>TV版</td>
-      <td>TVBox 俊版</td>
-    </tr>
-  <tr>
-      <td>TV版</td>
-      <td>CatBox</td>
-    </tr>
-  <tr>
-      <td>TV版</td>
-      <td>CatVOD</td>
-    </tr>
-  <tr>
-      <td>TV版</td>
-      <td>派大星直播</td>
+      <td>mobile版</td>
+      <td>影视仓OTP、Fongmi 影视</td>
     </tr>
   <tr>
       <td>PC版</td>
       <td>ZYplayer</td>
     </tr>
+
+ 
   </tbody>
 </table>
 
