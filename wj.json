@@ -501,12 +501,12 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    {
+     {
       "key": "酷奇js",
       "name": "🎤酷奇MV",
       "type": 3,
-      "api": "./box/lib/drpy2.min.js",
-      "ext": "./box/lib/酷奇MV.js",
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/酷奇MV.js",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -519,8 +519,8 @@
       "key": "虎牙直播js",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "./box/lib/drpy2.min.js",
-      "ext": "./box/lib/虎牙直播.js",
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/虎牙直播.js",
       "style": {
         "type": "list"
       },
@@ -532,8 +532,8 @@
       "key": "csp_XYQBiu_斗鱼",
       "name": "🐟斗鱼直播",
       "type": 3,
-      "api": "./box/lib/drpy2.min.js",
-      "ext": "./box/lib/斗鱼直播.js",
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/斗鱼直播.js",
       "style": {
         "type": "list"
       },
@@ -545,8 +545,8 @@
       "key": "csp_聚短视频",
       "name": "📽️聚短视频",
       "type": 3,
-      "api": "./box/lib/drpy2.min.js",
-      "ext": "./box/lib/短视频.js",
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/短视频.js",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
@@ -555,72 +555,8 @@
       "key": "有声小说js",
       "name": "🎧有声小说",
       "type": 3,
-      "api": "./box/lib/drpy2.min.js",
-      "ext": "./box/lib/有声小说吧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-     {
-      "key": "酷奇js",
-      "name": "🎤酷奇┃MV",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "🐯虎牙┃直播",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/虎牙直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/斗鱼直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_聚短视频",
-      "name": "📽️聚短┃视频",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/短视频.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "有声小说js",
-      "name": "🎧有声┃小说",
-      "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/有声小说吧.js",
+      "api": "./box/js/drpy2.min.js",
+      "ext": "./box/js/有声小说吧.js",
       "style": {
         "type": "rect",
         "ratio": 1
