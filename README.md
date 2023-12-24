@@ -11,7 +11,7 @@
 <table>
   <thead>
     <tr>
-      <th>线路序号</th>
+      <th>序号</th>
       <th>推送地址</th>
       <th>备注</th>
     </tr>
@@ -39,7 +39,7 @@
 <table>
   <thead>
     <tr>
-      <th>线路序号</th>
+      <th>序号</th>
       <th>推送地址</th>
       <th>备注</th>
     </tr>
