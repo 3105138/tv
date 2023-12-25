@@ -1,6 +1,6 @@
 
-<h1 align="center"> ✯ 更新简介 ✯ </h1>
-<h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问 🔕</h3>
+<h1 align="center"> ✯ tvlive更新简介 ✯ </h1>
+<h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步🔕</h3>
 
 <p align="center">
 </p>
@@ -19,17 +19,17 @@
   <tbody>
     <tr>
       <td>①</td>
-      <td>仓库线路推送地址</td>
+      <td>仓库线路推送</td>
       <td>https://w6566.github.io/tvlive/wj.json</td>
     </tr>
     <tr>
       <td>②</td>
-      <td>仓库线路推送地址</td>
+      <td>仓库线路推送</td>
       <td>https://gitee.com/wj0321/tvlive/raw/main/wj.json</td>
     </tr>
      <tr>
       <td>③</td>
-      <td>直播源推送地址</td>
+      <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
     </tr>
   </tbody>
