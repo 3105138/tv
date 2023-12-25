@@ -52,7 +52,7 @@
   <tbody>
     <tr>
       <td>TV版</td>
-      <td>影视仓、Fongmi 影视、TVBox Q版、TVBox 俊版、CatBox、CatVOD、派大星直播</td>
+      <td>影视仓、Fongmi 影视、TVBox Q版、TVBox 俊版、CatBox、CatVOD、派大星直播、DIYP</td>
     </tr>
   <tr>
       <td>mobile版</td>
