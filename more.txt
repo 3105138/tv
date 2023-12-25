@@ -4,7 +4,7 @@
 {"url": "https://w6566.github.io/tvlive/wj.json","name":"GitHub-wj"},
 {"url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json","name":"Gitee-wj"},
 {"url": "https://w6566.github.io/tvlive/box/live/live.txt","name":"GitHub-wjlive"},
-{"url": "hhttp://饭太硬.top/tv","name":"饭太硬"},
+{"url": "http://饭太硬.top/tv","name":"饭太硬"},
 {"url": "http://肥猫.live","name":"肥猫"},
 {"url": "https://fm.t4tv.hz.cz/json/config.json","name":"蜂蜜"},
 {"url": "http://yydsys.top/duo","name":"多多"},
