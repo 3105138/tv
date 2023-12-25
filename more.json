@@ -1,6 +1,6 @@
-//一键配置地址：
-
-{"urls": [
+{
+  "urls": 
+  [
 {"url": "https://w6566.github.io/tvlive/wj.json","name":"GitHub-wj"},
 {"url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json","name":"Gitee-wj"},
 {"url": "https://w6566.github.io/tvlive/box/live/live.txt","name":"GitHub-wjlive"},
@@ -23,6 +23,5 @@
 {"url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2","name":"讴歌"}
 {"url": "http://52bsj.vip:98/wuai","name":"吾爱"}
 {"url": "http://itvbox.cc/tvbox/云星日记/1.m3u8","name":"云星日记"}
-
 ]
 }
