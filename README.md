@@ -1,7 +1,7 @@
 
 <h1 align="center"> ✯ tvlive更新简介 ✯ </h1>
-<h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步🔕</h3>
-
+<h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 🔕</h3>
+<h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔕</h3>
 <p align="center">
 </p>
 
