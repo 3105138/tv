@@ -3,7 +3,6 @@
   [
 {"url": "https://w6566.github.io/tvlive/wj.json","name":"GitHub-wj"},
 {"url": "https://gitee.com/wj0321/tvlive/raw/main/wj.json","name":"Gitee-wj"},
-{"url": "https://w6566.github.io/tvlive/box/live/live.txt","name":"GitHub-wjlive"},
 
 ]
 }
