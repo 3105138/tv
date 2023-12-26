@@ -96,8 +96,8 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-      "ext":"./box/json/玩偶哥哥.json",
-			"jar": "./box/spider/xyq.jar",
+      "jar": "./box/spider/xyq.jar",
+      "ext":"./box/json/玩偶哥哥.json"
       },
     {
       "key": "AList",
