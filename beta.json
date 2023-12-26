@@ -94,7 +94,9 @@
       "type": 3,
       "api": "csp_Kugou",
       "searchable": 0,
-      "changeable": 0
+      "changeable": 0, 
+      "spider": "./box/spider/custom_spider.jar",
+	    "jar": "./box/spider/custom_spider.jar"
     },
     {
       "key": "AList",
@@ -120,7 +122,9 @@
       "type": 3,
       "api": "csp_JustLive",
       "searchable": 1,
-      "changeable": 0
+      "changeable": 0, 
+      "spider": "./box/spider/custom_spider.jar",
+	    "jar": "./box/spider/custom_spider.jar"
     },
         {"key":"drpy_js_奇珍异兽","name":"🦍奇珍异兽","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/奇珍异兽.js"},
         {"key":"drpy_js_腾云驾雾","name":"☁️腾云驾雾","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
