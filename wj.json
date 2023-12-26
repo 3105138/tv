@@ -88,9 +88,45 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
-        {"key":"drpy_js_奇珍异兽","name":"🦍奇珍异兽","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/奇珍异兽.js"},
-        {"key":"drpy_js_腾云驾雾","name":"☁️腾云驾雾","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
-        {"key":"drpy_js_百忙无果","name":"🍋百忙无果","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/百忙无果.js"},
+    {
+      "key": "AList",
+      "name": "📂AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./box/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "📂WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./box/json/webdav.json"
+    },
+    
+        {
+          "key":"drpy_js_奇珍异兽",
+          "name":"🦍奇珍异兽","type":3,
+          "api":"./box/js/drpy2.min.js",
+          "ext":"./box/js/奇珍异兽.js"
+          },
+        {
+          "key":"drpy_js_腾云驾雾",
+          "name":"☁️腾云驾雾",
+          "type":3,
+          "api":"./box/js/drpy2.min.js",
+          "ext":"./box/js/腾云驾雾.js"
+          },
+        {
+          "key":"drpy_js_百忙无果",
+          "name":"🍋百忙无果",
+          "type":3,
+          "api":"./box/js/drpy2.min.js",
+          "ext":"./box/js/百忙无果.js"
+          },
     {
       "key": "YGP",
       "name": "🚀叨观荐影",
@@ -540,6 +576,16 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "JustLive",
+      "name": "🎥JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0, 
+      "spider": "./box/spider/custom_spider.jar",
+	    "jar": "./box/spider/custom_spider.jar"
     },
     {
       "key": "csp_聚短视频",
