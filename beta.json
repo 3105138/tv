@@ -62,7 +62,7 @@
 {"key":"酷奇js","name":"🎤酷奇MV","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"虎牙直播js","name":"🐯虎牙直播","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/虎牙直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼直播","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/斗鱼直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"JustLive","name":"🎥JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"spider":"./box/spider/custom_spider.jar","jar":"./box/spider/custom_spider.jar"},
+{"key":"JustLive","name":"🎥JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./box/spider/custom_spider.jar"},
 {"key":"csp_聚短视频","name":"📽️聚短视频","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/短视频.js","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"有声小说js","name":"🎧有声小说","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"YiSo","name":"😹易搜搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
