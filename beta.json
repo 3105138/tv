@@ -1,5 +1,5 @@
 {
-  "spider": "./box/spider/custom_spider.jar",
+  "spider": "./box/spider/wj1221.jar",
   "warningText": "正在加载！请稍后！",
   "wallpaper": "./box/wallpaper/8K01.jpg", 
   "wallpaper": "./box/wallpaper/8K02.jpg", 
@@ -22,8 +22,8 @@
 	    "quickSearch":0,
 	    "filterable":0,
 	    "type_flag":0,
-	    "spider": "./box/spider/custom_spider.jar",
-	    "jar": "./box/spider/custom_spider.jar"
+	    "spider": "./box/spider/xyq.jar",
+	    "jar": "./box/spider/xyq.jar"
     },
     {
 	"key": "csp_KungFu404",
@@ -75,7 +75,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-			"jar": "./box/spider/custom_spider.jar",
+			"jar": "./box/spider/xyq.jar",
             "ext": "./box/json/哔嘀影视.json"
         },
     {
@@ -87,6 +87,40 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+    },
+        {
+      "key": "酷狗",
+      "name": "酷狗",
+      "type": 3,
+      "api": "csp_Kugou",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./box/json/alist.json"
+    },
+    {
+      "key": "WebDAV",
+      "name": "WebDAV",
+      "type": 3,
+      "api": "csp_WebDAV",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "./box/json/webdav.json"
+    },
+    {
+      "key": "JustLive",
+      "name": "JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0
     },
         {"key":"drpy_js_奇珍异兽","name":"🦍奇珍异兽","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/奇珍异兽.js"},
         {"key":"drpy_js_腾云驾雾","name":"☁️腾云驾雾","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
