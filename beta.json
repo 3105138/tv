@@ -94,7 +94,9 @@
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-      "changeable": 0,
+      "changeable": 0,, 
+      "spider": "./box/spider/custom_spider.jar",
+	    "jar": "./box/spider/custom_spider.jar"
       "ext": {
         "token": "影視天下第一",
         "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
