@@ -89,18 +89,15 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
-      "key": "玩偶",
-      "name": "玩偶",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "changeable": 0,
-      "spider": "./box/spider/custom_spider.jar",
-	    "jar": "./box/spider/custom_spider.jar", 
-      "ext": {
-        "token": "影視天下第一",
-        "filter": "https://fm.t4tv.hz.cz/json/wogg.json"
-      }
+      "key": "csp_XYQHikerAL_玩偶哥哥",
+      "name":"📀玩偶哥哥(优)",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./box/json/玩偶哥哥.json"
+      },
     },
     {
       "key": "AList",
