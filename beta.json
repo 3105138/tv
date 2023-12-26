@@ -106,16 +106,7 @@
       "changeable": 0,
       "ext": "./box/json/webdav.json"
     },
-    {
-      "key": "JustLive",
-      "name": "📂JustLive",
-      "type": 3,
-      "api": "csp_JustLive",
-      "searchable": 1,
-      "changeable": 0, 
-      "spider": "./box/spider/custom_spider.jar",
-	    "jar": "./box/spider/custom_spider.jar"
-    },
+    
         {
           "key":"drpy_js_奇珍异兽",
           "name":"🦍奇珍异兽","type":3,
@@ -585,6 +576,16 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "JustLive",
+      "name": "🎥JustLive",
+      "type": 3,
+      "api": "csp_JustLive",
+      "searchable": 1,
+      "changeable": 0, 
+      "spider": "./box/spider/custom_spider.jar",
+	    "jar": "./box/spider/custom_spider.jar"
     },
     {
       "key": "csp_聚短视频",
