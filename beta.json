@@ -1,11 +1,11 @@
 {
-"spider": "./box/spider/wj1221.jar",
-"warningText": "正在加载！请稍后！by Sina微博@·王健·",
-"wallpaper": "./box/wallpaper/8K01.jpg", 
-"wallpaper": "./box/wallpaper/8K02.jpg", 
- 
+"spider":"./box/spider/wj1221.jar",
+"warningText":"正在加载！请稍后！bySina微博@·王健·",
+"wallpaper":"./box/wallpaper/8K01.jpg",
+"wallpaper":"./box/wallpaper/8K02.jpg",
 
-"sites": [
+
+"sites":[
 
 {"key":"豆豆","name":"🌞微博@·王健·","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"🌕豆瓣","type":3,"api":"./box/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/js/豆瓣.js"},
@@ -166,44 +166,44 @@
 {"key":"csp_Bili_czxx","name":"📘初中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/chuzhong.json"},
 {"key":"初中课堂","name":"📘初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./box/json/初中课堂.json"},
 {"key":"csp_Bili_gaozxx","name":"📕高中教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/gaozhong.json"},
-{"key":"高中教育","name":"📕高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./box/json/高中课堂.json"}, 
+{"key":"高中教育","name":"📕高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./box/json/高中课堂.json"},
 {"key":"push_agent","name":"🛴手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 
 ],
 
 
-"parses": [
- {"name":"聚合","type":3,"url":"Demo"},
- {"name":"Sina微博@·王健·","type":1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
- {"name":"免费分享","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
+"parses":[
+{"name":"聚合","type":3,"url":"Demo"},
+{"name":"Sina微博@·王健·","type":1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+{"name":"免费分享","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
 ],
 
 
-"doh": [
- {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
- {"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
- {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
- {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
- {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
+"doh":[
+{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
+{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},
+{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
+{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
+{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
 ],
 
 
-"rules": [
- {"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},
- {"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},
- {"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
- {"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
- {"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
- {"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
- {"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},
- {"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
- {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
- {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
- {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
- ],
+"rules":[
+{"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},
+{"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},
+{"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},
+{"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},
+{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},
+{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},
+{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
+{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
+{"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
+],
 
 
-"lives": [
+"lives":[
 {"name":"live","type":0,"url":"./box/live/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"beta","type":0,"url":"./box/live/beta.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 ]
