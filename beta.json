@@ -4,7 +4,7 @@
 "wallpaper": "./box/wallpaper/8K01.jpg", 
 "wallpaper": "./box/wallpaper/8K02.jpg", 
  
- 
+ //快看、小小app、觅视频、酷吧磁力、港口磁力、阿里易搜、短剧dj5、哔哩合集
 "sites": [
 
 {"key":"豆豆","name":"🌕微博@·王健·","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
@@ -137,7 +137,7 @@
 {"key":"csp_酷奇","name":"🎤┃酷奇┃音乐","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/酷奇MV.json"},
 {"key":"Yisou","name":"🎯┃阿里┃易搜","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":0,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto"},
 {"key":"Zhaozy","name":"🔍┃阿里┃找片","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"},
-{"key":"js_DJ5","name":"🎦┃短剧┃DJ5","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/短剧网.js"},
+{"key":"js_DJ5","name":"🎦┃短剧┃DJ5","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/spider/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext":"./box/js/短剧网.js"},
 {"key":"csp_XYQHiker_VSYY","name":"🎦┃短剧┃VSY","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XYQHiker","jar":"./box/spider/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext":"./box/json/VS影院.json"},
 {"key":"csp_Bili短剧","name":"🎦┃短剧┃BiL","api":"csp_Bili","type":3,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./box/spider/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext":"./box/json/Bili短剧.json"},
 {"key":"XBPQ_葡萄","name":"🎦┃短剧┃葡萄","type":3,"api":"csp_XBPQ","jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
