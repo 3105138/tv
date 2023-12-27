@@ -1,4 +1,4 @@
-
+<p align="center"><img alt="https://w6566.github.io/tvlive/box/wallpaper/banner.jpg" src="https://w6566.github.io/tvlive/box/wallpaper/banner.jpg"></p>
 <h1 align="center"> ✯ tvlive更新简介 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 🔕</h3>
 <h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔕</h3>
@@ -70,6 +70,7 @@
 
 
 ### ⏱️更新日志：
+- 2023-12-27：新增点播接口
 - 2023-12-26：新增点播接口
 - 2023-12-25：gitee与github完成同步,原gitee推送地址失效
 - 2023-12-24：修复点播接口
