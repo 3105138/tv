@@ -1,4 +1,4 @@
-<p align="center"><img alt="https://w6566.github.io/tvlive/box/wallpaper/banner.jpg" src="https://w6566.github.io/tvlive/box/wallpaper/banner.jpg"></p>
+<p align="center"><img alt="https://gitee.com/wj0321/tvlive/raw/main/box/wapaper/banner.jpg" src="https://gitee.com/wj0321/tvlive/raw/main/box/wapaper/banner.jpg"></p>
 <h1 align="center"> ✯ tvlive更新简介 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 🔕</h3>
 <h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔕</h3>
