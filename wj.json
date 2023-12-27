@@ -5,7 +5,6 @@
 "wallpaper":"./box/wallpaper/8K02.jpg",
 
 
-	
 "sites":[
 
 {"key":"豆豆","name":"🌞微博@·王健·","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
@@ -154,14 +153,14 @@
 {"key":"高中教育","name":"📕高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"./box/json/高中课堂.json"},
 {"key":"push_agent","name":"🛴手机推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"}
 
-]，
+],
 
 
 "parses":[
 {"name":"聚合","type":3,"url":"Demo"},
 {"name":"Sina微博@·王健·","type":1,"url":"http://api.888484.xyz/神秘哥哥/super.php?v=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
 {"name":"免费分享","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}}
-]，
+],
 
 
 "doh":[
@@ -170,7 +169,7 @@
 {"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
-]，
+],
 
 
 "rules":[
@@ -185,12 +184,11 @@
 {"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},
 {"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},
 {"name":"cl","hosts":["magnet"],"regex":["最新","直播","更新"]}
-]，
+],
 
 
 "lives":[
 {"name":"live","type":0,"url":"./box/live/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"beta","type":0,"url":"./box/live/beta.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 ]
-	
 }
