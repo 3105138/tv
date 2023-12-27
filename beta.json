@@ -86,9 +86,6 @@
 {"key":"量子资源","name":"🥑量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","playurl":"json:http://jx.84jia.com/m3u8ts.php?url=","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","国产动漫","泰国剧","台湾剧","香港剧","欧美剧","韩国剧","日本剧","动漫","体育","剧情片","动作片","爱情片","喜剧片"]},
 {"key":"蚂蚁","name":"🐜蚂蚁App","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz"},
 {"key":"毛驴","name":"🍓毛驴直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
-
-
-
 {"key":"Zhaozy","name":"🔍阿里找片","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|fhd|auto$$$多多$$$159357"},
 {"key":"4KHDR","name":"🧲世界磁力","type":3,"searchable":1,"quickSearch":1,"changeable":0,"api":"./box/js/drpy2.min.js","ext":"./box/js/4khdr.js"},
 {"key":"新6V","name":"🧲新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://www.xb6v.com/"},
@@ -100,9 +97,6 @@
 {"key":"七夜","name":"😾七夜搜索","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key":"js_6V","name":"✡️六维磁力Js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/6V.js"},
 {"key":"js_磁力熊","name":"🐻‍贝尔磁力Js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/bear.js"},
-
-
-
 {"key":"88js","name":"⚽88看球","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/88看球.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_qiumi","name":"⚽Jrs球迷","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/jrk.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"csp_310直播","name":"⚽310看球","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/310直播.js","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0},
@@ -112,9 +106,6 @@
 {"key":"py_qie","name":"🏀企鹅体育","type":3,"api":"py_qie","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/py/qie.py"},
 {"key":"csp_Bili_xuqu1","name":"👴戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/xiqu.json"},
 {"key":"csp_Bili_xiangsh","name":"👏🏻相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/xiaopin.json"},
-
-
-
 {"key":"Bili","name":"🅱哔哩合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./box/json/bilibili.json"},
 {"key":"Biliych","name":"🎼哔哩歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./box/json/biliych.json"},
 {"key":"js_a8音乐","name":"🎸奥迪音乐","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/a8音乐.js"},
@@ -128,9 +119,6 @@
 {"key":"js_B站精简","name":"🅱️哔哩精简","type":3,"api":"./box/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/js/B站精简.js"},
 {"key":"MV_vod","name":"🎶明星MV","type":1,"api":"https://mv.wogg.link/mv/vod","style":{"type":"oval"},"searchable":1,"quickSearch":0,"changeable":0},
 {"key":"酷奇js","name":"🎤酷奇MV","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
-
-
-
 {"key":"js_哔哩直播","name":"🎦哔哩直播","type":3,"api":"./box/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./box/js/哔哩直播.js"},
 {"key":"短视频","name":"👸网红美女","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/短视频聚合.json"}
 {"key":"csp_XYQHiker_VSYY","name":"🎬短剧VSY","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XYQHiker","jar":"./box/spider/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16","ext":"./box/json/VS影院.json"},
@@ -143,14 +131,10 @@
 {"key":"JustLive","name":"🎥JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./box/spider/custom_spider.jar"},
 {"key":"csp_聚短视频","name":"📽️聚短视频","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/短视频.js","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"有声小说js","name":"🎧有声小说","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/有声小说吧.js","style":{"type":"rect","ratio":1},"searchable":0,"quickSearch":0,"changeable":0},
-
-
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ying","name":"💮樱花动漫","type":3,"api":"csp_Ying","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Anime1","name":"🐾日本动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
-
-
 {"key":"py_cctv","name":"❤️央视大全","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/py/cctv.py"},
 {"key":"csp_Bili_meishi","name":"🍝美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/美食合集.json"},
 {"key":"csp_Bili_dashan","name":"💋搭讪教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"jar":"./box/spider/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408","ext":"./box/json/搭讪.json"},
