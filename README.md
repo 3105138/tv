@@ -87,10 +87,16 @@
   - [https://test-ipv6.com/](https://test-ipv6.com/)
 
 - EPG接口：
-  - Diyp & 百川：http://epg.112114.xyz/、http://diyp.112114.xyz/、http://epg.112114.eu.org/
-  - 超级直播：https://epg.112114.xyz/epginfo
-  - Xml格式：https://epg.112114.xyz/pp.xml
-  - Kodi可用：http://epg.51zmt.top:8000/e.xml
+  - Diyp & 百川：
+       - http://epg.112114.xyz/
+       - http://diyp.112114.xyz/
+       - http://epg.112114.eu.org/
+  - 超级直播：
+       - https://epg.112114.xyz/epginfo
+  - Xml格式：
+       - https://epg.112114.xyz/pp.xml
+  - Kodi可用：
+       - http://epg.51zmt.top:8000/e.xml
 
 - 代理加速服务：
     - https://github.com/用户名/仓库/raw/main/wj.json  
