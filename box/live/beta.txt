@@ -7431,7 +7431,7 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0
 
 ㊙️内部测试_beta,#genre#
 测试1,http://tv.nxog.top/m/404/xjj.php
-测试2,https://gitee.com/wj0321/tvlive/raw/main/box/wallpaper/banner.png
+测试2,https://gitee.com/wj0321/tvlive/raw/main/box/wallpaper/banner.webp
 
 
 
