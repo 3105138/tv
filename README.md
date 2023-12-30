@@ -65,11 +65,11 @@
   <tbody>
     <tr>
       <td>TV版</td>
-      <td>影视仓、Fongmi 影视、TVBox Q版、TVBox 俊版、CatBox、CatVOD、派大星直播、DIYP</td>
+      <td>影视仓、[Fongmi 影视](https://github.com/FongMi/Release/tree/main/apk)、TVBox Q版、TVBox 俊版、CatBox、CatVOD、派大星直播、DIYP</td>
     </tr>
   <tr>
       <td>mobile版</td>
-      <td>影视仓OTP、Fongmi 影视</td>
+      <td>影视仓OTP、[Fongmi 影视](https://github.com/FongMi/Release/tree/main/apk)</td>
     </tr>
   <tr>
       <td>PC版</td>
