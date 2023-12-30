@@ -7,7 +7,9 @@
 <header class="page-header" role="banner">
       <h1 class="project-name"></h1>
        <a href="../main/text/course" class="btn">   文档教程   </a>
+       <a href=" " class="btn"> · </a>
        <a href="../main/program/Android" class="btn">   Android应用   </a>
+       <a href=" " class="btn"> · </a>
        <a href="../main/program/Windows" class="btn">   Windows应用   </a>  
 </header>
 
