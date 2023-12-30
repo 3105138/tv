@@ -315,8 +315,8 @@ CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8?zshijd
 CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8?zshijd
 CGTN英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
-CGTN英语新闻,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN英语新闻,http://live.cgtn.com/500/prog_index.m3u8
+CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN英语,http://live.cgtn.com/500/prog_index.m3u8
 CGTN,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
@@ -615,7 +615,7 @@ CCTV9,http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 CCTV10,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
 CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
 CCTV11,http://39.134.115.163:8080/PLTV-/88888910/224/3221225628/index.m3u8
-CCTV11,,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
+CCTV11,http://125.39.177.227/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2000204103.m3u8
 CCTV12,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240252_1/playlist.m3u8?CONTENTID=00000110240252_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV12,http://117.169.124.149:8080/live/HD-8000k--cctv12/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
