@@ -83,10 +83,10 @@
 
 
 ### 🌐其它网址：
-- 网盘：
-  - [https://www.123pan.com/s/BmA9-fcth3.html](https://www.123pan.com/s/BmA9-fcth3.html) 提取码：wang
-- IPV6测试：
-  - [https://test-ipv6.com/](https://test-ipv6.com/)
+<pre><code>
+   - <a href="https://www.123pan.com/s/BmA9-fcth3.html" title="点击访问">123pan 提取码：wang</a>　https://www.123pan.com/s/BmA9-fcth3.html 
+   - <a href="https://test-ipv6.com/" title="点击访问">IPV6测试</a>　https://test-ipv6.com/ 
+
 
 - EPG接口：
   - Diyp & 百川：
@@ -118,13 +118,16 @@
        - https://hub.gitmirror.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json  
        - https://ghps.cc/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json  
        - https://gh.ddlc.top/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json  
-   <pre><code>Github国内加速访问  
+  </code></pre>  
+  
+  <pre><code>
+   Github国内加速访问  
    - <a href="https://www.tampermonkey.net/" title="Download">浏览器扩展【油猴插件】</a>　https://www.tampermonkey.net/   
    - <a href="https://greasyfork.org/zh-CN/scripts" title="Download">脚本库greasyfork</a>　https://greasyfork.org/zh-CN/scripts   
    - <a href="https://www.lanzoub.com/iHJ7S05iocpa" title="解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题">Github加速神器2.1.4</a>  https://www.lanzoub.com/iHJ7S05iocpa  
    - <a href="https://greasyfork.org/zh-CN/scripts/435208" title="GitHub中文化插件，包含人机翻译">GitHub 中文化插件</a>　https://greasyfork.org/zh-CN/scripts/435208   
    - <a href="https://greasyfork.org/zh-CN/scripts/412245" title="高速下载 Git Clone/SSH、Release、Raw、Code(ZIP) 等文件、项目列表单文件快捷下载 ">Github 高速下载增强</a>　https://greasyfork.org/zh-CN/scripts/412245   
-  </code></pre>  
+</code></pre>  
 
      
 ### 📖声明：
