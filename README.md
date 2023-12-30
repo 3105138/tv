@@ -1,17 +1,18 @@
 
 <h1 align="center"> ✯ tvlive更新简介 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 🔕</h3>
-<h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub与Gitea双仓实时同步 🔕</h3>
+<h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub、Gitea、Gitee三仓实时同步 🔕</h3>
 <p align="center">
 </p>
 
 ---
 
 ### ⏱️更新日志：
-- 2023-12-30
+- 2023-12-30：新增Gitea仓库
 - 2023-12-29：新增直播源-广播电台频道
 - 2023-12-27：新增点播接口
 - 2023-12-26：新增点播接口
+- 2023-12-25：gitee与github完成同步,原gitee推送地址失效
 - 2023-12-24：修复点播接口
 - 2023-12-23：新增直播源
 - 2023-12-21：新增点播接口
@@ -31,24 +32,35 @@
   </thead>
   <tbody>
     <tr>
-      <td>①</td>
+      <td>1</td>
       <td>仓库线路推送</td>
       <td>https://w6566.github.io/tvlive/wj.json</td>
     </tr>
     <tr>
-      <td>②</td>
+      <td>2</td>
       <td>仓库线路推送</td>
       <td>https://gitea.com/w6566/tvlive/raw/branch/main/wj.json</td>
     </tr>
      <tr>
-      <td>③</td>
+    <tr>
+      <td>3</td>
+      <td>仓库线路推送</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/main/wj.json</td>
+    </tr>
+     <tr>
+      <td>4</td>
       <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
     </tr>
      <tr>
-      <td>④</td>
+      <td>5</td>
       <td>直播源推送</td>
       <td>https://gitea.com/w6566/tvlive/raw/branch/main/box/live/live.txt</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>直播源推送</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/main/box/live/live.txt</td>
     </tr>
   </tbody>
 </table>
