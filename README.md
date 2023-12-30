@@ -97,6 +97,7 @@
 
 - <a href="https://www.123pan.com/s/BmA9-fcth3.html" title="点击访问">123pan 提取码：wang</a>　https://www.123pan.com/s/BmA9-fcth3.html 
 - <a href="https://test-ipv6.com/" title="点击访问">IPV6测试</a>　https://test-ipv6.com/ 
+- <a href="https://catvodtvofficial.github.io/CatVodTVJsonEditor/" title="点击访问">配置编辑器web版</a>　https://catvodtvofficial.github.io/CatVodTVJsonEditor/
 - <a href="https://www.tampermonkey.net/" title="Download">浏览器扩展【油猴插件】</a>　https://www.tampermonkey.net/   
 - <a href="https://greasyfork.org/zh-CN/scripts" title="Download">脚本库greasyfork</a>　https://greasyfork.org/zh-CN/scripts   
 - <a href="https://www.lanzoub.com/iHJ7S05iocpa" title="解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题">Github加速神器2.1.4</a>  https://www.lanzoub.com/iHJ7S05iocpa  
