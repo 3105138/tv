@@ -2,13 +2,14 @@
 <h1 align="center"> ✯ tvlive简介 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 🔕</h3>
 <h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔕</h3>
-<p align="center">
+<h3 align="center">
 <header class="page-header" role="banner">
       <h1 class="project-name"></h1>
        <a href="../main/text/course" class="btn">文档教程</a>
        <a href="../main/program/Android" class="btn">Android应用</a>
        <a href="../main/program/Windows" class="btn">Windows应用</a>  
-</header>
+</header></h3>
+<p align="center">
 </p>
 
 
