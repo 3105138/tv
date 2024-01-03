@@ -4,7 +4,5 @@
 	
 {"name":"🌏无界①","url":"https://w6566.github.io/tvlive/wj.json"},
 {"name":"🌏无界②","url":"https://gitee.com/wj0321/tvlive/raw/main/wj.json"},
-{"name":"🌈无界①","url":"https://w6566.github.io/tvlive/box/live/live.txt"},
-{"name":"🌈无界②","url":"https://gitee.com/wj0321/tvlive/raw/main/box/live/live.txt"},
 
 ]}
