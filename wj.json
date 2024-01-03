@@ -6,7 +6,7 @@
 
 "sites":[
 
-{"key":"豆豆","name":"🌞微博@·王健·","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆豆","name":"🌞QQ群48481548🌙微博@·王健·","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"dr_豆瓣","name":"🌕豆瓣","type":3,"api":"./box/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/js/豆瓣.js"},
 {"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0,"jar":"./box/spider/xyq.jar"},
 {"key":"csp_KungFu404","name":"📀设置阿里云盘Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
