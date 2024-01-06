@@ -1,7 +1,7 @@
 
-<h1 align="center"> ✯ 无界tvlive简介 ✯ </h1>
-<h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善 🔕</h3>
-<h3 align="center">🔕 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔕</h3>
+<h1 align="center"> ✯ 无界🌏tvlive ✯ </h1>
+<h3 align="center">💎 永久免费 直连访问 完整开源 不断完善 💎</h3>
+<h3 align="center">🔥 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔥</h3>
 <p align="center">       
 </p>
 <header class="page-header" role="banner">
@@ -18,6 +18,7 @@
 
 
 ### ⏱️更新日志：
+- 2024-01-06：新增点播接口，仓库更名
 - 2024-01-05：修复在fongmi影视下推送线路获取失败的问题，集成多条直播线路。
 - 2024-01-03：修复点播接口，恢复1218版本影视轮播
 - 2024-01-02：新增直播源；调整部分频道分类
