@@ -13,7 +13,7 @@
 {"key":"csp_KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
 {"key":"AList","name":"无界🌏AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./box/json/alist.json"},
 {"key":"WebDAV","name":"无界🌏WebDAV","type":3,"api":"csp_WebDAV","searchable":1,"changeable":0,"ext":"./box/json/webdav.json"},
-{"key":"玩偶哥哥","name":"无界🌏玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"无界🌏玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
 {"key":"dr_iqiyi","name":"无界🌏爱奇异","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/iqiyi.js"},
 {"key":"dr_youku","name":"无界🌏优酷","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/youku.js"},
 {"key":"dr_qq","name":"无界🌏腾讯","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/qq.js"},
