@@ -23,8 +23,7 @@
 
 "sites":[
     
-{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.09","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
-{"key":"豆豆","name":"无界🌏豆瓣","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.10","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏Fongmi商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/market.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"csp_KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
@@ -35,8 +34,6 @@
 {"key":"dr_youku","name":"无界🌏优酷","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/youku.js"},
 {"key":"dr_qq","name":"无界🌏腾讯","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/qq.js"},
 {"key":"dr_mgtv","name":"无界🌏芒果","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/mgtv.js"},
-{"key":"dr_荐片","name":"无界🌏荐片","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"./box/js/荐片.js"},
-{"key":"XYQHiker_哔嘀影视","name":"无界🌏哔嘀影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/哔嘀影视.json","jar":"./box/spider/xyq.jar"},
 {"key":"dr_腾云驾雾","name":"无界🌏腾云驾雾","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/腾云驾雾.js"},
 {"key":"dr_奇珍异兽","name":"无界🌏奇珍异兽","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/奇珍异兽.js"},
 {"key":"dr_百忙无果","name":"无界🌏百忙无果","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/百忙无果.js"},
@@ -49,6 +46,7 @@
 {"key":"九六","name":"无界🌏九六直连","type":3,"api":"csp_Cs1369","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/fty.jar"},
 {"key":"Czsapp","name":"无界🌏厂长直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy22.com/","jar":"./box/spider/fty.jar"},
 {"key":"dr_czsapp","name":"无界🌏️厂长js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/czspp.js"},
+{"key":"dr_荐片","name":"无界🌏荐片","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext":"./box/js/荐片.js"},
 {"key":"橘子","name":"无界🌏橘子直连","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="},
 {"key":"49zy","name":"无界🌏四九资源","type":1,"api":"https://49zy1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","纪录片","欧美剧","香港剧","动作片","爱情片","科幻片","恐怖片","剧情片","战争片","喜剧片","动画片","犯罪片","韩国剧","动漫","电影","大陆综艺","港台综艺","日韩综艺","欧美综艺","台湾剧","国产动漫","日本动漫","欧美动漫","泰国剧","日剧","电影解说","奇幻片","灾难片","悬疑片","其他片","体育赛事","海外剧"]},
 {"key":"csp_鑫鑫影视","name":"无界🌏鑫鑫直连","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://yingszj.xn--654a.cc/api.php/app/"},
@@ -110,6 +108,7 @@
 {"key":"cjzy_暴风资源","name":"无界🌏暴风影视","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl":"","categories":["国产剧","国产动漫","大陆综艺","港台综艺","香港剧","台湾剧","日本剧","欧美剧","泰国剧","日本动漫","日本综艺","综艺频道","新马泰综艺","纪录片","科幻片","喜剧片","战争片"]},
 {"key":"蚂蚁","name":"无界🌏蚂蚁直连","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://rzys.xyz"},
 {"key":"毛驴","name":"无界🌏毛驴直连","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.maolvys.com/"},
+{"key":"XYQHiker_哔嘀影视","name":"无界🌏哔嘀影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/哔嘀影视.json","jar":"./box/spider/xyq.jar"},
 {"key":"csp_XBPQ_aoaotv","name":"无界🌏短剧嗷嗷","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://aoao.tv/vodshow/{cateId}--------{catePg}---.html","分类":"短剧$20#电视剧$21#电影$22#动漫$23#综艺$24"}},
 {"key":"csp_XYQHiker_VSYY","name":"无界🌏短剧VSY","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/VS影院.json","jar":"./box/spider/xyq.jar"},
 {"key":"csp_短剧","name":"无界🌏刷刷短剧","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/短剧网.json"},
