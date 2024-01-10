@@ -4,8 +4,9 @@
     "list": [
       {
         "name": "微博主页",
-        "url": "https://weibo.com/wj0321",
-        "icon": "https://w6566.github.io/tvlive/icon/wb.png"
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/wb.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/wb.png", 
+        "version": ""
       }
 
     ]
@@ -17,55 +18,55 @@
       {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
-        "icon": "https://w6566.github.io/tvlive/icon/ys.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
         "version": "电视版-py-v8a"
       },
       {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
-        "icon": "https://w6566.github.io/tvlive/icon/ys.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
         "version": "手机版-py-v8a"
       },
       {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
-        "icon": "https://w6566.github.io/tvlive/icon/ys.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
         "version": "电视版-安卓4.x版"
       },
       {
         "name": "影视仓",
-        "url": "https://xzweb.lanzoum.com/iIaf11kj572f",
-        "icon": "https://w6566.github.io/tvlive/icon/ysc.png",
+        "url": "https://w6566.github.io/tvlive/program/android/影视仓_5.0.20_1_opt.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "电视版5.0.20_1"
       },
       {
         "name": "影视仓",
-        "url": "https://xzweb.lanzoum.com/iIaf11kj572f",
-        "icon": "https://w6566.github.io/tvlive/icon/ysc.png",
+        "url": "https://w6566.github.io/tvlive/program/android/影视仓_5.0.20_1_海信版.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "电视版5.0.20_1海信版"
       },
       {
         "name": "影视仓",
-        "url": "https://xzweb.lanzoum.com/iIaf11kj572f",
-        "icon": "https://w6566.github.io/tvlive/icon/ysc.png",
+        "url": "https://w6566.github.io/tvlive/program/android/影视仓_3.0.36.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "电视版3.0.36-安卓4.x版"
       },
       {
         "name": "影视仓",
-        "url": "https://xzweb.lanzoum.com/iIaf11kj572f",
-        "icon": "https://w6566.github.io/tvlive/icon/ysc.png",
-        "version": "手机版5.0.20_1-短视频版"
+        "url": "https://w6566.github.io/tvlive/program/android/影视仓_2.0.15_2_短视频.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "手机版2.0.15_2-短视频版"
       },
       {
         "name": "影视仓",
-        "url": "https://xzweb.lanzoum.com/iIaf11kj572f",
-        "icon": "https://w6566.github.io/tvlive/icon/ysc.png",
-        "version": "手机版5.0.20_1-游戏版"
+        "url": "https://w6566.github.io/tvlive/program/android/影视仓_2.0.15_2_游戏版.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
+        "version": "手机版2.0.15_2-游戏版"
       },
       {
         "name": "阿里云盘",
         "url": "https://www.123pan.com/s/BmA9-wpih3.html",
-        "icon": "https://w6566.github.io/tvlive/icon/alyp.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/alyp.png",
         "version": "旧版可一键获取token"
       }
     ]
@@ -76,26 +77,27 @@
     "list": [
       {
         "name": "多线直播切换方法",
-        "url": "https://w6566.github.io/tvlive/text/course/多线直播切换方法.docx",
-        "icon": "https://w6566.github.io/tvlive/icon/word.png",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/text/course/多线直播切换方法.docx",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/word.png",
         "version": "v7a"
       },
       {
         "name": "配置token教程",
-        "url": "https://w6566.github.io/tvlive/text/course/配置token教程观看网盘4k片源.docx",
-        "icon": "https://w6566.github.io/tvlive/icon/word.png",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/text/course/配置token教程观看网盘4k片源.docx",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/word.png",
         "version": "v8a"
       }
       
     ]
   },
+  
   {
     "name": "扫码进群",
     "list": [
       {
         "name": "QQ群",
-        "url": "https://w6566.github.io/tvlive/icon/qq.png",
-        "icon": "https://w6566.github.io/tvlive/icon/qq.png",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/qq.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/qq.png",
         "version": "无界交流"
       }
     ]
