@@ -10,10 +10,10 @@
 
     ]
   },
+  
   {
     "name": "应用商店",
     "list": [
-
       {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
@@ -31,6 +31,7 @@
         "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
         "icon": "https://w6566.github.io/tvlive/icon/ys.png",
         "version": "电视版-安卓4.x版"
+      },
       {
         "name": "影视仓",
         "url": "https://xzweb.lanzoum.com/iIaf11kj572f",
@@ -67,9 +68,9 @@
         "icon": "https://w6566.github.io/tvlive/icon/alyp.png",
         "version": "旧版可一键获取token"
       }
-      
     ]
   },
+  
   {
     "name": "文档教程",
     "list": [
