@@ -24,7 +24,7 @@
 "sites":[
     
 {"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.10","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
-{"key":"商店","name":"无界🌏Fongmi商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/market.json","jar":"./box/spider/app.jar"},
+{"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/fm商店.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_Local","searchable":0,"changeable":0},
 {"key":"csp_KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
 {"key":"AList","name":"无界🌏AList","type":3,"api":"csp_AList","searchable":1,"changeable":0,"ext":"./box/json/alist.json"},
@@ -165,7 +165,6 @@
 {"key":"央视经典","name":"无界🌏央视经典","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"./box/json/哔哩经典.json"},
 {"key":"py_cctv","name":"无界🌏央视大全py","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/py/cctv.py"},
 {"key":"cctv","name":"无界🌏央视大全js","type":3,"api":"csp_CCTV","searchable":0,"filterable":0,"ext":"./box/json/央视大全.json","jar":"./box/spider/hccx.jar"},
-{"key":"py_cctv_少儿","name":"无界🌏央视少儿py","type":3,"api":"py_cctv_full","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/py_央视少儿.py","jar":"./box/spider/hccx.jar"},
 {"key":"csp_Bili_meishi","name":"无界🌏美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/美食合集.json"},
 {"key":"csp_Bili__dapei","name":"无界🌏搭配教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/搭配.json"},
 {"key":"csp_Bili_dashan","name":"无界🌏搭讪教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/搭讪.json"},
