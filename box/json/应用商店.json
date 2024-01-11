@@ -35,37 +35,68 @@
       },
   {
         "name": "影视仓",
-        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/android/影视仓_5.0.20_1_opt.apk",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "电视版5.0.20_1"
       },
       {
         "name": "影视仓",
-        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/android/影视仓_5.0.20_1_海信版.apk",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "电视版5.0.20_1海信版"
       },
       {
         "name": "影视仓",
-        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/android/影视仓_3.0.36.apk",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "电视版3.0.36-安卓4.x版"
       },
       {
         "name": "影视仓",
-        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/android/影视仓_2.0.15_2_短视频.apk",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "手机版2.0.15_2-短视频版"
       },
       {
         "name": "影视仓",
-        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/android/影视仓_2.0.15_2_游戏版.apk",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ysc.png",
         "version": "手机版2.0.15_2-游戏版"
       },
+            {
+        "name": "Tvbox",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/tvboxq.png",
+        "version": "Q版"
+      },
+      {
+        "name": "Tvbox",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/tvboxt.png",
+        "version": "takagen99"
+      },
+      {
+        "name": "DIYP",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/diyp.png",
+        "version": "手机版2.0.15_2-游戏版"
+      },
+      {
+        "name": "Catbox",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/catbox.png",
+        "version": ""
+      },
+      {
+        "name": "派大星直播",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/pdx.png",
+        "version": ""
+      },
+
       {
         "name": "阿里云盘",
-        "url": "https://cloud.lxweb.cn/s/WkbIn",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/icon/download.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/alyp.png",
         "version": "可一键获取token"
       }
