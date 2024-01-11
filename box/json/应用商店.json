@@ -16,6 +16,12 @@
     "name": "应用商店",
     "list": [
       {
+        "name": "无界本地包",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/program/rar/无界.rar",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/rar.png",
+        "version": "v24.01.10"
+      },
+      {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/ys.png",
