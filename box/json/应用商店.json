@@ -116,8 +116,14 @@
         "url": "https://gitee.com/wj0321/tvlive/raw/main/text/course/多线直播切换方法.pdf",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/pdf.png",
         "version": "pdf"
+      }, 
+      {
+        "name": "本地包使用教程",
+        "url": "https://gitee.com/wj0321/tvlive/raw/main/text/course/本地包使用教程.pdf",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main/icon/pdf.png",
+        "version": "pdf"
       }
-            
+
     ]
   },
   
