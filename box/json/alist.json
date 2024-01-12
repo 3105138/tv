@@ -64,7 +64,8 @@
 {"name":"🌨云播放","server": "https://quanzi.laoxianghuijia.cn"},
 {"name":"🕵️好汉吧","server": "https://8023.haohanba.cn"},
 {"name":"💢repl","server": "https://ali.liucn.repl.co"},
-{"name":"🌨秋雨分享","server": "https://share.laowang.me"}, 
+{"name":"🌨秋雨分享","server": "https://share.laowang.me"}
+  ]
 
  "params": [
    {
@@ -72,6 +73,5 @@
 "pass": "18181818"
    }
  ]
-    }
-  ]
+
 }
