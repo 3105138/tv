@@ -1,7 +1,7 @@
 {
-  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-  
-  "drives": [
+"vodPic":"https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+
+"drives":[
 {"name":"🙋丫仙女","server":"http://alist.xiaoya.pro/"},
 {"name":"🌱Arley","server":"http://45.85.77.23:5244/"},
 {"name":"🌱小雅搜","server":"http://116.204.127.178:5678/"},
@@ -52,34 +52,34 @@
 {"name":"🌱微资·随意盘","server":"https://apps.weixinqqq.com/"},
 {"name":"🌱娱乐盘","server":"http://129.146.173.154:5678/"},
 {"name":"🌱小雅云","server":"http://123.60.191.158:5678/"},
-{"name":"💢小雅","server": "http://alistxy.ganggang.live:5678"},
-{"name":"🦀9T(Adult)","server": "https://drive.9t.ee"},
-{"name":"🌤晴园的宝藏库","server": "https://alist.52qy.repl.co"},
-{"name":"🐭米奇妙妙屋","server": "https://anime.mqmmw.ga"},
-{"name":"💂小兵组网盘影视","server": "https://6vv.app"},
-{"name":"🐋一只鱼","server": "https://alist.youte.ml"},
-{"name":"🥼帅盘","server": "https://hi.shuaipeng.wang"},
-{"name":"🎧听闻网盘","server": "https://wangpan.sangxuesheng.com"},
-{"name":"💾DISK","server": "http://124.222.140.243:8080"},
-{"name":"🌨云播放","server": "https://quanzi.laoxianghuijia.cn"},
-{"name":"🕵️好汉吧","server": "https://8023.haohanba.cn"},
-{"name":"💢repl","server": "https://ali.liucn.repl.co"},
-{"name":"🌨秋雨分享","server": "https://share.laowang.me"}, 
-    {
-      "name": "範本",
-      "server": "https://one.fongmi.com",
-      "search": true,
-      "hidden": false,
-      "login": {
-        "username": "fongmi",
-        "password": "fongmi"
-      },
-      "params": [
-        {
-          "path": "/安齋拉拉",
-          "pass": "18181818"
-        }
-      ]
-    }
-  ]
+{"name":"💢小雅","server":"http://alistxy.ganggang.live:5678"},
+{"name":"🦀9T(Adult)","server":"https://drive.9t.ee"},
+{"name":"🌤晴园的宝藏库","server":"https://alist.52qy.repl.co"},
+{"name":"🐭米奇妙妙屋","server":"https://anime.mqmmw.ga"},
+{"name":"💂小兵组网盘影视","server":"https://6vv.app"},
+{"name":"🐋一只鱼","server":"https://alist.youte.ml"},
+{"name":"🥼帅盘","server":"https://hi.shuaipeng.wang"},
+{"name":"🎧听闻网盘","server":"https://wangpan.sangxuesheng.com"},
+{"name":"💾DISK","server":"http://124.222.140.243:8080"},
+{"name":"🌨云播放","server":"https://quanzi.laoxianghuijia.cn"},
+{"name":"🕵️好汉吧","server":"https://8023.haohanba.cn"},
+{"name":"💢repl","server":"https://ali.liucn.repl.co"},
+{"name":"🌨秋雨分享","server":"https://share.laowang.me"},
+{
+"name":"範本",
+"server":"https://one.fongmi.com",
+"search":true,
+"hidden":false,
+"login":{
+"username":"fongmi",
+"password":"fongmi"
+},
+"params":[
+{
+"path":"/安齋拉拉",
+"pass":"18181818"
+}
+]
+}
+]
 }
