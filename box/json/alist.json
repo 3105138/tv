@@ -64,14 +64,22 @@
 {"name":"🌨云播放","server": "https://quanzi.laoxianghuijia.cn"},
 {"name":"🕵️好汉吧","server": "https://8023.haohanba.cn"},
 {"name":"💢repl","server": "https://ali.liucn.repl.co"},
-{"name":"🌨秋雨分享","server": "https://share.laowang.me"}
+{"name":"🌨秋雨分享","server": "https://share.laowang.me"}, 
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "search": true,
+      "hidden": false,
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
+        }
+      ]
+    }
   ]
-
- "params": [
-   {
-"path": "/安齋拉拉",
-"pass": "18181818"
-   }
- ]
-
 }
