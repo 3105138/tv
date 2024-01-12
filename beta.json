@@ -44,7 +44,6 @@
 {"key":"js_DJ5","name":"无界📕短剧","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/短剧网.js"},
 {"key":"XBPQ_葡萄","name":"无界📕短剧","type":3,"api":"csp_XBPQ","ext":{"数组":"class=\"stui-vodlist__box&&</li","分类url":"https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html","分类":"微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"}},
 {"key":"XBPQ_短视频","name":"无界📕视频分享","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/duanshipin.json"},
-   
 {"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.12","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
