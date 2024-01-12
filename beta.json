@@ -34,6 +34,10 @@
 {"key":"影院","name":"无界📕小哥","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"ymzy","name":"无界📕华新","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/hys.js"},
 {"key":"快车资源","name":"无界📕快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产剧","战争片","动作片","香港剧"]},
+{"key":"XBPQ_短视频","name":"无界📕视频分享","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/duanshipin.json"},
+{"key":"宅腐APP","name":"无界📕腐宅","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"},
+{"key":"101","name":"无界📕摇玲","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/101影视.json"},
+
 
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
