@@ -42,7 +42,7 @@
 {"key":"低端js","name":"无界🌏低端影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"./box/js/ddys.js"},
 {"key":"低端","name":"无界🌏低端影视","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/fan.txt"},
 {"key":"厂长js","name":"无界🌏️厂长影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/czspp.js"},
-{"key":"厂长","name":"无界🌏厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy22.com/","jar":"./box/spider/fan.txt"},
+{"key":"厂长","name":"无界🌏厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy66.com/","jar":"./box/spider/fan.txt"},
 {"key":"利播js","name":"无界🌏利播影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/libvio.js"},
 {"key":"利播","name":"无界🌏利播影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/","jar":"./box/spider/fan.txt"},
 {"key":"ymzy","name":"无界🌏华新影视","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/hys.js"},
