@@ -1,9 +1,0 @@
-{
-  "storeHouse": [
-    {
-      "sourceName": "无界🌏",
-      "sourceUrl": "https://gitee.com/wj0321/tvlive/raw/main/line/more.json"
-    }
-  ]
-}
-
