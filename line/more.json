@@ -1,0 +1,37 @@
+
+{
+"urls":[
+{
+"name":"无界🌏GitHub",
+"url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"
+},
+{
+"name":"无界🌏Gitee",
+"url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"
+},
+{
+"name":"无界🌏GitHub beta",
+"url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"
+},
+{
+"name":"无界🌏Gitee beta",
+"url":"https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/vip/main/vip4k.json"
+},
+{
+"name":"无界🌏本地-file",
+"url":"file://tvbox/无界/wj.json"
+},
+{
+"name":"无界🌏R18-file",
+"url":"file://tvbox/R18/R18.json"
+},
+{
+"name":"无界🌏本地-clan",
+"url":"clan://localhost/tvbox/无界/wj.json"
+},
+{
+"name":"无界🌏R18-clan",
+"url":"clan://localhost/tvbox/R18/R18.json"
+}
+
+]}
