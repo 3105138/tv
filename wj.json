@@ -23,7 +23,7 @@
 
 "sites":[
     
-{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.12","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
+{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.13","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
 {"key":"KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
@@ -42,7 +42,7 @@
 {"key":"低端js","name":"无界🌏低端影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"./box/js/ddys.js"},
 {"key":"低端","name":"无界🌏低端影视","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/fty.jar"},
 {"key":"厂长js","name":"无界🌏️厂长影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/czspp.js"},
-{"key":"厂长","name":"无界🌏厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy22.com/","jar":"./box/spider/fty.jar"},
+{"key":"厂长","name":"无界🌏厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy66.com/","jar":"./box/spider/fty.jar"},
 {"key":"利播js","name":"无界🌏利播影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/libvio.js"},
 {"key":"利播","name":"无界🌏利播影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/","jar":"./box/spider/fty.jar"},
 {"key":"ymzy","name":"无界🌏华新影视","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/hys.js"},
