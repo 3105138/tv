@@ -102,17 +102,12 @@
 
 - 代理加速服务：
     - https://github.com/用户名/仓库/raw/main/wj.json  
-    - https://hub.gitmirror.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://github.moeyy.xyz/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://ghps.cc/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json)https://raw.fgit.cf/w6566/tvlive/main/wj.json
+    - https://raw.fgit.cf/w6566/tvlive/main/wj.json
     - https://hub.gitmirror.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
     - https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
     - https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
     - https://github.moeyy.xyz/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
     - https://ghps.cc/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
- 
 </code></pre>  
 
      
