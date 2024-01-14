@@ -3,6 +3,12 @@
     "name": "推荐",
     "list": [
       {
+        "name": "无界本地包",
+        "url": "https://gitee.com/wj0321/data/raw/master/program/无界.rar",
+        "icon": "https://gitee.com/wj0321/data/raw/master/icon/rar.png",
+        "version": "v24.01.14"
+      },
+      {
         "name": "微博主页",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/wb.png",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/sina.png", 
@@ -10,7 +16,7 @@
       }
 
     ]
-  },
+    },
   
   {
     "name": "应用商店",
@@ -25,51 +31,57 @@
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/release/leanback-python-arm64_v8a.apk",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/ys.png",
-        "version": "电视版-py-v8a"
+        "version": "电视端-py-v8a"
       },
       {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/release/mobile-python-arm64_v8a.apk",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/ys.png",
-        "version": "手机版-py-v8a"
+        "version": "手机端-py-v8a"
       },
       {
         "name": "Fongmi影视",
         "url": "https://fm.caioa.link/main/apk/kitkat/leanback.apk",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/ys.png",
-        "version": "电视版-安卓4.x版"
+        "version": "电视端-安卓4.x版"
       },
   {
         "name": "影视仓",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc.png",
-        "version": "电视版5.0.20_1"
+        "version": "电视端5.0"
       },
       {
         "name": "影视仓",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc.png",
-        "version": "电视版5.0.20_1海信版"
+        "version": "电视端5.0海信版"
       },
       {
         "name": "影视仓",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc.png",
-        "version": "电视版3.0.36-安卓4.x版"
+        "version": "电视端3.0-安卓4.x版"
       },
       {
         "name": "影视仓",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
-        "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc.png",
-        "version": "手机版2.0.15_2-短视频版"
+        "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc-dsp.png",
+        "version": "手机端-短视频版"
       },
       {
         "name": "影视仓",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
-        "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc.png",
-        "version": "手机版2.0.15_2-游戏版"
+        "icon": "https://gitee.com/wj0321/data/raw/master/icon/ysc-yx.png",
+        "version": "手机端-游戏版"
       },
-            {
+      {
+        "name": "影迷",
+        "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
+        "icon": "https://gitee.com/wj0321/data/raw/master/icon/yingmi.png",
+        "version": "手机端"
+      },
+      {
         "name": "Tvbox",
         "url": "https://gitee.com/wj0321/data/raw/master/icon/download.png",
         "icon": "https://gitee.com/wj0321/data/raw/master/icon/tvboxq.png",
