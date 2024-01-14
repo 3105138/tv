@@ -63,7 +63,7 @@
     </tr>
   <tr>
       <td>mobile版</td>
-      <td>影视仓OTP、Fongmi 影视</td>
+      <td>影视仓OTP、Fongmi 影视、影迷</td>
     </tr>
   <tr>
       <td>PC版</td>
