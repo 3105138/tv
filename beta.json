@@ -1,10 +1,10 @@
 {
-"spider":"./box/spider/wj240113.jar",
+"spider":"./box/spider/wj240109.jar",
 "warningText":"正在加载!请稍后!Sina微博@·王健·",
 "wallpaper":"./wallpaper/8K01.jpg",
 
 "lives":[
-{"name":"无界🌏IPV6+IPV4","type":0,"url":"./box/live/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"无界🌏IPV6+IPV4","type":0,"url":"https://w6566.github.io/tvlive/box/live/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FMM🌏IPV6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}, 
 {"name":"FMM🌏Radio","type":0,"url":"https://fongmi.cachefly.net/fanmingming/live/main/radio/m3u/index.m3u","playerType":1},
 {"name":"MV🌏16万部","type":0,"url":"https://fongmi.cachefly.net/lystv/short/main/影视/tvb/MTV.txt"},
@@ -18,12 +18,12 @@
 {"name":"YuanHsing🌏YouTube","type":0,"url":"https://fongmi.cachefly.net/YuanHsing/YouTube_to_m3u/main/youtube.m3u"}, 
 {"name":"无界🌏Beta🈲","type":0,"url":"./box/live/beta.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 
-], 
+],
 
 
 "sites":[
     
-{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.14","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
+{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.15","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
 {"key":"KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
