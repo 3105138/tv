@@ -1,3 +1,8 @@
+💯版本信息,#genre#
+Ver.240115,http://tv.nxog.top/m/404/xjj.php
+QQ群48481548,http://tv.nxog.top/m/404/xjj.php
+微博@·王健·,http://tv.nxog.top/m/404/xjj.php
+
 🇨🇳央视频道,#genre#
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
@@ -4535,11 +4540,6 @@ X战警系列电影,http://mmitv.top/pltv/yy.php?id=1382736893
 最后的狮子-探险纪录片,http://mmitv.top/pltv/yy.php?id=1382735577
 最美的青春,http://mmitv.top/pltv/yy.php?id=1382745116
 最新高分战争电影片,http://mmitv.top/pltv/yy.php?id=1354930204
-
-💯版本信息,#genre#
-Ver.240115,http://tv.nxog.top/m/404/xjj.php
-QQ群48481548,http://tv.nxog.top/m/404/xjj.php
-微博@·王健·,http://tv.nxog.top/m/404/xjj.php
 
 
 ㊙️内部测试_beta,#genre#
