@@ -1,7 +1,7 @@
 
 <h1 align="center"> ✯ 无界🌏tvlive ✯ </h1>
-<h3 align="center">🔥 https://w6566.github.io/tvlive/ 🔥</h3>
-<h3 align="center">🔥 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问🔥</h3>
+<h3 align="center">💎 永久免费 直连访问 完整开源 不断完善 💎</h3>
+<h3 align="center">🔥 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔥</h3>
 <p align="center">       
 </p>
 <header class="page-header" role="banner">
@@ -39,10 +39,20 @@
       <td>仓库线路推送</td>
       <td>https://w6566.github.io/tvlive/wj.json</td>
     </tr>
-     <tr>
+    <tr>
       <td>②</td>
+      <td>仓库线路推送</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/main/wj.json</td>
+    </tr>
+     <tr>
+      <td>③</td>
       <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
+    </tr>
+        <tr>
+      <td>④</td>
+      <td>直播源推送</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/main/box/live/live.txt</td>
     </tr>
   </tbody>
 </table>
@@ -63,7 +73,7 @@
     </tr>
   <tr>
       <td>mobile版</td>
-      <td>影视仓OTP、Fongmi 影视、影迷</td>
+      <td>影视仓OTP、Fongmi 影视</td>
     </tr>
   <tr>
       <td>PC版</td>
@@ -102,12 +112,23 @@
 
 - 代理加速服务：
     - https://github.com/用户名/仓库/raw/main/wj.json  
-    - https://raw.fgit.cf/w6566/tvlive/main/wj.json
-    - https://hub.gitmirror.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://github.moeyy.xyz/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
-    - https://ghps.cc/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
+    - 美国
+       - https://raw.fgit.cf/w6566/tvlive/main/wj.json
+    - 日本    
+       - https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
+       - https://fastly.jsdelivr.net/gh/w6566/tvlive@main/wj.json
+    - 韩国   
+       - https://ghproxy.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json 
+       - https://gh-proxy.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
+    - 其他  
+       - https://gcore.jsdelivr.net/gh/w6566/tvlive@main/wj.json
+       - https://jsdelivr.b-cdn.net/gh/w6566/tvlive@main/wj.json
+       - https://github.moeyy.xyz/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json      
+       - https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json        
+       - https://hub.gitmirror.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json  
+       - https://ghps.cc/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json  
+       - https://gh.ddlc.top/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json  
+ 
 </code></pre>  
 
      
