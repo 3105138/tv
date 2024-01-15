@@ -1,5 +1,5 @@
 💯版本信息,#genre#
-更新时间240115,http://tv.nxog.top/m/404/xjj.php
+Ver.240115,http://tv.nxog.top/m/404/xjj.php
 QQ群48481548,http://tv.nxog.top/m/404/xjj.php
 微博@·王健·,http://tv.nxog.top/m/404/xjj.php
 
@@ -1598,14 +1598,14 @@ HBOFamily,http://208.115.225.174:14144
 HBOMundi,http://208.115.225.174:14148
 HBOsignature,http://208.115.225.174:14160
 KBC,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KBC광주방송(SBS光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBC광주방송,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBSLiveCamDokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
 KBSWorld,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBSWorld,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-KCTV광주,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-MBC综合频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 NASAPublicChannel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASAPublicChannel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 NBSKoreaAgriculturalBroadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
