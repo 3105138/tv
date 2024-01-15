@@ -1436,7 +1436,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/index.m3u8
 陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8
-天津,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
 东南卫视,http://111.14.181.15:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://111.225.92.130:8800/hls/48/index.m3u8
 东南卫视,http://221.214.140.137:9901/tsfile/live/0137_1.m3u8
@@ -1480,7 +1479,6 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 广西卫视,http://101.224.232.228:9901/tsfile/live/faacts/0113_1.m3u8
 广西卫视,http://111.225.92.130:8800/hls/50/index.m3u8
 广西卫视,http://221.214.140.137:9901/tsfile/live/0113_1.m3u8
-江苏卫视+,http://111.225.92.130:8800/hls/32/index.m3u8
 江苏卫视,http://101.224.232.228:9901/tsfile/live/faacts/0127_1.m3u8
 江苏卫视,http://221.214.140.137:9901/tsfile/live/0018_1.m3u8
 江苏卫视,http://58.19.13.92:9901/tsfile/live/1019_1.m3u8
@@ -3752,7 +3750,6 @@ HSTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227054/index.m3u8
 陕西紫阳综合,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227002/index.m3u8
 FGTV1,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 FGTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
-
 陕西宝鸡一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
 陕西宝鸡二套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
 陕西麟游,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227072/index.m3u8
@@ -3767,7 +3764,6 @@ FGTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 陕西横山,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227054/1.m3u8
 陕西佛坪,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
 佛坪电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
-
 陕西西乡,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226556/1.m3u8
 西乡融媒,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226556/index.m3u8
 陕西石泉,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8
@@ -3778,7 +3774,6 @@ FGTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226990/index.m3u8
 陕西黄陵,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226992/index.m3u8
 陕西岚皋,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
 岚皋电视台,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227057/index.m3u8
-
 陕西勉县,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002415/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 陕西旬阳,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227090/index.m3u8
 陕西子洲,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221227104/index.m3u8
