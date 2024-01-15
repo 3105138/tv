@@ -2388,10 +2388,6 @@ SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/500000000700
 咪咕直播-55,http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 咪咕直播-56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
-💯版本信息,#genre#
-Ver.240115,http://tv.nxog.top/m/404/xjj.php
-QQ群48481548,http://tv.nxog.top/m/404/xjj.php
-微博@·王健·,http://tv.nxog.top/m/404/xjj.php
 
 东北❤️黑龙江,#genre#
 黑龙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230622/1.m3u8
@@ -4539,6 +4535,11 @@ X战警系列电影,http://mmitv.top/pltv/yy.php?id=1382736893
 最后的狮子-探险纪录片,http://mmitv.top/pltv/yy.php?id=1382735577
 最美的青春,http://mmitv.top/pltv/yy.php?id=1382745116
 最新高分战争电影片,http://mmitv.top/pltv/yy.php?id=1354930204
+
+💯版本信息,#genre#
+Ver.240115,http://tv.nxog.top/m/404/xjj.php
+QQ群48481548,http://tv.nxog.top/m/404/xjj.php
+微博@·王健·,http://tv.nxog.top/m/404/xjj.php
 
 
 ㊙️内部测试_beta,#genre#
