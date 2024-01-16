@@ -1,4 +1,3 @@
-//
 🇨🇳央视频道,#genre#
 
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
@@ -1555,8 +1554,7 @@ CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/in
 TVB翡翠财经,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 TVB星河,http://113.117.74.12:8081/hls/135/index.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
@@ -1604,7 +1602,7 @@ NASAPublicChannel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/mast
 NBSKoreaAgriculturalBroadcasting,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 NBSKoreaAgriculturalBroadcasting,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
 NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+NHK,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
@@ -1655,7 +1653,6 @@ YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-海峡两岸,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/93dafada4e35457788319f02f5063529/1200.m3u8
 韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/groundwavetablet500k.m3u8
 韩国EBS1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
@@ -1697,7 +1694,6 @@ YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 时尚,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
 泰国CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 探索亚洲,http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
 乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
@@ -1715,7 +1711,7 @@ YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
-耀才財經台,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w316626141.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w316626141.m3u8
 有线财经资讯,http://61.10.2.140/live_freedirect/freehd208_h.live/playlist.m3u8
 有线财经资讯,http://61.10.2.145/live_freedirect/freehd208_h.live/chunklist.m3u8
 有线财经资讯,http://61.10.2.146/live_freedirect/freehd208_h.live/playlist.m3u8
