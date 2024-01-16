@@ -49,11 +49,7 @@
       <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
     </tr>
-        <tr>
-      <td>④</td>
-      <td>直播源推送</td>
-      <td>https://gitee.com/wj0321/tvlive/raw/main/box/live/live.txt</td>
-    </tr>
+
   </tbody>
 </table>
 
