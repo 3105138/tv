@@ -1674,6 +1674,7 @@ YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 韩国新闻,http://moneytoday1.ktcdn.co.kr:1935/mtnlive/720/playlist.m3u8
 韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?zshijd
+韩国职业广播,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
@@ -1685,7 +1686,7 @@ YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 靖宇综合,http://stream8.jlntv.cn/jytv/sd/live.m3u8
 镜新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 美国摔角,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-秘鲁RadioSanBorjaTV[Not24/7,https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+秘鲁RadioSanBorjaTV,https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
 摩纳哥MonacoInfo,https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
@@ -1725,7 +1726,6 @@ YCTV,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有线直播,http://61.10.2.145/live_freedirect/hd110_h.live/chunklist.m3u8
 长城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
-职业,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 
 
 🖥4K超高清,#genre#
