@@ -2487,7 +2487,7 @@ SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/500000000700
 北京纪实科教,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 北京纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 北京房山无线,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
-北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+北京卡酷少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
 北京石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
