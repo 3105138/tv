@@ -1,4 +1,4 @@
-<p align="center"><img alt="https://weibo.com/wj031" src="https://gitee.com/wj0321/tvlive/raw/main/icon/wj-logo%20.png"></p>
+<p align="center"><img alt="https://weibo.com/wj031" src="https://gitee.com/wj0321/tvlive/raw/main/icon/wj-logo.png"></p>
 <h1 align="center"> ✯ 无界🌏tvlive ✯ </h1>
 <h3 align="center">💎 永久免费 直连访问 完整开源 不断完善 💎</h3>
 <h3 align="center">🔥 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔥</h3>
