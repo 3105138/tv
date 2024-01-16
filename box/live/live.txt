@@ -2492,7 +2492,7 @@ SITV东方财经,http://zteres.sn.chinamobile.com:6060/000000001000/500000000700
 BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 房山无线频道,http://live.funhillrm.com/2/sd/live.m3u8
 北京纪实科教,http://111.225.92.130:8800/hls/70/index.m3u8
-北京卡酷,http://101.224.232.228:9901/tsfile/live/1002_1.m3u8
+北京卡酷少儿,http://101.224.232.228:9901/tsfile/live/1002_1.m3u8
 
 华北❤️河北,#genre#
 河北卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8?
