@@ -1,7 +1,5 @@
-<p align="center"><img alt="https://weibo.com/wj0321" src="https://gitee.com/wj0321/tvlive/raw/main/icon/wj-logo.png"></p>
-<h1 align="center"> ✯ 无界🌏tvlive ✯ </h1>
-<h3 align="center">💎 永久免费 直连访问 完整开源 不断完善 💎</h3>
-<h3 align="center">🔥 支持IPv4/IPv6双栈访问 GitHub与Gitee双仓实时同步 🔥</h3>
+<p align="center"><img alt="https://weibo.com/wj0321" src="https://gitea.com/w6566/data/raw/branch/main/icon/wj-logo.png"></p>
+<h1 align="center">💎 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问💎</h1>
 <p align="center">       
 </p>
 <header class="page-header" role="banner">
@@ -42,12 +40,17 @@
     <tr>
       <td>②</td>
       <td>仓库线路推送</td>
-      <td>https://gitee.com/wj0321/tvlive/raw/main/wj.json</td>
+      <td>https://gitea.com/w6566/tvlive/raw/branch/main/wj.json</td>
     </tr>
      <tr>
       <td>③</td>
       <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
+    </tr>
+     <tr>
+      <td>④</td>
+      <td>直播源推送</td>
+      <td>https://gitea.com/w6566/tvlive/raw/branch/main/box/live/live.txt</td>
     </tr>
 
   </tbody>
