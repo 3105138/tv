@@ -1,15 +1,5 @@
 <p align="center"><img alt="https://weibo.com/wj0321" src="https://gitea.com/w6566/data/raw/branch/main/icon/wj-logo.png"></p>
-<h1 align="center"></h1>
-<h2 align="center">💎 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问💎</h2>
-<header class="page-header" role="banner">
-      <h1 class="project-name"></h1>
-       <a href="../main/text/course" class="btn">   文档教程   </a>
-       <a href=" " class="btn"> · </a>
-       <a href="../main/program/android" class="btn">   Android应用   </a>
-       <a href=" " class="btn"> · </a>
-       <a href="../main/program/Windows" class="btn">   Windows应用   </a>  
-</header>
-
+<h1 align="center">💎 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问 💎</h1>
 ----
    
 
