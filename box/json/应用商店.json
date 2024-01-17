@@ -9,6 +9,12 @@
         "version": "Ver.240117"
       },
       {
+        "name": "无界发布页",
+        "url": "https://gitea.com/w6566/data/raw/branch/main/icon/fabuye.png",
+        "icon": "https://gitea.com/w6566/data/raw/branch/main/icon/fby.png",
+        "version": ""
+      },
+      {
         "name": "微博主页",
         "url": "https://gitea.com/w6566/data/raw/branch/main/icon/wb.png",
         "icon": "https://gitea.com/w6566/data/raw/branch/main/icon/sina.png", 
@@ -148,6 +154,12 @@
   {
     "name": "扫码进群",
     "list": [
+      {
+        "name": "无界发布页",
+        "url": "https://gitea.com/w6566/data/raw/branch/main/icon/fabuye.png",
+        "icon": "https://gitea.com/w6566/data/raw/branch/main/icon/fby.png",
+        "version": ""
+      },
       {
         "name": "Sina微博",
         "url": "https://gitea.com/w6566/data/raw/branch/main/icon/wb.png",
