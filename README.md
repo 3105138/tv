@@ -1,6 +1,5 @@
 <p align="center"><img alt="https://weibo.com/wj0321" src="https://gitea.com/w6566/data/raw/branch/main/icon/wj-logo.png"></p>
 <h1 align="center">💎 永久免费 直连访问 完整开源 不断完善 支持IPv4/IPv6双栈访问💎</h1>
-</p>
 <header class="page-header" role="banner">
       <h1 class="project-name"></h1>
        <a href="../main/text/course" class="btn">   文档教程   </a>
