@@ -32,11 +32,16 @@
     </tr>
      <tr>
       <td>③</td>
+      <td>仓库线路推送</td>
+      <td>https://gitee.com/wj0321/tvlive/raw/main/wj.json</td>
+    </tr>
+     <tr>
+      <td>④</td>
       <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
     </tr>
      <tr>
-      <td>④</td>
+      <td>⑤</td>
       <td>直播源推送</td>
       <td>https://gitea.com/w6566/tvlive/raw/branch/main/box/live/live.txt</td>
     </tr>
