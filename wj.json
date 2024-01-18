@@ -23,7 +23,7 @@
 
 "sites":[
     
-{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.15","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
+{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.18","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
 {"key":"KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
@@ -156,8 +156,8 @@
 {"key":"哔哩歌曲","name":"无界🌏哔哩歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./box/json/biliych.json"},
 {"key":"奥迪音乐","name":"无界🌏奥迪音乐","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/a8音乐.js"},
 {"key":"歌曲演唱","name":"无界🌏歌曲演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/mtv.json"},
-{"key":"美女舞蹈","name":"无界🌏美女舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/meinv.json"},
-{"key":"美女热舞","name":"无界🌏女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/nvtuan.json"},
+{"key":"美女舞蹈","name":"无界🌏美女舞蹈","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/meinv.json","jar":"./box/spider/fty.jar"},
+{"key":"美女热舞","name":"无界🌏女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/nvtuan.json","jar":"./box/spider/fty.jar"},
 {"key":"酷奇mv","name":"无界🌏酷奇MV","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"哔哩精简","name":"无界🌏哔哩精简","type":3,"api":"./box/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/js/B站精简.js"},
 //直播短视频
