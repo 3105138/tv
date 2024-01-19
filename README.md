@@ -55,13 +55,13 @@
   <thead>
     <tr>
       <th>类 别</th>
-      <th>软件名称</th>
+      <th>软件名称（ * 表示不支持商店）</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>TV版</td>
-      <td>影视仓、Fongmi 影视、TVBox Q版、TVBox 俊版、CatBox、CatVOD、派大星直播、DIYP</td>
+      <td>影视仓*、Fongmi 影视、TVBox Q版*、TVBox takagen99、CatBox、CatVOD、派大星直播*、DIYP*</td>
     </tr>
   <tr>
       <td>mobile版</td>
@@ -69,7 +69,7 @@
     </tr>
   <tr>
       <td>PC版</td>
-      <td>ZYplayer</td>
+      <td>ZYplayer*</td>
     </tr>
 
  
