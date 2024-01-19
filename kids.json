@@ -55,7 +55,6 @@
 {"key":"歌手合集","name":"无界🌏歌手合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/geshou.json","jar":"./box/spider/fty.jar"},
 {"key":"音悦合集","name":"无界🌏音悦合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/yinyue.json","jar":"./box/spider/fty.jar"},
 {"key":"酷奇音乐","name":"无界🌏酷奇音乐","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./box/json/酷奇MV.json"},
-{"key":"哔哩歌曲","name":"无界🌏哔哩歌曲","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":0,"changeable":0,"ext":"./box/json/biliych.json","jar":"./box/spider/fty.jar"},
 {"key":"奥迪音乐","name":"无界🌏奥迪音乐","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/a8音乐.js"},
 {"key":"歌曲演唱","name":"无界🌏歌曲演唱","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/mtv.json","jar":"./box/spider/fty.jar"},
 {"key":"酷奇mv","name":"无界🌏酷奇MV","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/酷奇MV.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
