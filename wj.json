@@ -23,7 +23,7 @@
 
 "sites":[
     
-{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.18","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
+{"key":"豆瓣","name":"无界🌏QQ群48481548🌙Ver.240119","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
 {"key":"KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
@@ -41,7 +41,7 @@
 {"key":"南瓜","name":"无界🌏南瓜影视","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/fty.jar"},
 {"key":"低端js","name":"无界🌏低端影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"playerType":2,"quickSearch":1,"filterable":1,"ext":"./box/js/ddys.js"},
 {"key":"低端","name":"无界🌏低端影视","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/fty.jar"},
-{"key":"厂长js","name":"无界🌏️厂长影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/czspp.js"},
+{"key":"厂长js","name":"无界🌏厂长影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/czspp.js"},
 {"key":"厂长","name":"无界🌏厂长影视","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy66.com/","jar":"./box/spider/fty.jar"},
 {"key":"利播js","name":"无界🌏利播影视js","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/libvio.js"},
 {"key":"利播","name":"无界🌏利播影视","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/","jar":"./box/spider/fty.jar"},
@@ -71,7 +71,7 @@
 {"key":"五月","name":"无界🌏五月影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/五月影视.js"},
 {"key":"101","name":"无界🌏101影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/101影视.json"},
 {"key":"日后","name":"无界🌏348影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/348影视.json"},
-{"key":"Free","name":"无界🌏️Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/Free影视.json"},
+{"key":"Free","name":"无界🌏Free影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/Free影视.json"},
 {"key":"TVB","name":"无界🌏TVB云播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/TVB云播.json"},
 {"key":"Voflix","name":"无界🌏Voflix","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/voflix.json"},
 {"key":"YYDS","name":"无界🌏YYDS影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/json/YYDS影视.json"},
@@ -187,7 +187,7 @@
 {"key":"搭配","name":"无界🌏搭配教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/搭配.json"},
 {"key":"搭讪","name":"无界🌏搭讪教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/搭讪.json"},
 {"key":"中医药区","name":"无界🌏中医药区","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/zyy.json"},
-{"key":"急救教学","name":"无界🌏急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
+{"key":"急救教学","name":"无界🌏急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./box/spider/fty.jar"},
 {"key":"童趣","name":"无界🌏童趣播视","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/童趣.js"},
 {"key":"儿童启蒙","name":"无界🌏儿童启蒙","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/兔小贝.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"幼儿教育","name":"无界🌏幼儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/youer.json"},
