@@ -123,11 +123,18 @@
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/xiaobai.png",
         "version": ""
       },
+     
+      {
+        "name": "Clash",
+        "url": "https://cloud.lxweb.cn/f/6JjVcw/clash_v3.0.3.premium.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/clash.png",
+        "version": "手机版3.0.3"
+      },
       {
         "name": "科学上网",
         "url": "https://gitee.com/wj0321/tvlive/raw/main//icon/heidong.png",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/tz.png",
-        "version": ""
+        "version": "手机版"
       },
       {
         "name": "阿里云盘",
