@@ -53,13 +53,13 @@
       },
   {
         "name": "影视仓",
-        "url": "https://cloud.lxweb.cn/f/9omkh1/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.20_1_opt.apk",
+        "url": "https://cloud.lxweb.cn/f/8xjJs1/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.21_.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/ysc.png",
         "version": "电视端5.0"
       },
       {
         "name": "影视仓",
-        "url": "https://cloud.lxweb.cn/f/w211I2/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.20_1_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
+        "url": "https://cloud.lxweb.cn/f/oEbMIY/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.21_%E6%B5%B7%E4%BF%A1%E7%89%88.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/ysc.png",
         "version": "电视端5.0海信版"
       },
@@ -73,13 +73,13 @@
         "name": "影视仓",
         "url": "https://cloud.lxweb.cn/f/O1m1Tb/%E5%BD%B1%E8%A7%86%E4%BB%93_2.0.15_2_%E7%9F%AD%E8%A7%86%E9%A2%91_opt.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/ysc-dsp.png",
-        "version": "手机端-短视频版"
+        "version": "手机端2.0-短视频版"
       },
       {
         "name": "影视仓",
         "url": "https://cloud.lxweb.cn/f/0q9ET0/%E5%BD%B1%E8%A7%86%E4%BB%93_2.0.15_2_%E6%B8%B8%E6%88%8F%E7%89%88.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/ysc-yx.png",
-        "version": "手机端-游戏版"
+        "version": "手机端2.0-游戏版"
       },
       {
         "name": "影迷",
@@ -113,8 +113,14 @@
       },
       {
         "name": "派大星直播",
-        "url": "https://cloud.lxweb.cn/f/l8KPFw/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD.apk",
+        "url": "https://cloud.lxweb.cn/f/rW26HE/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6_.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/pdx.png",
+        "version": ""
+      },
+      {
+        "name": "小白文件管理器",
+        "url": "https://cloud.lxweb.cn/f/eNVpCa/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8TV.apk",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/xiaobai.png",
         "version": ""
       },
       {
