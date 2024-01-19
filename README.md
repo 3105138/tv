@@ -117,7 +117,15 @@
 ### 📖声明：
 - 资源来源于网络，不对内容的真实性负责，仅供学习交流。
 
+### 星图:
 
+<!-- ![Stargazers over time](https://starchart.cc/w6566/tvlive.svg) -->
+
+<!-- ![Stargazers repo roster for @w6566/tvlive](https://reporoster.com/stars/w6566/tvlive) -->
+
+<!-- ![Star History Chart](https://api.star-history.com/svg?repos=w6566/tvlive&type=Date) -->
+
+<img src="https://api.star-history.com/svg?repos=w6566/tvlive&type=Date" onerror="this.src=&apos;https://starchart.cc/w6566/tvlive.svg&apos;"/>
 
 ### 📱联系：
 - [Sina微博@·王健·](https://weibo.com/wj0321)
