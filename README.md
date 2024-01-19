@@ -117,7 +117,7 @@
 ### 📖声明：
 - 资源来源于网络，不对内容的真实性负责，仅供学习交流。
 
-### 星图:
+### ⭐星图:
 
 <!-- ![Stargazers over time](https://starchart.cc/w6566/tvlive.svg) -->
 
