@@ -23,7 +23,7 @@
 
 "sites":[
     
-{"key":"豆瓣","name":"无界🌏QQ群48481548🌙V24.01.18","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
+{"key":"豆瓣","name":"无界🌏QQ群48481548🌙Ver.240119","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/douban.js"},
 {"key":"商店","name":"无界🌏应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./box/json/应用商店.json","jar":"./box/spider/app.jar"},
 {"key":"本地","name":"无界🌏本地存储","type":3,"api":"csp_LocalFile","searchable":0,"changeable":0},
 {"key":"KungFu404","name":"无界🌏设置Token","type":3,"api":"csp_KungFu404","searchable":0,"filterable":0,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvbox/tok.txt","jar":"./box/spider/alibaba.jar"},
@@ -187,7 +187,7 @@
 {"key":"搭配","name":"无界🌏搭配教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/搭配.json","jar":"./box/spider/fty.jar"},
 {"key":"搭讪","name":"无界🌏搭讪教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/搭讪.json","jar":"./box/spider/fty.jar"},
 {"key":"中医药区","name":"无界🌏中医药区","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/zyy.json","jar":"./box/spider/fty.jar"},
-{"key":"急救教学","name":"无界🌏急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},"jar":"./box/spider/fty.jar",
+{"key":"急救教学","name":"无界🌏急救教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8},"jar":"./box/spider/fty.jar"}},
 {"key":"童趣","name":"无界🌏童趣播视","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./box/js/童趣.js"},
 {"key":"儿童启蒙","name":"无界🌏儿童启蒙","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/兔小贝.js","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"幼儿教育","name":"无界🌏幼儿教育","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/youer.json","jar":"./box/spider/fty.jar"},
