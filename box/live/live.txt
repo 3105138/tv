@@ -1,4 +1,5 @@
 🇨🇳央视频道,#genre#
+无界Ver.240120,https://cloud.lxweb.cn/f/w20zs2/20240120214556.mp4
 CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1668593752&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0a_80&popid=40&hms_devid=2036&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
@@ -4501,12 +4502,8 @@ X战警系列电影,http://mmitv.top/pltv/yy.php?id=1382736893
 最新高分战争电影片,http://mmitv.top/pltv/yy.php?id=1354930204
 💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯💯
 
-💯版本信息,#genre#
-Ver.240115,http://tv.nxog.top/m/404/xjj.php
+
+
+㊙️内部测试,#genre#
 Q群48481548,http://tv.nxog.top/m/404/xjj.php
 微博@·王健·,http://tv.nxog.top/m/404/xjj.php
-
-
-㊙️内部测试_beta,#genre#
-测试1,http://tv.nxog.top/m/404/xjj.php
-测试2,https://cloud.lxweb.cn/f/BwqzU9/%E7%89%87%E5%B0%BE1.mp4
