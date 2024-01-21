@@ -25,6 +25,8 @@
       <th>序号</th>
       <th>推送类型</th>
       <th>推送地址</th>
+      <th>点播</th>
+      <th>直播</th>
     </tr>
   </thead>
   <tbody>
@@ -32,26 +34,36 @@
       <td>①</td>
       <td>仓库线路推送</td>
       <td>https://w6566.github.io/tvlive/wj.json</td>
+      <td>✔</td>
+      <td>✔</td>
     </tr>
     <tr>
       <td>②</td>
       <td>仓库线路推送</td>
       <td>https://gitea.com/w6566/tvlive/raw/branch/main/wj.json</td>
+      <td>✔</td>
+      <td>✔</td>
     </tr>
      <tr>
       <td>③</td>
       <td>仓库线路推送</td>
       <td>https://gitee.com/wj0321/tvlive/raw/main/wj.json</td>
+      <td>✔</td>
+      <td>❌</td>
     </tr>
      <tr>
       <td>④</td>
       <td>直播源推送</td>
       <td>https://w6566.github.io/tvlive/box/live/live.txt</td>
+      <td>❌</td>
+      <td>✔</td>
     </tr>
      <tr>
       <td>⑤</td>
       <td>直播源推送</td>
       <td>https://gitea.com/w6566/tvlive/raw/branch/main/box/live/live.txt</td>
+      <td>❌</td>
+      <td>✔</td>
     </tr>
 
   </tbody>
