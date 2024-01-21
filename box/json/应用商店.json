@@ -17,7 +17,7 @@
       {
         "name": "微博主页",
         "url": "https://gitee.com/wj0321/tvlive/raw/main//icon/wb.png",
-        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/sina.png", 
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/wb.png", 
         "version": ""
       }
 
@@ -107,15 +107,15 @@
       },
       {
         "name": "Catbox",
-        "url": "https://cloud.lxweb.cn/f/m1pAHj/CatBox_v20240112_2308.apk",
+        "url": "https://cloud.lxweb.cn/f/djxPt2/CatBox_v20240120_1925.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/catbox.png",
-        "version": ""
+        "version": "Ver.240120"
       },
       {
         "name": "派大星直播",
         "url": "https://cloud.lxweb.cn/f/rW26HE/%E6%B4%BE%E5%A4%A7%E6%98%9F%E7%9B%B4%E6%92%AD_1.0.6_.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/pdx.png",
-        "version": ""
+        "version": "Ver.1.0.6"
       },
       {
         "name": "小白文件管理器",
@@ -176,13 +176,13 @@
       {
         "name": "Sina微博",
         "url": "https://gitee.com/wj0321/tvlive/raw/main//icon/wb.png",
-        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/sina.png", 
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/wb.png", 
         "version": ""
       }, 
       {
         "name": "QQ群",
         "url": "https://gitee.com/wj0321/tvlive/raw/main//icon/qq-qun.png",
-        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/qq.png",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/qq-qun.png",
         "version": "无界交流"
       }
     ]
