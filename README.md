@@ -98,8 +98,7 @@
 
 
 
-### 🌐其它网址：
-<pre><code>
+### 🌐其它网址：<pre><code>
 - <a href="https://www.123pan.com/s/BmA9-fcth3.html" title="点击访问">123pan 提取码：wang</a>　https://www.123pan.com/s/BmA9-fcth3.html 
 - <a href="https://test-ipv6.com/" title="点击访问">IPV6测试</a>　https://test-ipv6.com/ 
 - <a href="https://catvodtvofficial.github.io/CatVodTVJsonEditor/" title="点击访问">配置编辑器web版</a>　https://catvodtvofficial.github.io/CatVodTVJsonEditor/
