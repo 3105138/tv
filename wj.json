@@ -165,7 +165,7 @@
 {"key":"虎牙直播","name":"无界🌏虎牙直播","type":3,"api":"./box/js/drpy2.min.js","ext":"./box/js/虎牙直播.js","style":{"type":"rect","ratio":1.755},"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"哔哩直播","name":"无界🌏哔哩直播","type":3,"api":"./box/js/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"./box/js/哔哩直播.js"},
 {"key":"格斗直播","name":"无界🌏格斗直播","type":3,"api":"./box/js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":0,"ext":"./box/js/武享吧.js"},
-{"key":"网红直播","name":"无界🌏网红直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/xyq.jar"},
+{"key":"网红直播","name":"无界🌏网红直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"changeable":1,"jar":"./box/spider/fty.jar"},
 {"key":"JustLive","name":"无界🌏JustLive","type":3,"api":"csp_JustLive","searchable":1,"changeable":0,"jar":"./box/spider/custom_spider.jar"},
 {"key":"短视频","name":"无界🌏短视频1","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"./box/json/短视频聚合.json"},
 {"key":"短视频","name":"无界🌏短视频2","type":3,"api":"csp_XBPQ","searchable":0,"quickSearch":0,"filterable":1,"ext":"./box/json/duanshipin.json"},
