@@ -1,6 +1,7 @@
 {
 	"classes": [
 		{"type_name":"典籍里的中国","type_id": "典籍里的中国"},
+		{"type_name":"宗师列传","type_id": "宗师列传"},
 		{"type_name":"朗读者","type_id": "朗读者"},
 		{"type_name":"我爱发明","type_id": "CCTV 我爱发明"},
 		{"type_name":"《读书的力量》","type_id": "《读书的力量》"},
