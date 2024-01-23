@@ -4,9 +4,9 @@
     "list": [
       {
         "name": "无界本地包",
-        "url": "https://cloud.lxweb.cn/f/8xqXH1/240118.rar",
+        "url": "https://cloud.lxweb.cn/f/zW6XHz/240123.rar",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/wj.png",
-        "version": "Ver.240118"
+        "version": "Ver.240123"
       },
       {
         "name": "无界发布页",
@@ -29,9 +29,9 @@
     "list": [
       {
         "name": "无界本地包",
-        "url": "https://cloud.lxweb.cn/f/8xqXH1/240118.rar",
+        "url": "https://cloud.lxweb.cn/f/zW6XHz/240123.rar",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/wj.png",
-        "version": "Ver.240118"
+        "version": "Ver.240123"
       },
       {
         "name": "Fongmi影视",
@@ -141,6 +141,12 @@
         "url": "https://cloud.lxweb.cn/f/7R0ptr/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98%E6%97%A7%E7%89%88%E6%9C%AC.apk",
         "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/alyp.png",
         "version": "可一键获取token"
+      },
+      {
+        "name": "R级",
+        "url": "",
+        "icon": "https://gitee.com/wj0321/tvlive/raw/main//icon/18.png",
+        "version": ""
       }
     ]
   },
