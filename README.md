@@ -1,4 +1,4 @@
-<p align="center"><img alt="https://weibo.com/wj0321" src="https://gitea.com/w6566/data/raw/branch/main/icon/wj-logo.png"></p>
+<p align="center"><img alt="https://weibo.com/wj0321" src="https://gitee.com/wj0321/tvlive/raw/main/icon/wj-logo.png"></p>
 <h2 align="center">💎 永久免费 丰富点播 多线直播 支持IPv4/IPv6双栈访问 💎</h2>
 <p align="center">
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/w6566/tvlive?style=flat-square">
