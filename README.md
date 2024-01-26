@@ -7,7 +7,7 @@
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/w6566/tvlive?style=flat-square">
 <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/w6566/tvlive?style=flat-square">
 <img alt="GitHub" src="https://img.shields.io/github/license/w6566/tvlive?style=flat-square">
-<a href="https://test-ipv6.com/"><img src="https://img.shields.io/badge/IPV6-测试" alt="Downloads" /></a>
+<a href="https://test-ipv6.com/"><img src="https://img.shields.io/badge/IPV6-测试-blue" alt="Downloads" /></a>
 
 </p>
 
