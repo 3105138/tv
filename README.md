@@ -1,7 +1,7 @@
 <p align="center"><img alt="https://weibo.com/wj0321" src="https://gitee.com/wj0321/tvlive/raw/main/icon/wj-logo.png"></p>
 <h2 align="center">💎 永久免费 丰富点播 多线直播 支持IPv4/IPv6双栈访问 💎</h2>
 <p align="center">
-<a href="https://weibo.com/wj0321"><img src="https://img.shields.io/badge/Sina-微博-red" alt="Downloads" /></a>
+<a href="https://weibo.com/wj0321"><img src="https://img.shields.io/badge/Sina微博-12.3W-red" alt="Downloads" /></a>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/w6566/tvlive?style=flat-square">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/w6566/tvlive?style=flat-square">
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/w6566/tvlive?style=flat-square">
