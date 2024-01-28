@@ -10,7 +10,7 @@ CCTV1,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/000000010000000600000000000001
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV1,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV1,http://111.20.35.103:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
 CCTV1,http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://111.59.63.32:9901/tsfile/live/1008_1.m3u8
@@ -49,7 +49,7 @@ CCTV2,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/000000010000000600000000000003
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV2,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV2,http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://111.59.63.32:9901/tsfile/live/1009_1.m3u8
 CCTV2,http://112.132.181.221:9988/hls/2/index.m3u8
@@ -83,7 +83,7 @@ CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw3746132328_-175408
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV3,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV3,http://111.20.35.103:6610/000000001000/1000000001000011218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1&stbId=00
 CCTV3,http://111.59.63.32:9901/tsfile/live/1010_1.m3u8
 CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
@@ -110,7 +110,7 @@ CCTV4,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/000000010000000600000000000004
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV4,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV4,http://111.20.35.103:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=00
 CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4,http://111.59.63.32:9901/tsfile/live/1011_1.m3u8
@@ -140,7 +140,7 @@ CCTV5,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000600000000000004
 CCTV5,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000461/index.m3u8?IAS
 CCTV5,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV5,http://111.20.35.103:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=00
 CCTV5,http://111.20.35.103:6610/yinhe/2/ch00000090990000001850/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5,http://111.59.63.32:9901/tsfile/live/1012_1.m3u8
@@ -170,7 +170,7 @@ CCTV5+,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV5+,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001008/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV5+,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV5+,http://112.132.181.221:9988/hls/6/index.m3u8
 CCTV5+,http://1278.hsmedia.top:8080/newlive/live/hls/5/live.m3u8
 CCTV5+,http://1304.hsmedia.top:8080/newlive/live/hls/6/live.m3u8
@@ -196,7 +196,7 @@ CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb13]/wh7f454c46tw3940641123_4598332
 CCTV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV6,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV6,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV6,http://111.20.35.103:6610/000000001000/1000000001000016466/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=00
 CCTV6,http://111.59.63.32:9901/tsfile/live/1013_1.m3u8
 CCTV6,http://112.132.181.221:9988/hls/7/index.m3u8
@@ -222,7 +222,7 @@ CCTV7,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/000000010000000600000000000003
 CCTV7,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?IAS
 CCTV7,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV7,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV7,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV7,http://111.20.35.103:6610/000000001000/1000000001000017218/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00
 CCTV7,http://111.20.35.103:6610/yinhe/2/ch00000090990000001291/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV7,http://111.59.63.32:9901/tsfile/live/1014_1.m3u8
@@ -246,7 +246,7 @@ CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535864683_1040
 CCTV8,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV8,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV8,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV8,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV8,http://111.20.35.103:6610/000000001000/1000000001000003736/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=00
 CCTV8,http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV8,http://112.132.181.221:9988/hls/9/index.m3u8
@@ -273,7 +273,7 @@ CCTV9,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/000000010000000600000000000003
 CCTV9,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000373/index.m3u8?IAS
 CCTV9,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV9,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV9,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV9,http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
 CCTV9,http://112.132.181.221:9988/hls/10/index.m3u8
 CCTV9,http://1278.hsmedia.top:8080/newlive/live/hls/9/live.m3u8
@@ -301,7 +301,7 @@ CCTV10,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV10,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000375/index.m3u8?IAS
 CCTV10,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV10,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV10,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV10,http://111.20.35.103:6610/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV10,http://111.59.63.32:9901/tsfile/live/1017_1.m3u8
 CCTV10,http://112.132.181.221:9988/hls/11/index.m3u8
@@ -333,7 +333,7 @@ CCTV11,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV11,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?IAS
 CCTV11,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV11,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV11,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV11,http://111.20.35.103:6610/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=00
 CCTV11,http://112.132.181.221:9988/hls/12/index.m3u8
 CCTV11,http://113.57.150.190:9000/tsfile/live/0011_1.m3u8
@@ -355,7 +355,7 @@ CCTV12,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV12,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS
 CCTV12,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV12,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV12,http://111.20.35.103:6610/000000001000/1000000001000001640/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1&stbId=00
 CCTV12,http://111.20.35.103:6610/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV12,http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
@@ -383,7 +383,7 @@ CCTV13,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV13,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
 CCTV13,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV13,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV13,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV13,http://111.20.35.103:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=00
 CCTV13,http://111.20.35.103:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV13,http://111.59.63.32:9901/tsfile/live/1020_1.m3u8
@@ -414,7 +414,7 @@ CCTV14,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV14,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS
 CCTV14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV14,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV14,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV14,http://112.132.181.221:9988/hls/15/index.m3u8
 CCTV14,http://1278.hsmedia.top:8080/newlive/live/hls/14/live.m3u8
 CCTV14,http://1304.hsmedia.top:8080/newlive/live/hls/15/live.m3u8
@@ -438,7 +438,7 @@ CCTV15,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV15,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS
 CCTV15,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV15,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV15,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV15,http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
 CCTV15,http://112.132.181.221:9988/hls/16/index.m3u8
 CCTV15,http://1304.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
@@ -465,7 +465,7 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/PLTV/1/224/3221230957/1.m3
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_1267691970/ott.mobaibox.com/PLTV/3/224/3221228320/index.m3u8?icpid=3&RTS=1674381385&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
 CCTV16,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV16,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV16,http://111.20.35.103:6610/yinhe/2/ch00000090990000002395/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV16,http://112.132.181.221:9988/hls/52/index.m3u8
 CCTV16,http://1304.hsmedia.top:8080/newlive/live/hls/17/live.m3u8
@@ -487,7 +487,7 @@ CCTV17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV17,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
 CCTV17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV17,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV17,http://111.20.35.103:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV17,http://111.59.63.32:9901/tsfile/live/1023_1.m3u8
 CCTV17,http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
@@ -499,7 +499,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 CCTV17,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV4K,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
@@ -514,13 +514,13 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw3005294665_-433598957/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1668606389&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m3u8
-CCTV8K,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 CETV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
 CETV1,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
 CETV1,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
 CETV1,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000481/index.m3u8?IAS
-CETV1,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 CETV1,https://live.v1.mk/api/bestv.php?id=zgjy1t8m/8000000
 CETV4,https://live.v1.mk/api/bestv.php?id=zgjy4hd8m/8000000
@@ -530,7 +530,7 @@ CGTN,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000000000052
 CGTN,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CGTN,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
 CGTN阿语,https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
@@ -539,14 +539,14 @@ CGTN英语,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CGTN英语,http:/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CHC动作电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC动作电影,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 CHC动作电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC高清电影,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CHC高清电影,http://221.2.36.34:8888/newlive/live/hls/57/live.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/index.m3u8
@@ -555,7 +555,7 @@ CHC高清电影,http://pi.0472.org/tv/cbn.php?id=chcgqdyHD
 CHC高清电影,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CHC家庭影院,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CHC家庭影院,http://221.2.36.34:8888/newlive/live/hls/55/live.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8
@@ -564,7 +564,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 兵器科技,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 兵器科技,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-兵器科技,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226975/index.m3u8
@@ -578,7 +578,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 第一剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 第一剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-第一剧场,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 第一剧场,http://112.132.181.221:9988/hls/61/index.m3u8
 第一剧场,http://58.19.13.92:9901/tsfile/live/1035_1.m3u8
 第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
@@ -588,7 +588,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 电视指南,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 电视指南,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-电视指南,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/index.m3u8
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226987/index.m3u8
@@ -597,7 +597,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 风云剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 风云剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云剧场,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 风云剧场,http://112.132.181.221:9988/hls/58/index.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/index.m3u8
@@ -607,7 +607,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 风云音乐,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 风云音乐,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云音乐,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/index.m3u8
 风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
@@ -616,7 +616,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-风云足球,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 风云足球,http://58.19.13.92:9901/tsfile/live/1034_1.m3u8
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/index.m3u8
@@ -626,7 +626,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 高尔夫网球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 高尔夫网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 高尔夫网球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-高尔夫网球,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226978/index.m3u8
@@ -635,28 +635,28 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 怀旧剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-怀旧剧场,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 女性时尚,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-女性时尚,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 女性时尚,https://live.goodiptv.club/api/cqyx.php?id=nvxing
 世界地理,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 世界地理,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-世界地理,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/index.m3u8
 世界地理,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226947/index.m3u8
 文化精品,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 文化精品,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-文化精品,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/index.m3u8
 文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226981/index.m3u8
@@ -665,7 +665,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 央视台球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视台球,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-央视台球,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226956/index.m3u8
 央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
@@ -684,7 +684,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安徽卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 安徽卫视,http://111.59.63.32:9901/tsfile/live/1027_1.m3u8
 安徽卫视,http://218.241.192.50:8808/udp/239.3.1.211:8064
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
@@ -708,7 +708,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 北京卫视,http://111.20.35.103:6610/000000001000/1000000001000017156/index.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1&stbId=00
 北京卫视,http://111.59.63.32:9901/tsfile/live/1030_1.m3u8
 北京卫视,http://218.241.192.50:8808/udp/239.3.1.241:8000
@@ -730,7 +730,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
 重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 重庆卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-重庆卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 重庆卫视,http://218.241.192.50:8808/udp/239.3.1.122:8160
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 重庆卫视,http://221.214.140.137:9901/tsfile/live/0142_1.m3u8
@@ -749,7 +749,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-东方卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 东方卫视,http://218.241.192.50:8808/udp/239.3.1.136:8032
 东方卫视,http://221.2.36.34:8888/newlive/live/hls/20/live.m3u8
 东方卫视,http://221.214.140.137:9901/tsfile/live/0107_1.m3u8
@@ -768,7 +768,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 东南卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
 东南卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
 东南卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000502/index.m3u8?IAS
-东南卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 东南卫视,http://111.14.181.15:9901/tsfile/live/0137_1.m3u8
 东南卫视,http://218.241.192.50:8808/udp/239.3.1.156:8148
 东南卫视,http://221.214.140.137:9901/tsfile/live/0137_1.m3u8
@@ -789,7 +789,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 广东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001031/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 广东卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001337/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-广东卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 广东卫视,http://218.241.192.50:8808/udp/239.3.1.142:8048
 广东卫视,http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
@@ -804,7 +804,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 广东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8?icpid=3&RTS=1669700926&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 广西卫视,http://[2409:8087:2001:20:2800:0:df6e:eb05]:80/wh7f454c46tw2325655923_1638953995/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-广西卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 广西卫视,http://221.213.43.82:8888/newlive/live/hls/26/live.m3u8
 广西卫视,http://221.214.140.137:9901/tsfile/live/0113_1.m3u8
 广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
@@ -817,7 +817,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 贵州卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
 贵州卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
 贵州卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000489/index.m3u8?IAS
-贵州卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 贵州卫视,http://111.14.181.15:9901/tsfile/live/0120_1.m3u8
 贵州卫视,http://111.59.63.32:9901/tsfile/live/1036_1.m3u8
 贵州卫视,http://221.214.140.137:9901/tsfile/live/0120_1.m3u8
@@ -836,7 +836,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 河北卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
 河北卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
 河北卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000487/index.m3u8?IAS
-河北卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 河北卫视,http://111.14.181.15:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://221.214.140.137:9901/tsfile/live/0117_1.m3u8
 河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
@@ -844,7 +844,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225988/index.m3u8
 河南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]/wh7f454c46tw1784575403_-1712002709/ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8?icpid=3&RTS=1669700385&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3
-河南卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 河南卫视,http://221.214.140.137:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://58.19.13.92:9901/tsfile/live/1026_1.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
@@ -860,7 +860,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-黑龙江卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 黑龙江卫视,http://111.59.63.32:9901/tsfile/live/1045_1.m3u8
 黑龙江卫视,http://218.241.192.50:8808/udp/239.3.1.133:8016
 黑龙江卫视,http://221.214.140.137:9901/tsfile/live/0143_1.m3u8
@@ -881,7 +881,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 湖北卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001299/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖北卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001347/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖北卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 湖北卫视,http://111.20.35.103:6610/000000001000/1000000001000010355/index.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1&stbId=00
 湖北卫视,http://218.241.192.50:8808/udp/239.3.1.138:8044
 湖北卫视,http://221.2.36.34:8888/newlive/live/hls/34/live.m3u8
@@ -902,7 +902,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001027/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-湖南卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 湖南卫视,http://111.20.35.103:6610/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=00
 湖南卫视,http://111.59.63.32:9901/tsfile/live/1028_1.m3u8
 湖南卫视,http://221.214.140.137:9901/tsfile/live/0017_1.m3u8
@@ -919,7 +919,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 吉林卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
 吉林卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
 吉林卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000533/index.m3u8?IAS
-吉林卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 吉林卫视,http://218.241.192.50:8808/udp/239.3.1.240:8172
 吉林卫视,http://221.214.140.137:9901/tsfile/live/0116_1.m3u8
 吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
@@ -934,7 +934,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 江苏卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001032/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 江苏卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001344/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-江苏卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 江苏卫视,http://221.2.36.34:8888/newlive/live/hls/22/live.m3u8
 江苏卫视,http://221.214.140.137:9901/tsfile/live/0018_1.m3u8
 江苏卫视,http://58.19.13.92:9901/tsfile/live/1019_1.m3u8
@@ -955,7 +955,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 江西卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?IAS
 江西卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?IAS
 江西卫视,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000522/index.m3u8?
-江西卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 江西卫视,http://111.14.181.15:9901/tsfile/live/0138_1.m3u8
 江西卫视,http://111.20.35.103:6610/000000001000/1000000001000013731/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=00
 江西卫视,http://221.2.36.34:8888/newlive/live/hls/48/live.m3u8
@@ -970,7 +970,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 辽宁卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001296/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 辽宁卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001340/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-辽宁卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 辽宁卫视,http://218.241.192.50:8808/udp/239.3.1.210:8056
 辽宁卫视,http://221.214.140.137:9901/tsfile/live/0121_1.m3u8
 辽宁卫视,http://58.19.13.92:9901/tsfile/live/1027_1.m3u8
@@ -984,7 +984,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 宁夏卫视,https://hls.ningxiahuangheyun.com/tv/nxws.m3u8
 青海卫视,http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw1221605145_-1738716276/ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8?icpid=3&RTS=1668600311&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
-青海卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221231227/1.m3u8
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
@@ -997,7 +997,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IASHttpSessionId=OTT
 三沙卫视,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 三沙卫视,http://[2409:8087:5e01:34::27]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-三沙卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 山东卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 山东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
 山东卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]/wh7f454c46tw2848465480_1677095697/ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8?icpid=3&RTS=1668597642&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
@@ -1007,7 +1007,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 山东卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000364/index.m3u8?IAS
 山东卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 山东卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001341/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-山东卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 山东卫视,http://218.241.192.50:8808/udp/239.3.1.209:8052
 山东卫视,http://221.2.36.34:8888/newlive/live/hls/30/live.m3u8
 山东卫视,http://221.214.140.137:9901/tsfile/live/0016_1.m3u8
@@ -1031,7 +1031,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 深圳卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001029/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 深圳卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-深圳卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 深圳卫视,http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
 深圳卫视,http://218.241.192.50:8808/udp/239.3.1.134:8020
 深圳卫视,http://221.214.140.137:9901/tsfile/live/0126_1.m3u8
@@ -1046,7 +1046,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225970/index.m3u8
 四川卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2502717081_11504314/ott.mobaibox.com/PLTV/3/224/3221227556/index.m3u8?icpid=3&RTS=1669701103&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
-四川卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 四川卫视,http://111.14.181.15:9901/tsfile/live/0123_1.m3u8
 四川卫视,http://111.20.35.103:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=00
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
@@ -1062,7 +1062,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 天津卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000249/index.m3u8?IAS
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 天津卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-天津卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 天津卫视,http://111.59.63.32:9901/tsfile/live/1047_1.m3u8
 天津卫视,http://218.241.192.50:8808/udp/239.3.1.141:1234
 天津卫视,http://221.2.36.34:8888/newlive/live/hls/42/live.m3u8
@@ -1074,10 +1074,10 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
 新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
-新疆卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
 云南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]/wh7f454c46tw1580749819_-793400395/ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8?icpid=3&RTS=1668600670&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
-云南卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 云南卫视,http://221.2.36.34:8888/newlive/live/hls/27/live.m3u8
 云南卫视,http://221.214.140.137:9901/tsfile/live/0119_1.m3u8
 浙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
@@ -1091,7 +1091,7 @@ CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
 浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001026/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 浙江卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-浙江卫视,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 浙江卫视,http://111.20.35.103:6610/000000001000/1000000001000009806/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=00
 浙江卫视,http://218.241.192.50:8808/udp/239.3.1.137:8036
 浙江卫视,http://221.2.36.34:8888/newlive/live/hls/24/live.m3u8
@@ -1557,7 +1557,7 @@ CCTV14,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV14,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS
 CCTV14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV14,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV14,https://gitee.com/wj0321/tvlive/raw/main/video/mv1/playlist.m3u8
+
 CCTV14,http://112.132.181.221:9988/hls/15/index.m3u8
 CCTV14,http://1278.hsmedia.top:8080/newlive/live/hls/14/live.m3u8
 CCTV14,http://1304.hsmedia.top:8080/newlive/live/hls/15/live.m3u8
