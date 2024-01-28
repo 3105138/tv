@@ -113,6 +113,7 @@
 
 - 代理加速服务：
     - https://raw.fgit.cf/w6566/tvlive/main/wj.json
+    - https://gh.xxooo.cf/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
     - https://fongmi.cachefly.net/w6566/tvlive/main/wj.json
     - https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
     - https://ghproxy.net/https://raw.githubusercontent.com/w6566/tvlive/main/wj.json
