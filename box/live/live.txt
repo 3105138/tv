@@ -1,7 +1,6 @@
 
 江西综合(电信),#genre#
-#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/江西卫视.png" group-title="卫视",江西卫视
-rtp://239.3.1.123:8164
+江西卫视,rtp://239.3.1.123:8164
 江西都市,rtsp://115.153.230.145/PLTV/88888888/224/3221227069/94448631.smil
 江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
 江西都市,rtsp://115.153.245.70/PLTV/88888888/224/3221227069/94448631.smil
