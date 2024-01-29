@@ -6,7 +6,6 @@ CCTV3(1080p),http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/ind
 CCTV3(1080p),http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226008/1/index.m3u8?fmt=ts2hls
 CCTV4(1080p),http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
 CCTV4(1080p),http://39.135.16.142:6060/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
-CCTV4美洲(1080p),http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
 CCTV5(1080p),http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226024/1/index.m3u8?fmt=ts2hls
 CCTV5(1080p),http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226248/1/index.m3u8?fmt=ts2hls
 CCTV5+(1080p),http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226171/1/index.m3u8?fmt=ts2hls
@@ -433,6 +432,3 @@ CGTN拉丁美洲频道(576P),http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN西班牙语频道(576P),http://livees.cgtn.com/500e/prog_index.m3u8
 CGTN法语频道(576P),https://livefr.cgtn.com/1000f/prog_index.m3u8
 CGTN俄语(576P),http://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
-
-CETV1,#genre#
-CETV1(1080P),http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
