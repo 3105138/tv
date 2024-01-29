@@ -1,7 +1,6 @@
 
 江西综合(电信),#genre#
-#EXTINF:-1 group-title="卫视台" tvg-id="江西卫视" tvg-logo="https://live.fanmingming.com/tv/江西卫视.png",江西卫视
-http://221.213.43.82:8888/newlive/live/hls/46/live.m3u8
+江西卫视,http://221.213.43.82:8888/newlive/live/hls/46/live.m3u8
 江西都市,rtsp://115.153.230.145/PLTV/88888888/224/3221227069/94448631.smil
 江西都市,rtsp://115.153.233.154/PLTV/88888888/224/3221227069/94448631.smil
 江西都市,rtsp://115.153.245.70/PLTV/88888888/224/3221227069/94448631.smil
