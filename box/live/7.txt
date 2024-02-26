@@ -1,0 +1,168 @@
+韩国成人1,rtmp://lm02.everyon.tv/ptv2/phd765
+韩国成人1,rtmp://111.118.21.77:1935/ptv3/phd497
+韩国成人2,rtmp://lm02.everyon.tv/ptv2/phd766
+韩国成人2,rtmp://lm03.everyon.tv:1935/ptv3/phd771
+韩国成人3,rtmp://lm01.everyon.tv/ptv/phd767
+韩国成人3,rtmp://lm03.everyon.tv/ptv3/phd499
+韩国成人5,rtmp://lm03.everyon.tv/ptv3/phd771
+韩国成人12,rtmp://lm03.everyon.tv/ptv3/phd769
+韩国成人13,rtmp://lm03.everyon.tv/ptv3/phd499
+韩国成人11,rtmp://lm03.everyon.tv/ptv3/phd497
+韩国成人10,rtmp://lm02.everyon.tv/ptv2/phd64
+韩国成人9,rtmp://lm02.everyon.tv/ptv2/phd63
+韩国成人8,rtmp://lm02.everyon.tv/ptv2/phd60
+韩国成人7,rtmp://lm02.everyon.tv/ptv2/phd59
+欧美成人01,rtmp://194.116.150.47/live/visitx.stream2
+韩国高一,rtmp://111.118.21.75:1935/ptv2/phd59
+韩国高二,rtmp://111.118.21.75:1935/ptv2/phd60
+韩国高三,rtmp://111.118.21.75:1935/ptv2/phd61
+韩国高四,rtmp://111.118.21.75:1935/ptv2/phd62
+韩国高五,rtmp://111.118.21.75:1935/ptv2/phd63
+韩国高六,rtmp://111.118.21.75:1935/ptv2/phd64
+韩国高七,rtmp://111.118.21.77:1935/ptv3/phd497
+韩国高八,rtmp://111.118.21.77:1935/ptv3/phd499
+韩国高九,rtsp://lm01.everyon.tv:1935/ptv/phd501
+韩国高十,rtsp://lm02.everyon.tv:1935/ptv2/phd765
+韩国十一,rtsp://lm02.everyon.tv:1935/ptv2/phd766
+韩国十二,rtmp://lm03.everyon.tv/ptv3/phd769
+韩国十三,rtmp://lm03.everyon.tv/ptv3/phd771
+韩国十四,rtsp://lm01.everyon.tv:1935/ptv/phd772
+韩国十五,rtmp://lm02.everyon.tv/ptv2/phd511
+松视四台,rtmp://59.124.220.46:554/live/tv4.stream
+松视四台,rtsp://59.124.220.46:554/live/tv4.stream
+CR频道|亚洲1台,http://trailers.asiamoviepass.eu/amp/hi/bf-086.flv
+CR频道|亚洲2台,http://trailers.asiamoviepass.eu/amp/hi/avgl-027a.flv
+CR频道|亚洲3台,http://trailers.eu/amp/hi/day-018.flv
+CR频道|亚洲3台,http://trailers.asiamoviepass.eu/amp/hi/day-018.flv
+CR频道|亚洲4台,http://trailers.asiamoviepass.eu/amp/hi/midd-576.flv
+CR频道|亚洲5台,http://trailers.asiamoviepass.eu/amp/hi/avgp-044.flv
+CR频道|亚洲6台,http://trailers.asiamoviepass.eu/amp/hi/avgl-030.flv
+CR频道|亚洲7台,http://trailers.asiamoviepass.eu/amp/hi/avgl-111a.flv
+CR频道|亚洲8台,http://trailers.asiamoviepass.eu/amp/hi/ezd262_Trimmed_1.flv
+CR频道|亚洲9台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/midd-573.flv
+CR频道|亚洲10台,http://trailers.asiamoviepass.eu/amp/hi/edd-092.flv
+CR频道|亚洲11台,http://trailers.asiamoviepass.eu/amp/hi/ifdva-034.flv
+CR频道|亚洲12台,http://.asiamoviepass.eu/amp/hi/bbi-014.flv
+CR频道|亚洲12台,http://trailers.asiamoviepass.eu/amp/hi/bbi-014.flv
+CR频道|亚洲13台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/avgl-128.flv
+CR频道|亚洲14台,http://trailers.asiamoviepass.eu/amp/hi/iesp-265.flv
+CR频道|亚洲15台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/kawd-264.flv
+CR频道|亚洲16台,http://trailers.asiamoviepass.eu/amp/hi/ddk-020.flv
+CR频道|亚洲17台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/juc-325.flv
+CR频道|亚洲18台,http://trailers.asiamoviepass.eu/amp/hi/avgl-004.flv
+CR频道|亚洲19台,http://trailers.asiamoviepass.eu/amp/hi/dandy-145.flv
+CR频道|亚洲20台,http://trailers.asiamoviepass.eu/amp/hi/dv1118.flv
+CR频道|亚洲21台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/bbi103.flv
+CR频道|亚洲22台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/adz216.flv
+CR频道|亚洲23台,http://trailers.asiamoviepass.eu/amp/hi/iesp-263.flv
+CR频道|亚洲24台,http://trailers.asiamoviepass.eu/amp/hi/sdms736b.flv
+CR频道|亚洲25台,http://trailers.asiamoviepass.eu/amp/hi/jme-live/avgl-149.flv
+美国新唐人,http://119.245.195.94/live330/first.m3u8
+韩版樱花台,rtmp://111.118.21.77:1935/ptv3/phd61
+韩版Deilght Empire,rtmp://111.118.21.75/ptv2/phd63
+韩版LIVE Ting TV,rtmp://111.118.21.75/ptv2/phd64
+韩版BUT GO,rtmp://111.118.21.76:1935/ptv/phd772
+韩版Midnight,rtmp://111.118.21.75:1935/ptv2/phd766
+韩版KTV-HD1,rtmp://218.38.152.31:1935/klive/klive.stream
+CR频道|Girl,rtmp://lm02.everyon.tv:1935/ptv2/phd59
+CR频道|LIVETing,rtmp://lm01.everyontv.net/ptv2/phd64
+CR频道|Pink,rtmp://lm02.everyon.tv:1935/ptv2/phd62
+CR频道|PLAYY-19+,rtmp://lm03.everyon.tv:1935/ptv3/phd769
+CR频道|韩国2,rtmp://lm03.everyon.tv:1935/ptv3/phd771
+CR频道|韩国3,rtmp://lm02.everyon.tv/ptv2/phd63
+CR频道|韩国4,rtmp://lm02.everyon.tv/ptv2/phd60
+韩国直播,rtmp://lm03.everyon.tv/ptv3/phd769
+HOT Girl,rtmp://lm02.everyon.tv:1935/ptv2/phd59
+LIVETing,rtmp://lm01.everyontv.net/ptv2/phd64
+Pink TV,rtmp://lm02.everyon.tv:1935/ptv2/phd62
+PLAYY19+,rtmp://lm03.everyon.tv:1935/ptv3/phd769
+韩国CR2,rtmp://lm03.everyon.tv:1935/ptv3/phd771
+
+CR频道|韩国10台,rtsp://lm02.everyon.tv:1935/ptv//phd61
+CR频道|韩国11台,rtsp://lm02.everyon.tv:1935/ptv//phd62
+CR频道|韩国12台,rtsp://lm02.everyon.tv:1935/ptv//phd63
+CR频道|韩国13台,rtsp://lm02.everyon.tv:1935/ptv//phd64
+CR频道|韩国1台,rtsp://lm02.everyon.tv:1935/ptv2/phd501
+CR频道|韩国2台,rtsp://lm02.everyon.tv:1935/ptv/phd63
+CR频道|韩国3台,rtsp://lm02.everyon.tv:1935/ptv/phd62
+CR频道|韩国4台,rtsp://lm02.everyon.tv:1935/ptv/phd59
+CR频道|韩国5台,rtsp://lm01.everyon.tv:1935/ptv/phd64
+CR频道|韩国6台,rtsp://lm02.everyon.tv:1935/ptv/phd61
+CR频道|韩国7台,rtsp://lm02.everyon.tv:1935/ptv/phd60
+CR频道|韩国8台,rtsp://lm02.everyon.tv:1935/ptv//phd59
+CR频道|韩国9台,rtsp://lm02.everyon.tv:1935/ptv//phd60
+CR频道|韩国playboy-TV,rtmp://lm02.everyon.tv:1935/ptv/phd499
+CR频道|韩国俱乐部,rtmp://lm02.everyon.tv:1935/ptv2/phd501
+CR频道|花花公子Splce-TV,rtmp://lm02.everyon.tv:1935/ptv2/phd497
+CR频道|欧美1,rtmp://live190.la3.origin.filmon.com:1935/live/244.high.stream
+CR频道|欧美2,rtmp://live190.la3.origin.filmon.com:1935/live/198.high.stream
+CR频道|欧美3,rtmp://live190.la3.origin.filmon.com:1935/live/245.high.stream
+CR频道|欧美4,rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream
+CR频道|欧美5,rtmp://live190.la3.origin.filmon.com:1935/live/247.high.stream
+CR频道|欧美6Gay,rtmp://live190.la3.origin.filmon.com:1935/live/73.high.stream
+CR频道|韩国playboyTV,rtmp://lm02.everyon.tv:1935/ptv/phd499
+CR频道|youdivalite,rtsp://46.249.213.87/broadcast/youdivalite-tablet.3gp
+CR频道|youdiva,rtsp://46.249.213.87/broadcast/youdiva-tablet.3gp
+CR频道|xmusic,rtmp://94.23.26.6:1935/vod/rttvswf
+CR频道|tpassion,rtmp://94.23.236.134/vod/passionswf
+CR频道|Studio TV 4,rtmp://orcadigital.mpl.miisolutions.net:1935/orcadigitalwr-live03/_definst_/studio66tv_channel4
+CR频道|Studio TV 4(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel4
+CR频道|Studio TV 3,rtmp://orcadigital.mpl.miisolutions.net:1935/orcadigitalwr-live03/_definst_/studio66tv_channel3
+CR频道|Studio TV 3(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel3
+CR频道|Studio TV 2,rtmp://orcadigital.mpl.miisolutions.net:1935/orcadigitalwr-live03/_definst_/studio66tv_channel2
+CR频道|Studio TV 2(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel2
+CR频道|Studio TV 1,rtmp://orcadigital.mpl.miisolutions.net:1935/orcadigitalwr-live03/_definst_/studio66tv_channel1
+CR频道|Studio TV 1(备用),rtsp://playback.d2see.com/wavemachine-live01/studio66tv_channel1
+CR频道|strictlybellydancing,rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp
+CR频道|Spice-TV,rtmp://lm02.everyon.tv:1935/ptv2/phd497
+CR频道|Sakura HD,rtsp://lm01.everyon.tv:1935/ptv//phd61
+CR频道|ruskoe noc2,rtsp://178.33.224.86:1935/leved/asianhc.stream
+CR频道|Ruskaja NOC,http://igordp.metronv.ru:1234/udp/239.72.0.59:1234
+CR频道|redlight-3,rtsp://46.249.213.87/broadcast/redlight-3-tablet.3gp
+CR频道|redlight-2,rtsp://46.249.213.87/broadcast/redlight-2-tablet.3gp
+CR频道|redlight-1,rtsp://46.249.213.87/broadcast/redlight-1-tablet.3gp
+CR频道|Red On SD,rtsp://lm01.everyon.tv:1935/ptv//pld60
+CR频道|Red On HD,rtsp://lm01.everyon.tv:1935/ptv//phd60
+CR频道|private spice2,rtsp://93.89.84.217:1935/cellcast/encoder2a1
+CR频道|private spice1,rtsp://93.89.84.217:1935/cellcast/encoder1a1
+CR频道|playboy chat 5,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel5
+CR频道|playboy chat 4,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel4
+CR频道|playboy chat 3,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel3
+CR频道|playboy chat 2,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel2
+CR频道|playboy chat 1,rtmp://playback.d2see.com:1935/wavemachine-live02/playboytv_channel1
+CR频道|moononebabes,rtsp://46.249.213.87/broadcast/moononebabes-tablet.3gp
+CR频道|Milk HD,rtmp://live190.la3.origin.filmon.com:1935/live/247.high.stream
+CR频道|miamiTV,rtmp://74.208.69.207/live/miamitvhd
+CR频道|metro,rtsp://46.105.53.11/metro/metro/
+CR频道|iTV Polska,mms://stream.mni.pl/ITV
+CR频道|ipure TV SD,rtmp://37.59.32.102/iptv_cellcast_24/livestream2
+CR频道|ipure TV SD(备用),rtmp://ovh.firestormmedia.tv/iptv_cellcast_24/livestream2
+CR频道|ipure TV LD,rtmp://37.59.32.102/iptv_cellcast_24/livestream3
+CR频道|ipure TV LD(备用),rtmp://ovh.firestormmedia.tv/iptv_cellcast_24/livestream3
+CR频道|ipure TV HD,rtmp://37.59.32.102/iptv_cellcast_24/livestream1
+CR频道|ipure TV HD(备用),rtmp://ovh.firestormmedia.tv/iptv_cellcast_24/livestream1
+CR频道|Gay HD,rtmp://live190.la3.origin.filmon.com:1935/live/73.high.stream
+CR频道|French Lover TV,http://89.105.156.53:7781/udp/239.255.4.5:1234
+CR频道|Fetish HD,rtmp://live190.la3.origin.filmon.com:1935/live/245.high.stream
+CR频道|desire,rtmp://94.23.236.134:1935/vod/rtswf
+CR频道|deeptouch,rtmp://94.23.236.134:1935/vod/rtv1swf
+CR频道|Cinero(JhotgirlTV),rtsp://lm01.everyon.tv:1935/ptv//phd59
+CR频道|bollywoodbikini,rtsp://46.249.213.87/broadcast/bollywoodbikini-tablet.3gp
+CR频道|bluelamp,rtmp://94.23.26.6:1935/vod/konjswf
+CR频道|blue hustler,http://89.105.156.53:7781/udp/239.255.4.4:1234
+CR频道|Black HD,rtmp://live190.la3.origin.filmon.com:1935/live/244.high.stream
+CR频道|bellaluz,rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+CR频道|bellaclub,rtsp://46.249.213.87/broadcast/bellaclub-tablet.3gp
+CR频道|Babe-spotting(备用),rtmp://46.249.213.87/rtmplive/broadcast/babespotting-tablet.3gp
+CR频道|Asian HD,rtmp://live190.la3.origin.filmon.com:1935/live/198.high.stream
+CR频道|animality,rtmp://94.23.26.6:1935/vod/animalswf
+CR频道|Amateri Czech Republic,mmsh://tv.webmisto.cz:7000
+CR频道|2hot,rtmp://94.23.236.134:1935/vod/desireswf
+CR频道|playboyTV,rtmp://lm02.everyon.tv:1935/ptv/phd499
+CR频道|成人俱乐部,rtmp://lm02.everyon.tv:1935/ptv2/phd501
+CR频道|Trans HD,rtmp://live190.la3.origin.filmon.com:1935/live/246.high.stream
+CR频道|Eurotic TV(SD),rtmp://5.10.77.106/livepkgr/astra_1
+CR频道|Eurotic TV(HD),rtmp://5.10.77.106/livepkgr/astra_2
+CR频道|Bluebird TV 1,rtmp://37.59.32.102/iptv_freeblue/tv9672
+CR频道|Bluebird TV 2,rtmp://37.59.32.102/iptv_freeblue/tv9362
+CR频道|Bluebird TV 3,rtmp://37.59.32.102/iptv_freeblue/tv9542
