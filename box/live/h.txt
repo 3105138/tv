@@ -48,6 +48,8 @@ rtsp://115.153.230.145/PLTV/88888888/224/3221226996/86128881.smil
 #EXTINF:-1 tvg-id="6560" tvg-name="CCTV - 世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视频道",CCTV - 世界地理
 rtsp://115.153.230.145/PLTV/88888888/224/3221226965/86128966.smil
 江西卫视,rtsp://115.153.245.70/PLTV/88888888/224/3221226656/46275837.smil
+#EXTINF:-1 tvg-id="" tvg-name="江西-1 江西卫视" tvg-logo="https://live.zhoujie218.top/taibiao/江西卫视.png" group-title="江西本地",江西-1 江西卫视
+rtsp://115.153.230.145/PLTV/88888888/224/3221226656/46275837.smil
 #EXTINF:-1 tvg-id="" tvg-name="江西-2 都市频道" tvg-logo="https://live.zhoujie218.top/taibiao/江西都市频道.png" group-title="江西本地",江西-2 都市频道
 rtsp://115.153.230.145/PLTV/88888888/224/3221227069/94448631.smil
 #EXTINF:-1 tvg-id="" tvg-name="江西-3 经济生活频道" tvg-logo="https://live.zhoujie218.top/taibiao/江西经济生活.png" group-title="江西本地",江西-3 经济生活频道
